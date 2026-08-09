@@ -160,28 +160,28 @@
       "type": "audio",
       "id": "audio-hoerprobe",
       "title": "Der Audio-Block",
-      "src": "/content/demo-blockformat/hoerprobe-blockformat.m4a",
-      "description": "Hör dir die kurze Aufnahme an – sie erklärt selbst, wie der Audio-Block funktioniert. Mit 🐢 0.75× hörst du sie langsamer.",
-      "transcript": "«Willkommen beim Audio-Block von EveryCate. Hördateien liegen wie Bilder direkt im Modulordner. Zum Hörverstehen gehört immer ein Transkript – und die Auswertung übernimmt eine Aufgabe nach dem Hören. Du kannst mich übrigens auch langsamer abspielen.»",
-      "credit": "Eigenaufnahme EveryCate (synthetische Stimme), CC BY-SA 4.0"
+      "src": "/content/demo-blockformat/hoerprobe-englisch.mp3",
+      "description": "Hör dir den kurzen englischen Satz an – es ist derselbe Satz wie im nächsten Block, hier als hinterlegte Audiodatei: Sie klingt auf allen Geräten gleich. Mit 🐢 0.75× hörst du sie langsamer.",
+      "transcript": "The audience claps and sings along to the catchy chorus.",
+      "credit": "Eigenaufnahme EveryCate (synthetische Stimme «Daniel», macOS), CC BY-SA 4.0"
     },
     {
       "type": "audio",
       "id": "audio-vorlesen",
       "title": "Der Audio-Block (Vorlese-Variante)",
-      "vorleseText": "This sentence is read aloud by a voice that lives on your device – no audio file needed. A recorded file usually sounds better, but this is the quick way, and it is great for language practice.",
+      "vorleseText": "The audience claps and sings along to the catchy chorus.",
       "vorleseSprache": "en-GB",
-      "description": "Ohne Audiodatei: Der Browser liest den Text mit einer lokalen Stimme vor – hier auf Englisch. Das ist der bevorzugte Weg, denn du kannst unter «Cates Stimmen» die Stimme selbst wählen; eine hinterlegte Aufnahme dient als Rückfallebene, falls keine passende Stimme da ist."
+      "description": "Derselbe Satz ohne Audiodatei: Der Browser liest ihn mit einer Stimme deines Geräts vor. Das klingt darum von Gerät zu Gerät verschieden – und unter «Cates Stimmen» kannst du die Stimme selbst wählen."
     },
     {
       "type": "simulation",
       "id": "sim-redaktion",
       "title": "Der Simulations-Block: Gespräch mit der Redaktion",
-      "intro": "Simulationen sind **verzweigte Gespräche**: Die Figur spricht, du wählst aus 2–4 Antworten, und je nach Wahl geht es anders weiter. Probier es aus – hier erklärt dir Vera, wie ein Modul zu EveryCate kommt.",
+      "intro": "Simulationen sind **verzweigte Gespräche**: Die Figur spricht, du wählst aus 2–4 Antworten, und je nach Wahl geht es anders weiter. Probier es aus – hier erklärt dir Vera, wie ein Modul zu EveryCate kommt. Vera ist eine simulierte Gesprächspartnerin, keine echte Person.",
       "figur": {
-        "name": "Vera",
-        "rolle": "Redaktorin bei EveryCate, prüft eingereichte Lernmodule",
-        "rollenPrompt": "Du bist Vera, eine erfahrene, herzliche Redaktorin bei EveryCate. Du prüfst eingereichte Lernmodule und hilfst Autorinnen und Autoren beim Content-Format (module.json, Blocktypen, Pull-Request-Weg über GitHub, Validierung). Du erklärst geduldig und praxisnah, verweist bei Detailfragen auf die Datei CONTENT-SCHEMA.md im Repository und erfindest keine Regeln, die es nicht gibt."
+        "name": "Vera (KI-Figur)",
+        "rolle": "simulierte Redaktorin bei EveryCate, prüft eingereichte Lernmodule",
+        "rollenPrompt": "Du bist Vera, eine erfahrene, herzliche Redaktorin bei EveryCate. Du prüfst eingereichte Lernmodule und hilfst Autorinnen und Autoren beim Content-Format (module.json, Blocktypen, Pull-Request-Weg über GitHub, Validierung). Du erklärst geduldig und praxisnah, verweist bei Detailfragen auf die Datei CONTENT-SCHEMA.md im Repository und erfindest keine Regeln, die es nicht gibt. Auf Fragen zu dir selbst sagst du offen, dass du eine simulierte Figur und keine echte Person bist."
       },
       "start": "start",
       "knoten": [
@@ -239,9 +239,9 @@
       "type": "planspiel",
       "id": "spiel-blocktypen",
       "title": "Der Planspiel-Block",
-      "intro": "Planspiele sind **eingebettete Lernspiele**: eine eigenständige HTML-Datei im Modulordner, die abgeschottet in einem Rahmen läuft (ohne Internet, ohne Zugriff auf die Plattform). Sie geben keine Punkte – die Auswertung übernimmt das Quiz danach. *Dieser Blocktyp steht nur dem EveryCate-Kernteam offen.*",
-      "datei": "/content/demo-blockformat/planspiel-blocktypen.html",
-      "hoehe": 460
+      "intro": "Planspiele sind **eingebettete Lernspiele**: eine eigenständige HTML-Datei im Modulordner, die abgeschottet in einem Rahmen läuft (ohne Internet, ohne Zugriff auf die Plattform). Sie geben keine Punkte – die Auswertung übernimmt das Quiz danach. *Dieser Blocktyp steht nur dem EveryCate-Kernteam offen.* Als Beispiel läuft hier der **Pausenkiosk** aus dem Modul «Pausenkiosk und Finanzberater» (Wirtschaft & Politik): Acht Runden, zwei Entscheidungen pro Runde – probier es aus!",
+      "datei": "/content/demo-blockformat/pausenkiosk.html",
+      "hoehe": 640
     },
     {
       "type": "quiz",
