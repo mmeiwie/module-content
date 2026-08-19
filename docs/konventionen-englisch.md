@@ -58,6 +58,12 @@ Musterlösungen und Quiz-`explanation`s auf Englisch. Deutsch bleiben nur: `einh
 (Katalog-Label), `credit`-Felder, LiLe-Kompetenztexte (verbatim) und gezielte didaktische
 Glossen (deutsche Übersetzungen in Vokabel-Zuordnungen, Klammer-Glossen in Alt-Texten).
 
+**Zusatzregel Stufe-7-Strang (A1, `englisch-stufe7-…`):** Der Welcome-Block ist deutsch
+(bewusster Entscheid für den Wiedereinstieg aus der Primarschule); alle übrigen Erklär-,
+Übungs- und Lösungstexte stehen in **einfachem A1-Englisch mit deutschen Glossen**
+(«**to be** means **sein** in German», Pronomen-Glossen «I (ich)» in Tabellen). Der
+A2–B1-Strang (`englisch-01…05`) bleibt durchgängig englisch.
+
 ## 3. Lehrplanbezug (`curricula`) und LiLe
 
 Registrierte Lehrplan-Kennungen: `li`, `ch`, `de`, `at` – je Lehrplan genau ein Eintrag,
