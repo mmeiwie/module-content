@@ -1,0 +1,612 @@
+{
+  "schemaVersion": 3,
+  "id": "englisch-06-i-heard-them-play",
+  "title": "I heard them play (extended)",
+  "description": "«I heard them play» – an extension module (Level B1) in the English learning path «Cate's Sound Lab», an optional deep dive for everyone who wants a bigger challenge: You learn the pattern verb + object + infinitive, decide when the infinitive takes to and when it does not – and translate the pattern correctly into German, with a short look at where it comes from.",
+  "curricula": [
+    {
+      "curriculum": "li",
+      "subject": "E",
+      "subjectName": "Englisch",
+      "grades": [9],
+      "competencies": [
+        {
+          "code": "FS1E.5.D.1",
+          "description": "Die Schülerinnen und Schüler können grammatische Strukturen in Texten erkennen und für das Verständnis nutzen sowie beim Sprechen und Schreiben anwenden."
+        },
+        {
+          "code": "FS1E.5.D.2",
+          "description": "Die Schülerinnen und Schüler können grammatische Strukturen verstehen und mit anderen Sprachen vergleichen."
+        }
+      ]
+    }
+  ],
+  "sequenz": 6,
+  "einheit": "Cate's Sound Lab – über Musik sprechen",
+  "language": "en",
+  "languageLearning": true,
+  "durationMinutes": 45,
+  "difficulty": "anspruchsvoll",
+  "keywords": [
+    "Englisch",
+    "Musik",
+    "erweitert",
+    "extended",
+    "Grammatik",
+    "Infinitiv",
+    "verb patterns",
+    "AcI",
+    "Übersetzen",
+    "hear",
+    "let",
+    "make"
+  ],
+  "learningObjectives": [
+    "I can recognise and build the pattern verb + object + infinitive with the most important verbs.",
+    "I know when the infinitive takes to and when it stands without to.",
+    "I can translate the pattern correctly into German – with a dass-clause, except after see, hear and let."
+  ],
+  "sources": [
+    {
+      "title": "LiLe – Liechtensteiner Lehrplan",
+      "url": "https://www.lile.li"
+    }
+  ],
+  "license": "CC BY-SA 4.0",
+  "authors": [
+    "Anna Rinderer"
+  ],
+  "requires": [
+    "englisch-02-listen-or-hear",
+    "englisch-03-watch-or-see",
+    "englisch-04-sound-check"
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "title": "Welcome to «I heard them play»!",
+      "body": "This is an **extended module** of «Cate's Sound Lab» – made for the advanced track, and open to everyone who wants a bigger challenge.\n\nLook at these two sentences:\n\n> **I heard them play.**\n>\n> **I want you to listen.**\n\nWhat do they have in common? Both follow the same pattern: a verb, then an object, then an infinitive. And what is different? After *heard*, the infinitive stands alone – after *want*, it needs **to**. That little word is the whole story of this module.\n\nYou will:\n\n- learn the three verb groups of the pattern **verb + object + infinitive**,\n- decide when the infinitive takes **to** and when it does not,\n- translate the pattern correctly into German – and see where it comes from."
+    },
+    {
+      "type": "text",
+      "title": "The three groups",
+      "body": "**Group 1 – infinitive WITHOUT to (bare infinitive):**\n\nVerbs of perception – *see, hear, watch, feel, notice*:\n\n- I saw him **cross** the street.\n- We heard the band **play** live.\n\nAnd the two bosses *let* and *make*:\n\n- Let him **finish** the song.\n- The producer made them **record** it again.\n\n**Group 2 – infinitive WITH to:**\n\n*want, would like, expect, tell, ask, allow, teach*:\n\n- I want you **to listen**.\n- She told him **to practise**.\n\nAlso *know* in formal English: «I know him **to be** reliable.»\n\n**Group 3 – special cases, to is optional:**\n\n- *help*: She helped me **(to) carry** the amp.\n- after *have never known*: I've never known him **(to) lose** his temper.\n\nThe chart below puts the three groups side by side – keep it open while you practise."
+    },
+    {
+      "type": "image",
+      "title": "The pattern at a glance",
+      "src": "/content/englisch-06-i-heard-them-play/verb-object-infinitive.png",
+      "alt": "Chart titled «verb + object + infinitive» with the subtitle «Three groups – the question is: to or no to?» and three columns. Column 1, blue, «no to»: the line «verbs of perception» above see, hear, watch, feel, notice, then «and the two bosses» above let and make, with the example «We heard the band play live.» Column 2, orange, «with to»: want, would like, expect, tell, ask, allow, teach, then «formal English only» above know, with the example «She told him to practise.» Column 3, green, «to optional»: help, then «and after» above have never known, with the example «She helped me (to) carry the amp.» A dark bar at the bottom splits two examples into the parts verb, object and infinitive: I heard – them – play, and I want – you – to listen. A small footer line reads «EveryCate · English Module 6 ‹I heard them play› · own work · CC BY-SA 4.0».",
+      "caption": "Three groups, one question: to or no to? The dark bar at the bottom shows the pattern itself – verb, object, infinitive.",
+      "credit": "Eigene Darstellung, EveryCate, CC BY-SA 4.0"
+    },
+    {
+      "type": "text",
+      "title": "Hear them play – or hear them playing?",
+      "body": "One small extra for Group 1: after verbs of perception, English can also use the **-ing form** – with a small difference in meaning.\n\n- **I heard them play.** → the whole thing, from the first note to the last.\n- **I heard them playing.** → you caught them in the middle of it.\n\nThat is all you need here – in this module, we practise the infinitive."
+    },
+    {
+      "type": "text",
+      "title": "How to translate it – auf Deutsch",
+      "body": "Jetzt wird es spannend – denn wörtlich übersetzen funktioniert hier NICHT.\n\n**Der Standard: ein dass-Satz.**\n\n- «I want you to listen.» = **«Ich will, dass du zuhörst.»** – und nicht: «Ich will dich zuhören.»\n\n**Die Ausnahme: Wahrnehmungsverben.** Bei *sehen* und *hören* kann das Deutsche die Konstruktion behalten:\n\n- «I heard them play.» = **«Ich hörte sie spielen.»** (auch möglich: «Ich hörte, wie sie spielten.»)\n\n**Und noch ein Überlebender: lassen.**\n\n- «Let him go.» = **«Lass ihn gehen.»**\n\nIm Deutschen überlebt die Konstruktion Akkusativ + Infinitiv also nur bei **sehen, hören, lassen** (und vereinzelt bei *fühlen/spüren*). Überall sonst brauchst du einen Nebensatz – meist mit *dass* – oder einen Infinitiv mit *zu* («Sie erlaubte mir mitzukommen»).\n\n> **Where does this come from?**\n>\n> Aus dem Lateinunterricht kennst du vielleicht den **AcI** (*accusativus cum infinitivo*): «**Video eum venire.**» = «Ich sehe ihn kommen.» / «Ich sehe, dass er kommt.» Im Latein stand er nach Verben des Sagens, Meinens und Wahrnehmens.\n>\n> Auch die germanischen Sprachen kennen diese Konstruktion seit jeher – bei *see* und *hear* ist sie altes Erbe, bei Verben wie *know* oder *expect* halfen lateinische Vorbilder nach. Das Deutsche dagegen hat sie fast ganz durch den dass-Satz ersetzt."
+    },
+    {
+      "type": "quiz",
+      "id": "quiz-uebung1",
+      "title": "Exercise 1: to or no to?",
+      "intro": "Choose the correct form for each gap. Think: which group does the first verb belong to?",
+      "teilkompetenzen": [
+        "en.grammatik.verb-objekt-infinitiv-anwenden-b1"
+      ],
+      "questions": [
+        {
+          "id": "u1-q1",
+          "type": "single_choice",
+          "prompt": "Our music teacher made us ___ the scales every morning.",
+          "options": [
+            {
+              "text": "to practise"
+            },
+            {
+              "text": "practise",
+              "correct": true
+            },
+            {
+              "text": "practising"
+            },
+            {
+              "text": "practised"
+            }
+          ],
+          "explanation": "*Make* belongs to Group 1: the infinitive stands WITHOUT *to* – «made us practise». *Made us to practise* is the classic trap, and the -ing form and the past form do not fit the pattern at all."
+        },
+        {
+          "id": "u1-q2",
+          "type": "single_choice",
+          "prompt": "I want you ___ the lyrics before the rehearsal.",
+          "options": [
+            {
+              "text": "to learn",
+              "correct": true
+            },
+            {
+              "text": "learn"
+            },
+            {
+              "text": "learning"
+            },
+            {
+              "text": "learns"
+            }
+          ],
+          "explanation": "*Want* belongs to Group 2: the infinitive needs *to* – «I want you to learn». Without *to* the sentence is wrong in English, even though it would work after *let* or *make*."
+        },
+        {
+          "id": "u1-q3",
+          "type": "single_choice",
+          "prompt": "We watched the drummer ___ her solo.",
+          "options": [
+            {
+              "text": "to play"
+            },
+            {
+              "text": "played"
+            },
+            {
+              "text": "play",
+              "correct": true
+            },
+            {
+              "text": "plays"
+            }
+          ],
+          "explanation": "*Watch* is a verb of perception – Group 1, no *to*: «We watched the drummer play her solo.» The past form and the -s form never follow the object in this pattern."
+        },
+        {
+          "id": "u1-q4",
+          "type": "single_choice",
+          "prompt": "The singer let me ___ his old guitar.",
+          "options": [
+            {
+              "text": "to try"
+            },
+            {
+              "text": "try",
+              "correct": true
+            },
+            {
+              "text": "tried"
+            },
+            {
+              "text": "trying"
+            }
+          ],
+          "explanation": "*Let* takes the bare infinitive: «let me try». *Let me to try* is never correct – not even in formal English."
+        },
+        {
+          "id": "u1-q5",
+          "type": "single_choice",
+          "prompt": "She told her brother ___ the amp off the stage.",
+          "options": [
+            {
+              "text": "carry"
+            },
+            {
+              "text": "carried"
+            },
+            {
+              "text": "carrying"
+            },
+            {
+              "text": "to carry",
+              "correct": true
+            }
+          ],
+          "explanation": "*Tell* belongs to Group 2: «told him to carry». Leaving out *to* after *tell*, *want* or *expect* is one of the most common mistakes with this pattern."
+        },
+        {
+          "id": "u1-q6",
+          "type": "single_choice",
+          "prompt": "Did you hear the crowd ___ the chorus?",
+          "options": [
+            {
+              "text": "to sing"
+            },
+            {
+              "text": "sang"
+            },
+            {
+              "text": "sing",
+              "correct": true
+            },
+            {
+              "text": "sings"
+            }
+          ],
+          "explanation": "*Hear* is a verb of perception – no *to*: «hear the crowd sing». (You could also say «hear the crowd singing» if you were there in the middle of it – but never «to sing».)"
+        }
+      ]
+    },
+    {
+      "type": "lueckentext",
+      "id": "lt-uebung2",
+      "title": "Exercise 2: Build the sentences",
+      "intro": "Drag the building blocks – object + infinitive – into the gaps (on a phone: tap the block first, then the gap). **Careful: three blocks in the list fit nowhere.**",
+      "modus": "wortbank",
+      "teilkompetenzen": [
+        "en.grammatik.verb-objekt-infinitiv-anwenden-b1"
+      ],
+      "text": "Everyone in the hall heard {{1}} the high note.\nThe band's manager expects {{2}} ready backstage at six o'clock sharp.\nLet {{3}} the last verse – it is nearly midnight!\nOur conductor made {{4}} the guitars to the piano before the show.\nShe asked {{5}} the tickets online.\nI noticed {{6}} the hall through the back door.\nThe music school allowed {{7}} in the adults' choir, even though I am only fourteen.",
+      "luecken": [
+        {
+          "antworten": [
+            "her hit"
+          ]
+        },
+        {
+          "antworten": [
+            "them to be"
+          ]
+        },
+        {
+          "antworten": [
+            "us finish"
+          ]
+        },
+        {
+          "antworten": [
+            "us tune"
+          ]
+        },
+        {
+          "antworten": [
+            "him to buy"
+          ]
+        },
+        {
+          "antworten": [
+            "them leave"
+          ]
+        },
+        {
+          "antworten": [
+            "me to sing"
+          ]
+        }
+      ],
+      "ablenker": [
+        "them be",
+        "us to tune",
+        "him buy"
+      ]
+    },
+    {
+      "type": "lueckentext",
+      "id": "lt-uebung3",
+      "title": "Exercise 3: Type the form",
+      "intro": "Complete each sentence with the verb in brackets – with or without *to*. Type only the infinitive part.",
+      "modus": "eingabe",
+      "teilkompetenzen": [
+        "en.grammatik.verb-objekt-infinitiv-anwenden-b1"
+      ],
+      "text": "The teacher made us {{1}} (repeat) the chorus.\nI would like you {{2}} (meet) our new bass player.\nNobody saw the drummer {{3}} (leave) the backstage area.\nThe conductor told the choir {{4}} (stand) up.\nPlease let the intro {{5}} (play) to the end.\nWe expect the concert {{6}} (start) at eight.",
+      "luecken": [
+        {
+          "antworten": [
+            "repeat"
+          ]
+        },
+        {
+          "antworten": [
+            "to meet"
+          ]
+        },
+        {
+          "antworten": [
+            "leave"
+          ]
+        },
+        {
+          "antworten": [
+            "to stand"
+          ]
+        },
+        {
+          "antworten": [
+            "play"
+          ]
+        },
+        {
+          "antworten": [
+            "to start"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "zuordnung",
+      "id": "zu-uebersetzen",
+      "title": "Exercise 4: Match the translations",
+      "intro": "Eight English sentences, eight German translations. The words look similar on purpose – only the RULE tells you which translation is right: dass-clause, or the old pattern with *sehen/hören/lassen*?",
+      "teilkompetenzen": [
+        "en.grammatik.verb-objekt-infinitiv-uebersetzen-b1"
+      ],
+      "paare": [
+        {
+          "links": {
+            "text": "I heard her sing."
+          },
+          "rechts": {
+            "text": "Ich hörte sie singen."
+          }
+        },
+        {
+          "links": {
+            "text": "I want her to sing."
+          },
+          "rechts": {
+            "text": "Ich will, dass sie singt."
+          }
+        },
+        {
+          "links": {
+            "text": "We saw them leave the stage."
+          },
+          "rechts": {
+            "text": "Wir sahen sie die Bühne verlassen."
+          }
+        },
+        {
+          "links": {
+            "text": "We expected them to leave the stage."
+          },
+          "rechts": {
+            "text": "Wir erwarteten, dass sie die Bühne verlassen."
+          }
+        },
+        {
+          "links": {
+            "text": "Let her wait outside."
+          },
+          "rechts": {
+            "text": "Lass sie draussen warten."
+          }
+        },
+        {
+          "links": {
+            "text": "She told her to wait outside."
+          },
+          "rechts": {
+            "text": "Sie sagte ihr, dass sie draussen warten soll."
+          }
+        },
+        {
+          "links": {
+            "text": "The teacher let us listen to the song."
+          },
+          "rechts": {
+            "text": "Der Lehrer liess uns das Lied anhören."
+          }
+        },
+        {
+          "links": {
+            "text": "The teacher wanted us to listen to the song."
+          },
+          "rechts": {
+            "text": "Der Lehrer wollte, dass wir uns das Lied anhören."
+          }
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "id": "quiz-uebung5",
+      "title": "Exercise 5: Find the correct sentence",
+      "intro": "One of the two sentences is correct, the other one has a typical mistake. Choose the correct one – and read the explanation to see what the mistake was.",
+      "teilkompetenzen": [
+        "en.grammatik.verb-objekt-infinitiv-anwenden-b1",
+        "en.grammatik.verb-objekt-infinitiv-uebersetzen-b1"
+      ],
+      "questions": [
+        {
+          "id": "u5-q1",
+          "type": "single_choice",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            {
+              "text": "The producer made them to play the song again."
+            },
+            {
+              "text": "The producer made them play the song again.",
+              "correct": true
+            }
+          ],
+          "explanation": "*Make* takes the bare infinitive: «made them play». The extra *to* after *make*, *let*, *see* or *hear* is the most common mistake with this pattern."
+        },
+        {
+          "id": "u5-q2",
+          "type": "single_choice",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            {
+              "text": "We expect the band to arrive at seven.",
+              "correct": true
+            },
+            {
+              "text": "We expect the band arrive at seven."
+            }
+          ],
+          "explanation": "*Expect* belongs to Group 2 – the infinitive needs *to*: «expect the band to arrive». Without *to*, the sentence sounds like a Group-1 verb, but *expect* is not one."
+        },
+        {
+          "id": "u5-q3",
+          "type": "single_choice",
+          "prompt": "Which German translation of «I want you to help me» is correct?",
+          "options": [
+            {
+              "text": "«Ich will, dass du mir hilfst.»",
+              "correct": true
+            },
+            {
+              "text": "«Ich will dich, mir zu helfen.»"
+            }
+          ],
+          "explanation": "Standard translation = dass-clause: «Ich will, dass du mir hilfst.» The word-for-word version is not German – the old pattern mainly survives with *sehen, hören, lassen*."
+        },
+        {
+          "id": "u5-q4",
+          "type": "single_choice",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            {
+              "text": "We saw the singer to smile."
+            },
+            {
+              "text": "We saw the singer smile.",
+              "correct": true
+            }
+          ],
+          "explanation": "*See* is a verb of perception – bare infinitive: «saw the singer smile». With *to* it would only be correct after a Group-2 verb like *expect* or *ask*."
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "id": "quiz-final",
+      "title": "Final quiz: the pattern, the little to, and the dass-Satz",
+      "intro": "Six questions: five from this module – plus one look back at an earlier module of the unit.",
+      "teilkompetenzen": [
+        "en.grammatik.verb-objekt-infinitiv-anwenden-b1",
+        "en.grammatik.verb-objekt-infinitiv-uebersetzen-b1"
+      ],
+      "questions": [
+        {
+          "id": "fi-q1",
+          "type": "single_choice",
+          "prompt": "After which verbs does the infinitive stand WITHOUT to?",
+          "options": [
+            {
+              "text": "see, hear, let, make",
+              "correct": true
+            },
+            {
+              "text": "want, tell, ask"
+            },
+            {
+              "text": "expect, allow, teach"
+            },
+            {
+              "text": "would like, know"
+            }
+          ],
+          "explanation": "Group 1 = verbs of perception (*see, hear, watch, feel, notice*) plus *let* and *make* – they all take the bare infinitive. The other three lists are Group-2 verbs, which need *to*."
+        },
+        {
+          "id": "fi-q2",
+          "type": "single_choice",
+          "prompt": "«They let us ___ backstage.» – What fits into the gap?",
+          "options": [
+            {
+              "text": "to go"
+            },
+            {
+              "text": "going"
+            },
+            {
+              "text": "go",
+              "correct": true
+            },
+            {
+              "text": "goes"
+            }
+          ],
+          "explanation": "*Let* takes the bare infinitive: «let us go backstage». No *to*, no -ing, no -s – just the plain verb."
+        },
+        {
+          "id": "fi-q3",
+          "type": "single_choice",
+          "prompt": "«Ich spürte, wie der Boden bebte.» – Which English sentence says the same?",
+          "options": [
+            {
+              "text": "I felt the floor to shake under my feet."
+            },
+            {
+              "text": "I felt the floor shake under my feet.",
+              "correct": true
+            },
+            {
+              "text": "I feel the floor shake under my feet."
+            },
+            {
+              "text": "I wanted the floor to shake under my feet."
+            }
+          ],
+          "explanation": "*Feel* is a verb of perception – bare infinitive, no *to*: «I felt the floor shake». The *to*-version is the classic trap, *I feel* is the wrong tense («spürte» is past), and *wanted* changes the meaning completely."
+        },
+        {
+          "id": "fi-q4",
+          "type": "single_choice",
+          "prompt": "In which German verbs can you still use Akkusativ + plain infinitive – no zu, no dass – as in «Ich hörte sie spielen»?",
+          "options": [
+            {
+              "text": "sehen, hören, lassen",
+              "correct": true
+            },
+            {
+              "text": "wollen, sagen, fragen"
+            },
+            {
+              "text": "erwarten, erlauben, bitten"
+            },
+            {
+              "text": "wissen, denken"
+            }
+          ],
+          "explanation": "The plain pattern – Akkusativ + infinitive without *zu* – survives only with *sehen, hören, lassen* (and sometimes *fühlen/spüren*): «Ich hörte sie spielen», «Lass ihn gehen». With most other verbs, German uses a dass-clause or a *zu*-infinitive: «Ich erlaube dir zu gehen» – that is a different construction."
+        },
+        {
+          "id": "fi-q5",
+          "type": "single_choice",
+          "prompt": "«The teacher taught us ___ the guitar.» – What fits into the gap?",
+          "options": [
+            {
+              "text": "play"
+            },
+            {
+              "text": "to play",
+              "correct": true
+            },
+            {
+              "text": "playing"
+            },
+            {
+              "text": "played"
+            }
+          ],
+          "explanation": "*Teach* belongs to Group 2: «taught us to play the guitar». It looks similar to *let* and *make*, but it always needs *to*."
+        },
+        {
+          "id": "fi-q6",
+          "type": "single_choice",
+          "prompt": "A look back at the unit: «It was ___ powerful concert that we talked about it for weeks.»",
+          "options": [
+            {
+              "text": "so"
+            },
+            {
+              "text": "such"
+            },
+            {
+              "text": "so much"
+            },
+            {
+              "text": "such a",
+              "correct": true
+            }
+          ],
+          "explanation": "At the end there is a noun (*concert*) with an adjective before it – so you need *such a*. It is the same rule you practised in [[modul:englisch-04-sound-check]]: «such a great concert». *So* would need the adjective alone."
+        }
+      ]
+    }
+  ]
+}
