@@ -496,6 +496,20 @@
   },
   "fachbereich": "en"
  },
+ "en.grammatik.verb-objekt-infinitiv-anwenden-b1": {
+  "name": {
+   "de": "B1: Ich kann die Konstruktion Verb + Objekt + Infinitiv bilden und entscheiden, ob der Infinitiv mit oder ohne to steht.",
+   "en": "B1: I can build the verb + object + infinitive pattern and decide whether the infinitive takes to or stands without it."
+  },
+  "fachbereich": "en"
+ },
+ "en.grammatik.verb-objekt-infinitiv-uebersetzen-b1": {
+  "name": {
+   "de": "B1: Ich kann englische Sätze mit Verb + Objekt + Infinitiv richtig ins Deutsche übersetzen – mit dass-Satz oder mit sehen/hören/lassen.",
+   "en": "B1: I can translate English verb + object + infinitive sentences correctly into German – with a dass-clause or with sehen/hören/lassen."
+  },
+  "fachbereich": "en"
+ },
  "geschichte.zwischenkriegszeit.krisenketten-erklaeren": {
   "name": {
    "de": "Ich kann die Krisenketten von der Hyperinflation 1923 bis zur Machtübernahme 1933 erklären – samt Folgen für Liechtenstein.",
