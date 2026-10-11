@@ -809,5 +809,45 @@
   },
   "fachbereich": "uef",
   "interview": true
+ },
+ "geschichte.staatsformen.systeme-unterscheiden": {
+  "name": {
+   "de": "Ich kann Monarchie und Republik von Demokratie und Diktatur unterscheiden und Staaten wie Liechtenstein in die Vierfelder-Matrix einordnen.",
+   "en": "I can distinguish monarchy and republic from democracy and dictatorship and place states such as Liechtenstein in the four-field matrix."
+  },
+  "beschreibung": {
+   "de": "Staatsoberhaupt (Erbfolge oder Wahl) und Machtkontrolle (freie Wahlen, Gewaltenteilung, Grundrechte, Opposition) als getrennte Fragen; Liechtensteiner Verfassung von 1921; Totalitarismus.",
+   "en": "Head of state (hereditary or elected) and control of power (free elections, separation of powers, basic rights, opposition) as separate questions; Liechtenstein's 1921 constitution; totalitarianism."
+  },
+  "fachbereich": "geschichte"
+ },
+ "geschichte.nationalsozialismus.faschismus-einordnen": {
+  "name": {
+   "de": "Ich kann den Faschismus in Italien beschreiben und erklären, was den Nationalsozialismus davon unterscheidet.",
+   "en": "I can describe fascism in Italy and explain what distinguishes National Socialism from it."
+  },
+  "beschreibung": {
+   "de": "Herkunft des Begriffs, Mussolini und der Marsch auf Rom 1922, Merkmale faschistischer Bewegungen, rassistischer Antisemitismus als Kern des Nationalsozialismus.",
+   "en": "Origin of the term, Mussolini and the March on Rome in 1922, features of fascist movements, racist antisemitism as the core of National Socialism."
+  },
+  "fachbereich": "geschichte"
+ },
+ "geschichte.nationalsozialismus.machtuebernahme-erklaeren": {
+  "name": {
+   "de": "Ich kann erklären, wie die Nationalsozialisten 1933/34 die Demokratie Schritt für Schritt in eine Diktatur verwandelten.",
+   "en": "I can explain how the National Socialists turned democracy into a dictatorship step by step in 1933/34."
+  },
+  "beschreibung": {
+   "de": "Ernennung Hitlers am 30. Januar 1933, Reichstagsbrandverordnung, Ermächtigungsgesetz, Gleichschaltung, Röhm-Putsch, Tod Hindenburgs, Führerprinzip, Begriff der Scheinlegalität.",
+   "en": "Hitler's appointment on 30 January 1933, Reichstag Fire Decree, Enabling Act, Gleichschaltung, Röhm purge, Hindenburg's death, Führer principle, the concept of pseudo-legality."
+  },
+  "fachbereich": "geschichte"
+ },
+ "geschichte.methoden.ereignisse-zeitlich-ordnen": {
+  "name": {
+   "de": "Ich kann historische Ereignisse in die richtige zeitliche Reihenfolge bringen.",
+   "en": "I can put historical events in the correct chronological order."
+  },
+  "fachbereich": "geschichte"
  }
 }

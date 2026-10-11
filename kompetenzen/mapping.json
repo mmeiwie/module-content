@@ -766,5 +766,39 @@
   "ch": [
    "Informationen nutzen.Informationen bewerten"
   ]
+ },
+ "geschichte.staatsformen.systeme-unterscheiden": {
+  "li": [
+   "RZG.8.1"
+  ],
+  "ch": [
+   "RZG.8.1"
+  ]
+ },
+ "geschichte.nationalsozialismus.faschismus-einordnen": {
+  "li": [
+   "RZG.6.3"
+  ],
+  "ch": [
+   "RZG.6.3"
+  ]
+ },
+ "geschichte.nationalsozialismus.machtuebernahme-erklaeren": {
+  "li": [
+   "RZG.6.3",
+   "RZG.8.2"
+  ],
+  "ch": [
+   "RZG.6.3",
+   "RZG.8.2"
+  ]
+ },
+ "geschichte.methoden.ereignisse-zeitlich-ordnen": {
+  "li": [
+   "RZG.6.3"
+  ],
+  "ch": [
+   "RZG.6.3"
+  ]
  }
 }
