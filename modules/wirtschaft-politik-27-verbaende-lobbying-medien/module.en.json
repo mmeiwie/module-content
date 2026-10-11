@@ -1,0 +1,1874 @@
+{
+ "_hinweis": "AUTOMATISCH ERZEUGT aus module.json (Deutsch). Nicht von Hand bearbeiten. Aenderungen am Master vornehmen und neu erzeugen: npm run uebersetze -- --modul wirtschaft-politik-27-verbaende-lobbying-medien --sprache en",
+ "derivedFrom": {
+  "language": "de",
+  "masterHash": "sha256:ebe731dd1c8d847b0588089cd89e8fa8571133fa7a9e305ed940a6adaea0b33e",
+  "masterCommit": "47812d7",
+  "hintsHash": null,
+  "generatedAt": "2026-10-11",
+  "generator": "uebersetze.ts v1",
+  "model": "datei:codex-antworten.json",
+  "selfHash": "sha256:36d56a405774003743b9948f56a2ee94aabcdc1ee177ee1758b7ab835e0fb0ae"
+ },
+ "schemaVersion": 3,
+ "id": "wirtschaft-politik-27-verbaende-lobbying-medien",
+ "title": "Representing interests: associations, lobbying and the media",
+ "description": "Who is behind a campaign – and what do they stand to gain? Here you will learn how associations bring interests together, weigh up the benefits and risks of lobbying, recognise the media's dual role in amplifying campaigns and scrutinising them – and apply a key question in citizenship education to entirely fictional campaigns: who is behind the message?",
+ "curricula": [
+  {
+   "curriculum": "li",
+   "subject": "WP",
+   "subjectName": "Economics & Politics",
+   "grades": [
+    9
+   ],
+   "competencies": [
+    {
+     "code": "MI.1.2",
+     "description": "Die Schülerinnen und Schüler können Medien und Medienbeiträge entschlüsseln, reflektieren und nutzen."
+    },
+    {
+     "code": "LBO.5.6",
+     "description": "Die Schülerinnen und Schüler können Anliegen einbringen, Konflikte wahrnehmen und mögliche Lösungen suchen."
+    }
+   ]
+  }
+ ],
+ "sequenz": 27,
+ "einheit": "Topic E: Politics & Economics",
+ "language": "en",
+ "durationMinutes": 45,
+ "difficulty": "mittel",
+ "keywords": [
+  "interests",
+  "associations",
+  "employers' association",
+  "trade union",
+  "environmental association",
+  "consumer protection",
+  "lobbying",
+  "campaigns",
+  "studies",
+  "media",
+  "watchdog",
+  "source",
+  "transparency"
+ ],
+ "learningObjectives": [
+  "I can explain how individual interests are brought together through employers' associations, trade unions, and environmental and consumer organisations.",
+  "I can take a balanced view of lobbying: I know its legitimate role – contributing expertise and giving those affected a voice – and its risks: unequal funding and influence behind closed doors.",
+  "I can describe the media's dual role: they amplify campaigns while also scrutinising who is behind them.",
+  "I can apply the question ‘Who is behind the message?’ to campaigns and studies – and explain why a source with an interest in the outcome does not automatically mean the message is untrue."
+ ],
+ "sources": [
+  {
+   "title": "LiLe – Liechtensteiner Lehrplan",
+   "url": "https://www.lile.li"
+  },
+  {
+   "title": "Bundeszentrale für politische Bildung (bpb)",
+   "url": "https://www.bpb.de"
+  },
+  {
+   "title": "Video (extern): Lobbyismus einfach erklärt – explainity, 3:38",
+   "url": "https://www.youtube.com/watch?v=7xV0E38SMm0"
+  }
+ ],
+ "license": "CC BY-SA 4.0",
+ "authors": [
+  "Anna Rinderer"
+ ],
+ "requires": [
+  "wirtschaft-politik-19-was-ist-politik",
+  "wirtschaft-politik-22-medien-und-meinungsbildung",
+  "wirtschaft-politik-26-wirtschaftspolitik-standort"
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "title": "From an individual wish to a strong voice",
+   "body": "Imagine you think the youth centre needs longer opening hours. On your own, you achieve little – a single letter gets overlooked. But if fifty young people join forces, collect signatures and send two representatives to the municipal offices, things look different. **Shared interests carry more weight when people act together than when they speak alone.**\n\nRepresenting interests in business and politics works on exactly this principle. Organisations that bring together many individual interests and represent them collectively are called **associations**. You should know four types – deliberately without real names here, because the point is to understand the pattern:\n\n- **Employers' associations** represent businesses' interests: good conditions for businesses to operate ([[modul:wirtschaft-politik-26-wirtschaftspolitik-standort]]), little bureaucracy and low charges.\n- **Trade unions** represent employees: fair wages, regulated working hours and safety at work.\n- **Environmental organisations** stand up for nature and the climate – interests that cannot speak for themselves.\n- **Consumer organisations** represent you as a buyer: safe products, understandable contracts and fair prices.\n\nRemember: **representing interests is legitimate.** From [[modul:wirtschaft-politik-19-was-ist-politik]], you know that this is exactly what politics involves – making different interests visible and negotiating binding solutions. Associations are as much a part of an open society as negotiation itself. The interesting question is **how** this influence is exercised – and who can see it."
+  },
+  {
+   "type": "schaubild",
+   "title": "The participants at a glance",
+   "szene": {
+    "elemente": [
+     {
+      "id": "titel",
+      "x": 400,
+      "y": 0,
+      "width": 350.37,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1009437315,
+      "type": "text",
+      "text": "How interests shape policy",
+      "fontSize": 28,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "untertitel",
+      "x": 270,
+      "y": 48,
+      "width": 528.3,
+      "height": 20,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 144659245,
+      "type": "text",
+      "text": "Associations unite interests and bring them into politics – the media watch",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "kopf-interessen",
+      "x": 135,
+      "y": 115,
+      "width": 120,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1377075747,
+      "type": "text",
+      "text": "INTERESTS",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "kopf-verbaende",
+      "x": 517,
+      "y": 115,
+      "width": 209.43,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1762026893,
+      "type": "text",
+      "text": "ASSOCIATIONS UNITE",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "int-angestellte",
+      "x": 40,
+      "y": 160,
+      "width": 300,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1562789315,
+      "type": "rectangle"
+     },
+     {
+      "id": "int-betriebe",
+      "x": 40,
+      "y": 270,
+      "width": 300,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 597437421,
+      "type": "rectangle"
+     },
+     {
+      "id": "int-umwelt",
+      "x": 40,
+      "y": 380,
+      "width": 300,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 343840099,
+      "type": "rectangle"
+     },
+     {
+      "id": "int-konsum",
+      "x": 40,
+      "y": 490,
+      "width": 300,
+      "height": 84,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1751787085,
+      "type": "rectangle"
+     },
+     {
+      "id": "vb-gewerkschaft",
+      "x": 440,
+      "y": 160,
+      "width": 340,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#d0ebff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1198256387,
+      "type": "rectangle"
+     },
+     {
+      "id": "vb-arbeitgeber",
+      "x": 440,
+      "y": 270,
+      "width": 340,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#d0ebff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 709481645,
+      "type": "rectangle"
+     },
+     {
+      "id": "vb-umwelt",
+      "x": 440,
+      "y": 380,
+      "width": 340,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#d0ebff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1466751139,
+      "type": "rectangle"
+     },
+     {
+      "id": "vb-konsum",
+      "x": 440,
+      "y": 490,
+      "width": 340,
+      "height": 84,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#d0ebff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1155839757,
+      "type": "rectangle"
+     },
+     {
+      "id": "pf-angestellte",
+      "x": 350.5,
+      "y": 190,
+      "width": 79,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1915735107,
+      "type": "arrow",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        79,
+        0
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+     },
+     {
+      "id": "pf-betriebe",
+      "x": 350.5,
+      "y": 300,
+      "width": 79,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1655983469,
+      "type": "arrow",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        79,
+        0
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+     },
+     {
+      "id": "pf-umwelt",
+      "x": 350.5,
+      "y": 410,
+      "width": 79,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 194202595,
+      "type": "arrow",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        79,
+        0
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+     },
+     {
+      "id": "pf-konsum",
+      "x": 350.5,
+      "y": 532,
+      "width": 79,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 587339725,
+      "type": "arrow",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        79,
+        0
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+     },
+     {
+      "id": "politik",
+      "x": 900,
+      "y": 290,
+      "width": 330,
+      "height": 160,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "#74c0fc",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 396744579,
+      "type": "rectangle"
+     },
+     {
+      "id": "lobby-1",
+      "x": 790.5,
+      "y": 195.5,
+      "width": 99,
+      "height": 129,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 2145883693,
+      "type": "arrow",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        49.5,
+        54.5
+       ],
+       [
+        99,
+        129
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+     },
+     {
+      "id": "lobby-2",
+      "x": 790.5,
+      "y": 300.5,
+      "width": 99,
+      "height": 51,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 77983523,
+      "type": "arrow",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        49.5,
+        25.5
+       ],
+       [
+        99,
+        51
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+     },
+     {
+      "id": "lobby-3",
+      "x": 790.5,
+      "y": 409.5,
+      "width": 99,
+      "height": 31,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1951287437,
+      "type": "arrow",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        49.5,
+        -15.5
+       ],
+       [
+        99,
+        -31
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+     },
+     {
+      "id": "lobby-4",
+      "x": 790.5,
+      "y": 531.5,
+      "width": 99,
+      "height": 126,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1963070147,
+      "type": "arrow",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        49.5,
+        -59.5
+       ],
+       [
+        99,
+        -126
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+     },
+     {
+      "id": "label-lobbying",
+      "x": 810,
+      "y": 145,
+      "width": 189.29,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1643097837,
+      "type": "text",
+      "text": "Lobbying: talks,\nstatements, campaigns",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "medien",
+      "x": 500,
+      "y": 740,
+      "width": 360,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "#ffd8a8",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 962118243,
+      "type": "rectangle"
+     },
+     {
+      "id": "medien-verstaerken",
+      "x": 620.5,
+      "y": 734.5,
+      "width": 224,
+      "height": 254,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 928336205,
+      "type": "arrow",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        39.5,
+        -99.5
+       ],
+       [
+        149.5,
+        -189.5
+       ],
+       [
+        224,
+        -254
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+     },
+     {
+      "id": "medien-kontrollieren",
+      "x": 865.5,
+      "y": 779.5,
+      "width": 209,
+      "height": 319,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 175668739,
+      "type": "arrow",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        119.5,
+        -39.5
+       ],
+       [
+        194.5,
+        -149.5
+       ],
+       [
+        209,
+        -319
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+     },
+     {
+      "id": "label-verstaerken",
+      "x": 300,
+      "y": 650,
+      "width": 168.84,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#bd490a",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1440257965,
+      "type": "text",
+      "text": "amplify:\nspread campaigns widely",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "label-kontrollieren",
+      "x": 995,
+      "y": 590,
+      "width": 166.59,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#bd490a",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 56608163,
+      "type": "text",
+      "text": "scrutinise:\nask who is behind them",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "prueffrage",
+      "x": 40,
+      "y": 920,
+      "width": 1190,
+      "height": 96,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 933435917,
+      "type": "rectangle"
+     },
+     {
+      "id": "WTBS8qc1ch6NQ0_lR1VEi",
+      "x": 144.46,
+      "y": 177.5,
+      "width": 91.08,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#14599a",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 272275459,
+      "type": "text",
+      "text": "Employees",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "int-angestellte",
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "6OEGYTFcZv8n78ZTFN3IN",
+      "x": 156.13,
+      "y": 287.5,
+      "width": 67.74,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#14599a",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 2110693283,
+      "type": "text",
+      "text": "Businesses",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "int-betriebe",
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "5TQpi_PKxfHfCcDhFhs0d",
+      "x": 112.79,
+      "y": 397.5,
+      "width": 154.42,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#14599a",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 381727555,
+      "type": "text",
+      "text": "Environment and climate",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "int-umwelt",
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "sErYMufp3iSv6Ah-KmEKh",
+      "x": 116.95,
+      "y": 507,
+      "width": 146.09,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#14599a",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1534022371,
+      "type": "text",
+      "text": "Consumers",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "int-konsum",
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "c-tLQEeUZ4sSJ1UIwViYR",
+      "x": 554.47,
+      "y": 177.5,
+      "width": 111.05,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1664ac",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1013513859,
+      "type": "text",
+      "text": "Trade union",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "vb-gewerkschaft",
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "FNmrDUYFcIxe3tYWtctnB",
+      "x": 530.04,
+      "y": 287.5,
+      "width": 159.92,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1664ac",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 342636067,
+      "type": "text",
+      "text": "Employers' association",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "vb-arbeitgeber",
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "2qdqlupuGMvA5RlXXlMb-",
+      "x": 545.58,
+      "y": 397.5,
+      "width": 128.85,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1664ac",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1650948547,
+      "type": "text",
+      "text": "Environmental group",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "vb-umwelt",
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "iRJZO4tMlptePOH9uTQ7R",
+      "x": 551.12,
+      "y": 507,
+      "width": 117.75,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1664ac",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1132022115,
+      "type": "text",
+      "text": "Consumer\norganisation",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "vb-konsum",
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "I7w_yU-Sl54zsG3MS0vqb",
+      "x": 988.91,
+      "y": 332.5,
+      "width": 152.18,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#081f36",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1099477507,
+      "type": "text",
+      "text": "POLITICS\nnegotiates rules\nand makes decisions",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "politik",
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "O8fYH57K7UzeVSIJBNnaP",
+      "x": 590.6,
+      "y": 765,
+      "width": 178.8,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#a03d08",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1321952931,
+      "type": "text",
+      "text": "MEDIA\nwatch the whole process",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "medien",
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "q48GwfE1NnPykIMJF6yoT",
+      "x": 308.74,
+      "y": 956.75,
+      "width": 652.53,
+      "height": 22.5,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 692944163,
+      "type": "text",
+      "text": "Ask of every campaign and study: Who is behind it – and what do they stand to gain?",
+      "fontSize": 18,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "prueffrage",
+      "autoResize": true,
+      "lineHeight": 1.25
+     }
+    ]
+   },
+   "beschreibung": "The diagram ‘How interests shape policy’ shows how associations bring individual interests together and take them into politics through lobbying, while the media play a dual role in following the process. Four groups each have an association to represent them: employees have a trade union, businesses an employers' association, the environment and climate an environmental association, and consumers a consumer organisation. Key points: (1) Associations bring individual interests together – each group has its own type of association. (2) All four associations take their concerns to policymakers through lobbying – talks, statements and campaigns – and policymakers negotiate rules and make decisions. (3) The media watch the whole process in two roles at once: they amplify campaigns and spread them widely, and they scrutinise them by asking who is behind them. (4) The key question to remember for every campaign and study is: who is behind it – and what do they stand to gain?",
+   "credit": "Eigene Darstellung, EveryCate, CC BY-SA 4.0"
+  },
+  {
+   "type": "text",
+   "title": "Lobbying: contributing expertise – or influence behind closed doors?",
+   "body": "How do associations bring their concerns into politics? The key term is **lobbying**: deliberate efforts by organised interests to influence political decisions – through discussions with politicians, official statements, campaigns or commissioned studies. Is this good or bad? The honest answer is: **it can be either** – it depends on how it is done.\n\n**The legitimate side.** Anyone deciding on a new law cannot possibly be an expert on everything. Suppose the fictional country of Bergland is revising its law on apprenticeships: the employers' association knows from experience what businesses can provide – the trade union knows where apprentices need protection. Listening to both helps policymakers improve the law. That is why hearing from those affected is even a formal part of the process here: before important laws are passed, associations and others affected can submit official comments (this is called a **consultation procedure**). Lobbying thus brings **expertise** into politics and gives **those affected a voice** – a democracy needs both.\n\n**The risky side.** Two things can change the picture:\n\n- **Unequal resources:** A wealthy association pays for campaigns, experts and studies – a small group organises itself around the kitchen table in the evenings. Both may have equally good arguments, but their voices differ greatly in volume. And some interests have no lobby of their own at all – future generations, for example.\n- **Influence behind closed doors:** If influence is exercised only in confidential discussions, nobody can see who had a say where – or whose wording eventually ends up in the law.\n\n**What helps?** Above all, **transparency**: disclosing who talks to whom and who pays for campaigns and studies – for example, through public hearings or registers where representatives of interest groups sign up. And alert media. More on that shortly. For now, remember: **condemning all lobbying would be just as wrong as playing down its risks.**"
+  },
+  {
+   "type": "video",
+   "title": "Video: Lobbying explained simply",
+   "provider": "youtube",
+   "videoId": "1AEuTKYo-qY",
+   "description": "This explainer video (3:15) from the channel Study History uses Germany as an example to explain lobbying: what the term means, the strategies used by representatives of interest groups to exert influence – and the criticisms of it. The same basic idea applies here. As you watch, focus on two questions: (1) Which strategies for exerting influence does the video show – and which would you classify as legitimate based on this module? (2) What criticisms does the video mention – and do they match the two risks in this module: unequal resources and influence behind closed doors?",
+   "startSeconds": 0,
+   "transcript": "The explainer video ‘Lobbyismus einfach erklärt – Definition, Funktion und Kritik’ (Study History, 3:15 minutes) explores lobbying using the Federal Republic of Germany as an example. It explains what the term means, the strategies lobbyists use to exert political influence and the common criticisms of lobbying – comparing its role and the criticisms of it, its advantages and disadvantages. The examples come from Germany; the same basic idea of representing interests and the associated risks applies in Liechtenstein and Switzerland."
+  },
+  {
+   "type": "text",
+   "title": "The media's dual role: amplifying and investigating",
+   "body": "Back to Bergland. The government plans a new levy on drinks. Soon afterwards, posters appear everywhere: **‘Save the after-work beer – no to the drinks levy!’** Videos and a ‘study of Bergland's drinks culture’ are also circulating. The source, in the small print: the fictional **Verband Bergländer Getränkehersteller**, an association of drinks manufacturers.\n\nNow the media come into play – in **two roles at once**, which you know from [[modul:wirtschaft-politik-22-medien-und-meinungsbildung]]:\n\n- **As amplifiers:** A news website repeats the headline without checking it – ‘Politicians want to ban the after-work beer!’ The outrage brings clicks, and the campaign reaches many times its original audience, free of charge. This is exactly what campaigns are designed for: they provide striking images and slogans that are easy to spread (the drive for attention from [[modul:wirtschaft-politik-22-medien-und-meinungsbildung]]).\n- **As watchdogs:** A newsroom investigates: who is behind the campaign? Who paid for the ‘study’? It reports that the source is the industry association – the very businesses that would have to pay the levy. This does not get the campaign banned, but it **puts it in context**: the public now knows who is speaking.\n\nNotice two things: first, there is nothing wrong with the association's behaviour – **speaking up for its members' interests is its job.** Second, the two media roles are not mutually exclusive: the same outlet can amplify a message today and investigate it tomorrow. For you, this means you should not rely on someone else to provide the context. You can carry out the most important check yourself – with just one question."
+  },
+  {
+   "type": "text",
+   "title": "The key question: who is behind the message?",
+   "body": "Whether it is a poster, video, petition or ‘new study’, before you let it persuade you, **check who is behind the message** in three steps:\n\n1. **Who is behind it?** Look for the source: publisher details, a logo, an organisation's name, funding. If no information is given, that is a warning sign in itself ([[modul:wirtschaft-politik-22-medien-und-meinungsbildung]]).\n2. **What does the source stand to gain?** Ask yourself: if I agree with this message, who benefits? The more directly the source benefits, the more closely you should look.\n3. **Who is left out?** Every campaign tells half the story. Whose perspective is missing – and what would it sound like?\n\nApply this to two fictional examples:\n\n- The study **‘Limonade macht glücklich’ (‘Lemonade makes you happy’)**, funded by the drinks association ‘Süß & Spritzig’: the source earns money from every drink sold – the study may still be sound, but you read it differently and look for an independent second source ([[modul:wirtschaft-politik-22-medien-und-meinungsbildung]]).\n- The report **‘Überstunden machen krank’ (‘Overtime makes you ill’)** by the trade union ‘Werkbund’: here too, the source has an interest – shorter working hours for its members. This finding may also be correct; you should cross-check it too.\n\nThe most important insight: **a source with an interest in the outcome does not automatically make a statement false – but it changes how you read it.** Put it in context rather than dismissing it: this is what distinguishes critical thinking ([[modul:wirtschaft-politik-22-medien-und-meinungsbildung]] and [[modul:wirtschaft-politik-23-verschwoerungstheorien-dekonstruieren]]) from blanket distrust. If you ask of every campaign ‘Who is behind it – and what do they stand to gain?’, you become someone who assesses the message rather than simply a target for it."
+  },
+  {
+   "type": "quiz",
+   "id": "quiz1",
+   "title": "Quiz: Associations, lobbying and the media",
+   "teilkompetenzen": [
+    "wp.politik.interessenvertretung-beurteilen"
+   ],
+   "intro": "Interests, influence and checking who is behind the message – show what you have learnt. You can repeat the quiz as often as you like; your best result counts.",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "single_choice",
+     "prompt": "Why do people and businesses join together in associations?",
+     "options": [
+      {
+       "text": "Because the law requires everyone to be a member."
+      },
+      {
+       "text": "Because individuals are not allowed to approach policymakers."
+      },
+      {
+       "text": "Because association members pay less tax."
+      },
+      {
+       "text": "Because a united voice gets a better hearing than many separate voices – the association represents its members' shared interests.",
+       "correct": true
+      }
+     ],
+     "explanation": "Associations bring individual interests together into a strong voice – fifty organised young people achieve more than fifty separate letters. Membership is not compulsory, and of course any individual can approach public authorities and policymakers – it is just often less effective. Association membership has nothing to do with tax discounts."
+    },
+    {
+     "id": "q2",
+     "type": "single_choice",
+     "prompt": "What is lobbying?",
+     "options": [
+      {
+       "text": "Another word for campaigning before a public vote."
+      },
+      {
+       "text": "Deliberate efforts by organised interests to influence political decisions – for example, through discussions, statements and campaigns.",
+       "correct": true
+      },
+      {
+       "text": "Bribing politicians – lobbying is always illegal."
+      },
+      {
+       "text": "Companies advertising their products."
+      }
+     ],
+     "explanation": "Lobbying means that organised interests – associations, organisations and businesses – try to influence political decisions in their favour. They do this through discussions, official statements, campaigns or commissioned studies, and it is generally allowed in democracies. Bribery, by contrast, is a crime and is not the same as lobbying – the two are often equated, but that is wrong. Lobbying should not be confused with product advertising or election campaigning either: it targets political decisions, rather than customers or votes."
+    },
+    {
+     "id": "q3",
+     "type": "single_choice",
+     "prompt": "What legitimate role does lobbying play in a democracy?",
+     "options": [
+      {
+       "text": "Associations contribute practical expertise and give those affected a voice before rules are adopted.",
+       "correct": true
+      },
+      {
+       "text": "It ensures that the group with the most money always wins."
+      },
+      {
+       "text": "It replaces parliaments and public votes."
+      },
+      {
+       "text": "It keeps inconvenient expertise out of politics."
+      }
+     ],
+     "explanation": "Politicians cannot be experts on everything: in Bergland's law on apprenticeships, input from the employers' association and trade union improves the law – both know from experience what works and where protection is needed. This is exactly why hearings and consultation procedures exist. The group with the most money winning is a risk of lobbying, not its purpose – and decisions are still made in parliament and public votes, not around an association's meeting table."
+    },
+    {
+     "id": "q4",
+     "type": "single_choice",
+     "prompt": "Which risk of lobbying does this module describe?",
+     "options": [
+      {
+       "text": "Lobbying automatically leads to better laws."
+      },
+      {
+       "text": "Associations are not allowed to publish their own studies."
+      },
+      {
+       "text": "Wealthy interest groups can pay for more campaigns, studies and contacts – and some influence is exercised behind closed doors.",
+       "correct": true
+      },
+      {
+       "text": "All interests automatically have equal influence."
+      }
+     ],
+     "explanation": "The two risks are unequal resources and influence behind closed doors. Those with plenty of money can make themselves heard – those with little money have quieter voices even with equally good arguments, and some interests (such as future generations) have no lobby at all. Influence exercised in private also goes unseen. This is precisely why the opposite claim, that everyone automatically has equal influence, is wrong too. Associations can of course publish studies – what matters is that people can see who paid for them."
+    },
+    {
+     "id": "q5",
+     "type": "single_choice",
+     "prompt": "What is the media's dual role in campaigns?",
+     "options": [
+      {
+       "text": "They are not allowed to report on associations' campaigns at all."
+      },
+      {
+       "text": "They can amplify campaigns and spread them widely – while also acting as watchdogs to uncover who is behind them.",
+       "correct": true
+      },
+      {
+       "text": "They ultimately decide for themselves which laws apply."
+      },
+      {
+       "text": "They always amplify messages but never check them."
+      }
+     ],
+     "explanation": "Both roles are real, often within the same outlet: if a newsroom repeats a provocative headline without checking it, it gives the campaign free publicity (amplification and the drive for attention from [[modul:wirtschaft-politik-22-medien-und-meinungsbildung]]). If it investigates who paid for the campaign and the ‘study’, it puts them in context (the watchdog role). So ‘never checking’ is just as wrong as a ban on reporting – and of course the media do not pass laws; that remains the responsibility of policymakers."
+    },
+    {
+     "id": "q6",
+     "type": "single_choice",
+     "prompt": "Posters say: ‘Save the after-work beer – no to the drinks levy!’ According to this module, what should you check first?",
+     "options": [
+      {
+       "text": "Believe the campaign – so many posters cannot be wrong."
+      },
+      {
+       "text": "Ignore the campaign, because posters always lie."
+      },
+      {
+       "text": "Check how professionally the posters are designed."
+      },
+      {
+       "text": "Ask who is behind the message: who paid for the campaign – and what do they stand to gain if I agree?",
+       "correct": true
+      }
+     ],
+     "explanation": "The first step is always to check who is behind the message: the fictional drinks manufacturers' association is behind ‘Save the after-work beer’ – the very businesses that would have to pay the levy. This does not make the campaign illegal or its arguments automatically false, but knowing this changes how you read it. Reach and attractive design tell you nothing about the substance – and dismissing everything is just as uncritical as believing everything."
+    },
+    {
+     "id": "q7",
+     "type": "single_choice",
+     "prompt": "An association publishes a study that it paid for itself. How do you approach it?",
+     "options": [
+      {
+       "text": "I accept the figures without checking – studies are always neutral."
+      },
+      {
+       "text": "I reject everything – paid studies are always lies."
+      },
+      {
+       "text": "The study is not automatically wrong – but I read it with whoever commissioned it in mind and look for an independent second source.",
+       "correct": true
+      },
+      {
+       "text": "I mainly check whether the study is written without errors."
+      }
+     ],
+     "explanation": "Put it in context rather than dismissing it: whoever commissions a study may have an interest in its findings, and that changes how you read it – but it does not automatically make the study wrong, just as a ‘neutral’ presentation does not automatically make it right. The way between these extremes is to use the checking questions and the second source from [[modul:wirtschaft-politik-22-medien-und-meinungsbildung]]: do independent sources confirm the finding? Blind acceptance and blanket rejection are both uncritical – and spelling tells you nothing at all about the interests behind a study."
+    },
+    {
+     "id": "q8",
+     "type": "single_choice",
+     "prompt": "Whose interests does a trade union represent?",
+     "options": [
+      {
+       "text": "Employees' interests – for example, in wages, working hours and safety at work.",
+       "correct": true
+      },
+      {
+       "text": "The interests of company owners."
+      },
+      {
+       "text": "Consumers' interests when shopping."
+      },
+      {
+       "text": "The government's interests in relation to the public."
+      }
+     ],
+     "explanation": "Trade unions bring employees together: they negotiate wages, working hours and protection at work. Businesses and their owners are represented by employers' associations, buyers by consumer organisations – and the government speaks for itself in the debate. Being able to distinguish the four types of organisation behind a message gets you halfway to solving the matching exercise below."
+    }
+   ]
+  },
+  {
+   "type": "lueckentext",
+   "id": "lt-interessen-wortbank",
+   "title": "Fill in the terms: associations, lobbying and the media",
+   "teilkompetenzen": [
+    "wp.politik.interessenvertretung-beurteilen"
+   ],
+   "intro": "Drag the correct terms into the gaps (on a phone: tap the word first, then the gap). **Watch out:** three of the words do not fit anywhere.",
+   "modus": "wortbank",
+   "text": "People who struggle to be heard on their own join forces: organisations that bring together many individual interests are called {{1}}. Employees' interests are represented by {{2}}, and businesses' interests by {{3}}. Deliberate efforts by organised interests to influence political decisions are called {{4}}. This has a legitimate side: associations contribute practical {{5}}, and those affected get a say. It becomes risky when funding is distributed very {{6}} or influence is exercised behind {{7}}. The media play a dual role: they {{8}} campaigns so that they reach a wide audience – and they also {{9}} who is behind them.",
+   "luecken": [
+    {
+     "antworten": [
+      "associations",
+      "the associations",
+      "interest groups",
+      "the interest groups",
+      "interest associations",
+      "the interest associations"
+     ]
+    },
+    {
+     "antworten": [
+      "trade unions",
+      "the trade unions",
+      "trades unions",
+      "the trades unions",
+      "unions",
+      "the unions",
+      "labour unions",
+      "the labour unions",
+      "labor unions",
+      "the labor unions",
+      "workers' unions",
+      "the workers' unions",
+      "workers’ unions",
+      "the workers’ unions",
+      "workers unions",
+      "the workers unions"
+     ]
+    },
+    {
+     "antworten": [
+      "employers' associations",
+      "the employers' associations",
+      "employers’ associations",
+      "the employers’ associations",
+      "employers associations",
+      "the employers associations",
+      "employer associations",
+      "the employer associations"
+     ]
+    },
+    {
+     "antworten": [
+      "lobbying"
+     ]
+    },
+    {
+     "antworten": [
+      "expertise",
+      "specialist knowledge",
+      "expert knowledge",
+      "specialised knowledge",
+      "specialized knowledge",
+      "know-how",
+      "knowhow",
+      "know how"
+     ]
+    },
+    {
+     "antworten": [
+      "unequally",
+      "unevenly",
+      "inequitably"
+     ]
+    },
+    {
+     "antworten": [
+      "closed doors",
+      "the scenes"
+     ]
+    },
+    {
+     "antworten": [
+      "amplify",
+      "promote",
+      "publicise",
+      "publicize",
+      "spread"
+     ]
+    },
+    {
+     "antworten": [
+      "investigate",
+      "check",
+      "examine",
+      "look into"
+     ]
+    }
+   ],
+   "ablenker": [
+    "advertising",
+    "ban",
+    "secret"
+   ]
+  },
+  {
+   "type": "lueckentext",
+   "id": "lt-interessen-eingabe",
+   "title": "Type in the terms: checking who is behind the message",
+   "teilkompetenzen": [
+    "wp.politik.interessenvertretung-beurteilen"
+   ],
+   "intro": "There is no word bank this time – **type in the missing terms yourself**. Capitalisation does not matter.",
+   "modus": "eingabe",
+   "text": "An organisation that represents employees' interests is called a {{1}}. Deliberate efforts by organised interests to influence politics are called {{2}}. When checking a campaign, first ask about its {{3}}: who is behind it, and what do they stand to gain? The media amplify campaigns – and also act as {{4}} when they uncover who is behind them. Read a paid study with its {{5}} in mind.",
+   "luecken": [
+    {
+     "antworten": [
+      "trade union",
+      "a trade union",
+      "the trade union",
+      "trades union",
+      "a trades union",
+      "the trades union",
+      "union",
+      "a union",
+      "the union",
+      "labour union",
+      "a labour union",
+      "the labour union",
+      "labor union",
+      "a labor union",
+      "the labor union",
+      "workers' union",
+      "a workers' union",
+      "the workers' union",
+      "workers’ union",
+      "a workers’ union",
+      "the workers’ union",
+      "workers union",
+      "a workers union",
+      "the workers union"
+     ]
+    },
+    {
+     "antworten": [
+      "lobbying"
+     ]
+    },
+    {
+     "antworten": [
+      "source",
+      "the source",
+      "sender",
+      "the sender",
+      "originator",
+      "the originator",
+      "commissioner",
+      "the commissioner",
+      "commissioning organisation",
+      "the commissioning organisation",
+      "commissioning organization",
+      "the commissioning organization",
+      "commissioning body",
+      "the commissioning body",
+      "client",
+      "the client",
+      "funder",
+      "the funder",
+      "sponsor",
+      "the sponsor",
+      "funding body",
+      "the funding body"
+     ]
+    },
+    {
+     "antworten": [
+      "watchdogs",
+      "the watchdogs",
+      "watchdog",
+      "the watchdog",
+      "oversight body",
+      "the oversight body",
+      "oversight bodies",
+      "the oversight bodies",
+      "scrutineer",
+      "the scrutineer",
+      "scrutineers",
+      "the scrutineers",
+      "independent watchdog",
+      "the independent watchdog",
+      "independent watchdogs",
+      "the independent watchdogs",
+      "check",
+      "the check",
+      "check on power",
+      "the check on power",
+      "a watchdog",
+      "an oversight body",
+      "a scrutineer",
+      "an independent watchdog",
+      "a check",
+      "a check on power"
+     ]
+    },
+    {
+     "antworten": [
+      "commissioner",
+      "the commissioner",
+      "source",
+      "the source",
+      "sender",
+      "the sender",
+      "originator",
+      "the originator",
+      "funder",
+      "the funder",
+      "sponsor",
+      "the sponsor",
+      "funding body",
+      "the funding body",
+      "commissioning organisation",
+      "the commissioning organisation",
+      "commissioning organization",
+      "the commissioning organization",
+      "commissioning body",
+      "the commissioning body",
+      "client",
+      "the client",
+      "backer",
+      "the backer",
+      "financial backer",
+      "the financial backer",
+      "funder and commissioner",
+      "the funder and commissioner",
+      "organisation that commissioned it",
+      "the organisation that commissioned it",
+      "organization that commissioned it",
+      "the organization that commissioned it",
+      "organisation that funded it",
+      "the organisation that funded it",
+      "organization that funded it",
+      "the organization that funded it"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "lueckentext",
+   "id": "lt-zuordnen-absendertyp",
+   "title": "Match the message: who is most likely behind it?",
+   "teilkompetenzen": [
+    "wp.politik.interessenvertretung-beurteilen"
+   ],
+   "intro": "Match each statement or campaign to the **type of organisation most likely to be behind it**: **Employers' association**, **Trade union**, **Environmental association** or **Consumer protection organisation**. Employers' association and Trade union each appear three times; Environmental association and Consumer protection organisation each appear twice. All names and campaigns are entirely fictional.",
+   "modus": "wortbank",
+   "text": "‘Higher minimum wages now – anyone who works full-time must be able to live on their earnings!’ {{1}}\n‘Fewer forms, more workbenches: finally free our businesses from unnecessary bureaucracy!’ {{2}}\n‘New study: longer shop opening hours harm retail staff's health.’ {{3}}\n‘Save the after-work beer – no to the planned drinks levy!’, launched by the drinks manufacturers' association. {{4}}\n‘One in four toy drones tested fails the safety test – we demand compulsory testing.’ {{5}}\n‘The planned business park threatens the region's last wetland – stop the development!’ {{6}}\n‘Subscription traps in fitness apps: we demand understandable contracts and a simple right to cancel.’ {{7}}\n‘Lower energy levies for our industry – or jobs will move abroad.’ {{8}}\n‘More night trains instead of short-haul flights: sign for climate-friendly travel!’ {{9}}\n‘Four extra days of holiday for all employees – rest is a right, not a reward.’ {{10}}",
+   "luecken": [
+    {
+     "antworten": [
+      "Trade union",
+      "a Trade union",
+      "the Trade union",
+      "trades union",
+      "a trades union",
+      "the trades union",
+      "union",
+      "a union",
+      "the union",
+      "labour union",
+      "a labour union",
+      "the labour union",
+      "labor union",
+      "a labor union",
+      "the labor union",
+      "workers' union",
+      "a workers' union",
+      "the workers' union",
+      "workers’ union",
+      "a workers’ union",
+      "the workers’ union",
+      "workers union",
+      "a workers union",
+      "the workers union"
+     ]
+    },
+    {
+     "antworten": [
+      "Employers' association",
+      "an Employers' association",
+      "the Employers' association",
+      "Employers’ association",
+      "an Employers’ association",
+      "the Employers’ association",
+      "Employers association",
+      "an Employers association",
+      "the Employers association",
+      "employer association",
+      "an employer association",
+      "the employer association",
+      "employer's association",
+      "an employer's association",
+      "the employer's association",
+      "employer’s association",
+      "an employer’s association",
+      "the employer’s association"
+     ]
+    },
+    {
+     "antworten": [
+      "Trade union",
+      "a Trade union",
+      "the Trade union",
+      "trades union",
+      "a trades union",
+      "the trades union",
+      "union",
+      "a union",
+      "the union",
+      "labour union",
+      "a labour union",
+      "the labour union",
+      "labor union",
+      "a labor union",
+      "the labor union",
+      "workers' union",
+      "a workers' union",
+      "the workers' union",
+      "workers’ union",
+      "a workers’ union",
+      "the workers’ union",
+      "workers union",
+      "a workers union",
+      "the workers union"
+     ]
+    },
+    {
+     "antworten": [
+      "Employers' association",
+      "an Employers' association",
+      "the Employers' association",
+      "Employers’ association",
+      "an Employers’ association",
+      "the Employers’ association",
+      "Employers association",
+      "an Employers association",
+      "the Employers association",
+      "employer association",
+      "an employer association",
+      "the employer association",
+      "employer's association",
+      "an employer's association",
+      "the employer's association",
+      "employer’s association",
+      "an employer’s association",
+      "the employer’s association"
+     ]
+    },
+    {
+     "antworten": [
+      "Consumer protection organisation",
+      "a Consumer protection organisation",
+      "the Consumer protection organisation",
+      "consumer protection organization",
+      "a consumer protection organization",
+      "the consumer protection organization",
+      "consumer organisation",
+      "a consumer organisation",
+      "the consumer organisation",
+      "consumer organization",
+      "a consumer organization",
+      "the consumer organization",
+      "consumer association",
+      "a consumer association",
+      "the consumer association",
+      "consumer protection association",
+      "a consumer protection association",
+      "the consumer protection association",
+      "consumer group",
+      "a consumer group",
+      "the consumer group",
+      "consumer advocacy group",
+      "a consumer advocacy group",
+      "the consumer advocacy group",
+      "consumer protection group",
+      "a consumer protection group",
+      "the consumer protection group",
+      "consumer protection",
+      "a consumer protection",
+      "the consumer protection"
+     ]
+    },
+    {
+     "antworten": [
+      "Environmental association",
+      "an Environmental association",
+      "the Environmental association",
+      "environmental organisation",
+      "an environmental organisation",
+      "the environmental organisation",
+      "environmental organization",
+      "an environmental organization",
+      "the environmental organization",
+      "environmental group",
+      "an environmental group",
+      "the environmental group",
+      "environmental protection organisation",
+      "an environmental protection organisation",
+      "the environmental protection organisation",
+      "environmental protection organization",
+      "an environmental protection organization",
+      "the environmental protection organization",
+      "environmental protection group",
+      "an environmental protection group",
+      "the environmental protection group",
+      "environmental advocacy group",
+      "an environmental advocacy group",
+      "the environmental advocacy group"
+     ]
+    },
+    {
+     "antworten": [
+      "Consumer protection organisation",
+      "a Consumer protection organisation",
+      "the Consumer protection organisation",
+      "consumer protection organization",
+      "a consumer protection organization",
+      "the consumer protection organization",
+      "consumer organisation",
+      "a consumer organisation",
+      "the consumer organisation",
+      "consumer organization",
+      "a consumer organization",
+      "the consumer organization",
+      "consumer association",
+      "a consumer association",
+      "the consumer association",
+      "consumer protection association",
+      "a consumer protection association",
+      "the consumer protection association",
+      "consumer group",
+      "a consumer group",
+      "the consumer group",
+      "consumer advocacy group",
+      "a consumer advocacy group",
+      "the consumer advocacy group",
+      "consumer protection group",
+      "a consumer protection group",
+      "the consumer protection group",
+      "consumer protection",
+      "a consumer protection",
+      "the consumer protection"
+     ]
+    },
+    {
+     "antworten": [
+      "Employers' association",
+      "an Employers' association",
+      "the Employers' association",
+      "Employers’ association",
+      "an Employers’ association",
+      "the Employers’ association",
+      "Employers association",
+      "an Employers association",
+      "the Employers association",
+      "employer association",
+      "an employer association",
+      "the employer association",
+      "employer's association",
+      "an employer's association",
+      "the employer's association",
+      "employer’s association",
+      "an employer’s association",
+      "the employer’s association"
+     ]
+    },
+    {
+     "antworten": [
+      "Environmental association",
+      "an Environmental association",
+      "the Environmental association",
+      "environmental organisation",
+      "an environmental organisation",
+      "the environmental organisation",
+      "environmental organization",
+      "an environmental organization",
+      "the environmental organization",
+      "environmental group",
+      "an environmental group",
+      "the environmental group",
+      "environmental protection organisation",
+      "an environmental protection organisation",
+      "the environmental protection organisation",
+      "environmental protection organization",
+      "an environmental protection organization",
+      "the environmental protection organization",
+      "environmental protection group",
+      "an environmental protection group",
+      "the environmental protection group",
+      "environmental advocacy group",
+      "an environmental advocacy group",
+      "the environmental advocacy group"
+     ]
+    },
+    {
+     "antworten": [
+      "Trade union",
+      "a Trade union",
+      "the Trade union",
+      "trades union",
+      "a trades union",
+      "the trades union",
+      "union",
+      "a union",
+      "the union",
+      "labour union",
+      "a labour union",
+      "the labour union",
+      "labor union",
+      "a labor union",
+      "the labor union",
+      "workers' union",
+      "a workers' union",
+      "the workers' union",
+      "workers’ union",
+      "a workers’ union",
+      "the workers’ union",
+      "workers union",
+      "a workers union",
+      "the workers union"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "tasks",
+   "title": "Explore further: create campaigns and work out their motives",
+   "teilkompetenzen": [
+    "wp.politik.interessenvertretung-beurteilen"
+   ],
+   "tasks": [
+    {
+     "prompt": "Invent your own campaign: think of a fictional association (its name and interest, e.g. ‘Verband der Bergländer Turnschuhhändler’, an association of trainer retailers in Bergland) and design a campaign for it with a slogan and a suitable ‘study’ headline. Below it, write honestly: what interest lies behind it – and which checking question would reveal what your campaign is really about? Do not use real companies, associations or people.",
+     "hint": "Good campaign slogans never talk about the campaigner's own profit, but about something that belongs to everyone: freedom, tradition, health, a sense of home. So consider: which appealing value could your association use to hide its interest?",
+     "solution": "Example: the fictional ‘Verband der Bergländer Turnschuhhändler’, an association of trainer retailers, launches ‘Freedom for your feet – no to the shoe recycling fee!’ with the headline ‘Study: trainers are young people's favourite item of clothing’. Behind it is the interest in preventing the planned fee, which would make sales more expensive. The checking question reveals the pattern: the source is the retailers' association, it paid for the ‘study’ itself, and the other side's perspective (who else pays for disposal?) is missing. Your answer is successful if the slogan, hidden interest and checking question clearly fit together."
+    },
+    {
+     "prompt": "Check the source: take the module's two fictional examples – the study ‘Limonade macht glücklich’ (‘Lemonade makes you happy’), funded by the drinks association ‘Süß & Spritzig’, and the report ‘Überstunden machen krank’ (‘Overtime makes you ill’), published by the trade union ‘Werkbund’. Apply the three checking steps to both: (1) Who is behind it? (2) What do they stand to gain if you agree? (3) Whose perspective is missing? Finish with two sentences: how will you treat the two publications – discard them, believe them or something in between?",
+     "hint": "Watch out for the trap: apply the checking questions critically to BOTH examples – including the report whose cause you may find more appealing. Critical reading applies equally to all sources.",
+     "solution": "Example answer: (1) The sources are a drinks association and a trade union respectively – both represent organised interests. (2) The association sells more lemonade if it is seen as making people happy; the trade union strengthens its demand for shorter working hours if overtime is seen as causing illness. (3) The lemonade example leaves out the perspective of dentists or nutrition experts; the overtime report leaves out, for example, businesses with seasonal peaks in demand. How to approach them: neither believe both publications blindly nor discard them – put them in context, compare them with independent second sources and only then reach a judgement."
+    },
+    {
+     "prompt": "Explain it to someone: in no more than five sentences, explain to someone you know why lobbying is neither ‘all good’ nor ‘all bad’ – use the terms expertise, those affected, funding and transparency. Then use the argument structure from [[modul:wirtschaft-politik-09-argumentieren-preisregulierung]] (claim – reason – example) to propose a transparency rule you would introduce.",
+     "hint": "For your transparency rule, look through the possible safeguards in the module: disclosing who funds campaigns, a register for representatives of interest groups, public hearings. Choose one measure and justify it with a fictional example.",
+     "solution": "Example explanation: ‘Lobbying brings practical expertise into politics, and those affected get a say before rules are adopted – that is useful. It becomes dangerous when funding is distributed very unequally and influence is exercised in secret. That is why transparency matters: people must be able to see who has a say and who pays.’ Example argument: ‘Campaigns should have to identify their funder clearly (claim), because the public can only put a message in context if it knows the source (reason) – the poster “Save the after-work beer” would immediately show that the drinks association is speaking, not a citizens' movement (example).’ Your rule is successful if it is specific and the example supports the reason."
+    }
+   ]
+  }
+ ]
+}
