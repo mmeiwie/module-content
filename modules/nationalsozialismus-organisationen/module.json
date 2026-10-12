@@ -1,0 +1,1752 @@
+{
+ "schemaVersion": 3,
+ "id": "nationalsozialismus-organisationen",
+ "title": "Wer ist wer? Partei, SA, SS, Gestapo und die Jugendorganisationen",
+ "description": "NSDAP, SA, SS, Gestapo, HJ, BDM, DAF – der NS-Staat steckt voller Abkürzungen. Du lernst, was dahintersteht: wann die Organisationen entstanden, welche Aufgabe sie hatten, woran man sie erkannte und welche Rolle sie im Terror spielten – und warum Terror auch ohne Polizisten an jeder Ecke funktionierte.",
+ "curricula": [
+  {
+   "curriculum": "li",
+   "subject": "RZG",
+   "subjectName": "Räume, Zeiten, Gesellschaften",
+   "grades": [
+    9
+   ],
+   "competencies": [
+    {
+     "code": "RZG.6.3",
+     "description": "Die Schülerinnen und Schüler können ausgewählte Phänomene der Geschichte des 20. und 21. Jahrhunderts analysieren und deren Relevanz für heute erklären."
+    },
+    {
+     "code": "RZG.8.2",
+     "description": "Die Schülerinnen und Schüler können die Entwicklung, Bedeutung und Bedrohung der Menschenrechte erklären."
+    }
+   ]
+  },
+  {
+   "curriculum": "ch",
+   "subject": "RZG",
+   "subjectName": "Räume, Zeiten, Gesellschaften",
+   "grades": [
+    9
+   ],
+   "competencies": [
+    {
+     "code": "RZG.6.3",
+     "description": "Die Schülerinnen und Schüler können ausgewählte Phänomene der Geschichte des 20. und 21. Jahrhunderts analysieren und deren Relevanz für heute erklären."
+    },
+    {
+     "code": "RZG.8.2",
+     "description": "Die Schülerinnen und Schüler können die Entwicklung, Bedeutung und Bedrohung der Menschenrechte erklären."
+    }
+   ]
+  },
+  {
+   "curriculum": "de",
+   "subject": "Geschichte",
+   "grades": [
+    9
+   ]
+  }
+ ],
+ "language": "de",
+ "sequenz": 3,
+ "einheit": "Nationalsozialismus – Diktatur, Verfolgung, Erinnerung",
+ "requires": [
+  "nationalsozialismus-machtuebernahme-1933"
+ ],
+ "durationMinutes": 60,
+ "difficulty": "mittel",
+ "keywords": [
+  "NSDAP",
+  "SA",
+  "SS",
+  "Gestapo",
+  "Hitlerjugend",
+  "BDM",
+  "DAF",
+  "Konzentrationslager",
+  "Denunziation",
+  "Nationalsozialismus"
+ ],
+ "learningObjectives": [
+  "Ich kann die Abkürzungen NSDAP, SA, SS, Gestapo, HJ, DJ, BDM, JM, DAF, KdF und RAD auflösen.",
+  "Ich kann zu jeder dieser Organisationen Gründung, Aufgabe und Erkennungsmerkmal nennen.",
+  "Ich kann erklären, welche Rolle SA, SS und Gestapo im Terror des NS-Staates spielten, warum Denunziationen so wichtig waren und warum das die Grundrechte der Menschen bedrohte.",
+  "Ich kann erklären, warum die SS nach 1934 zur mächtigsten Organisation wurde.",
+  "(Erweitert) Ich kann die Hintergründe von KZ, KdF-Wagen, RSHA und dem Wort «Nazi» erklären, zum Beispiel den Unterschied zwischen Konzentrations- und Vernichtungslager."
+ ],
+ "sources": [
+  {
+   "title": "LiLe – Liechtensteiner Lehrplan",
+   "url": "https://www.lile.li"
+  },
+  {
+   "title": "LeMO – Lebendiges Museum Online: NS-Organisationen (Deutsches Historisches Museum)",
+   "url": "https://www.dhm.de/lemo/kapitel/ns-regime/ns-organisationen"
+  },
+  {
+   "title": "Bundeszentrale für politische Bildung (bpb): Dossier Nationalsozialismus",
+   "url": "https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/"
+  },
+  {
+   "title": "KZ-Gedenkstätte Dachau: Geschichte des Lagers",
+   "url": "https://www.kz-gedenkstaette-dachau.de"
+  },
+  {
+   "title": "Robert Gellately: Die Gestapo und die deutsche Gesellschaft. Die Durchsetzung der Rassenpolitik 1933–1945 (Paderborn 1993)"
+  }
+ ],
+ "license": "CC BY-SA 4.0",
+ "authors": [
+  "Anna Rinderer"
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "id": "k3-einstieg",
+   "title": "Ein Staat voller Abkürzungen",
+   "body": "Wer über den Nationalsozialismus liest, stolpert über Kürzel: NSDAP, SA, SS, HJ, BDM, DAF, KdF. Das ist kein Zufall. Die Nationalsozialisten bauten neben dem Staat einen zweiten Apparat auf – die **Partei mit ihren Gliederungen** – und dazu Organisationen für fast jeden Lebensbereich: für Jugendliche, Arbeiterinnen und Arbeiter, Frauen, Lehrkräfte, Ärztinnen und Ärzte, Bäuerinnen und Bauern. In [[modul:nationalsozialismus-staatsformen-faschismus]] hast du gelernt, dass genau das eine totalitäre Diktatur ausmacht: Niemand soll außerhalb stehen.\n\nUm den NS-Staat zu verstehen, musst du diese Organisationen auseinanderhalten können. Dabei hilft eine feste Frage-Reihe, die wir bei jeder Organisation durchgehen:\n\n1. **Wofür steht die Abkürzung?**\n2. **Seit wann gibt es die Organisation?**\n3. **Welche Aufgabe hatte sie?**\n4. **Woran erkannte man ihre Mitglieder?** (Uniform, Farbe, Abzeichen – wir beschreiben das in Worten.)\n5. **Welche Rolle spielte sie im Terror?**\n\nWeiter unten findest du eine Übersichtstafel mit acht Steckbriefen, danach vier Zuordnungsrunden zum Üben. Fang mit der Partei an – von ihr gehen alle anderen aus."
+  },
+  {
+   "type": "text",
+   "id": "k3-partei",
+   "title": "Die Partei: NSDAP",
+   "body": "**NSDAP** steht für **Nationalsozialistische Deutsche Arbeiterpartei**. Sie entstand 1920 aus der kleinen Münchner **DAP** (Deutsche Arbeiterpartei), der Hitler 1919 beigetreten war; 1921 wurde er ihr Vorsitzender. Nach seinem gescheiterten Umsturzversuch in München im November 1923 war die Partei kurz verboten, 1925 gründete Hitler sie neu. Ihr Aufstieg in der Weltwirtschaftskrise ist dir aus [[modul:weimar-wirtschaftskrise-nationalsozialismus]] bekannt.\n\nSeit dem **14. Juli 1933** war die NSDAP die **einzige zugelassene Partei**. Das veränderte ihre Rolle: Sie war nicht mehr eine Partei unter vielen, sondern der Kern des Staates. Bürgermeister, Landräte, Schulleiter, Richter – wer Karriere machen wollte, brauchte in der Regel das **Parteibuch** und trug das runde **Parteiabzeichen** am Revers. Die Mitgliederzahl stieg von rund 850 000 Anfang 1933 auf **rund 8,5 Millionen bis 1945**. Allein im Frühjahr 1933 traten mehr als eine Million Menschen ein – so viele, dass alte Parteimitglieder sie spöttisch **«Märzgefallene»** nannten: Nach der Reichstagswahl im März waren sie plötzlich «überzeugt». Im Mai 1933 verhängte die Partei sogar einen Aufnahmestopp.\n\nDie Partei war wie der Staat von oben nach unten gegliedert: **Reichsleitung – Gauleiter – Kreisleiter – Ortsgruppenleiter – Blockleiter**. Der **Blockleiter** war für 40 bis 60 Haushalte zuständig: Er verteilte Propaganda, sammelte Spenden – und meldete, wer nicht zur Fahne grüßte, wer ausländische Sender hörte oder wer «staatsfeindlich» redete. Das Organigramm dazu kennst du aus [[modul:nationalsozialismus-machtuebernahme-1933]].\n\n> **Merke:** Die NSDAP war keine Partei im demokratischen Sinn mehr – ohne freie Wahlen, ohne Gegner, mit Zugriff bis in jedes Wohnhaus."
+  },
+  {
+   "type": "text",
+   "id": "k3-sa-ss",
+   "title": "SA und SS: Die Gewalt der Partei",
+   "body": "## SA – Sturmabteilung\n\nDie **SA** entstand 1921 als Schlägertrupp der Partei: Sie sollte Versammlungen «schützen» (**Saalschutz**) und Gegner einschüchtern. Ihre Mitglieder trugen **braune Uniformhemden**, deshalb der Name **«Braunhemden»**. Vor 1933 prügelte sich die SA auf der Straße mit Kommunisten und Sozialdemokraten; nach dem 30. Januar 1933 wurde sie als **«Hilfspolizei»** auf die Gegner losgelassen, verhaftete, folterte, richtete «wilde» Lager ein. 1934 zählte sie mehrere Millionen Mitglieder. Dann wurde sie dem Regime zu mächtig: Nach der Ermordung ihrer Führung im Juni/Juli 1934 (dem sogenannten **«Röhm-Putsch»** – mehr dazu in [[modul:nationalsozialismus-machtuebernahme-1933]]) verlor die SA ihre Macht. Sie bestand weiter – bei den Pogromen gegen Jüdinnen und Juden im November 1938 war sie wieder dabei –, aber die Macht lag jetzt bei der SS.\n\n## SS – Schutzstaffel\n\nDie **SS** begann 1925 als kleine **Leibwache Hitlers**. Ab **1929** führte sie **Heinrich Himmler**, der aus dem Leibwächtertrupp einen Staat im Staat machte. Ihre Mitglieder sollten eine «Elite» sein. Wer aufgenommen werden wollte, musste eine **«arische Abstammung»** nachweisen – **«arisch»** ist NS-Sprache: Die Nationalsozialisten behaupteten, es gebe eine überlegene «Rasse» der «Arier», zu der die Deutschen gehörten; wissenschaftlich ist das unhaltbar, wie du im nächsten Modul dieser Reihe genauer siehst. SS-Männer trugen meist **schwarze Uniformen** (die Waffen-SS im Krieg Feldgrau) und einen **Totenkopf** als Abzeichen an der Mütze. Nach 1934 wuchs die SS in alle Richtungen:\n\n- Sie übernahm die **Polizei**: 1936 wurde Himmler «Chef der Deutschen Polizei», die Gestapo (unten) gehörte zu seinem Reich.\n- Ihre **Totenkopfverbände** bewachten und betrieben die **Konzentrationslager**.\n- Ihre **Waffen-SS** war eine eigene Truppe neben der Wehrmacht.\n- Ihre **Einsatzgruppen** ermordeten ab 1941 hinter der Front in Osteuropa – zusammen mit Polizeieinheiten und einheimischen Helfern – rund 1,5 bis 2 Millionen Menschen, vor allem Jüdinnen und Juden.\n- Sie betrieb die **Vernichtungslager**.\n\nDie SS war damit die wichtigste Trägerin des Terrors und des Völkermords. Das Internationale Militärtribunal in Nürnberg erklärte sie 1946 zur **verbrecherischen Organisation**.\n\n> **Merke:** SA = die Schläger der frühen Jahre; nach 1934 entmachtet (die Macht ging an die SS), aber bei den Novemberpogromen 1938 wieder an der Gewalt beteiligt. SS = die «Elite», die Polizei, Lager und Massenmord organisierte."
+  },
+  {
+   "type": "text",
+   "id": "k3-gestapo",
+   "title": "Gestapo: Die Geheime Staatspolizei",
+   "body": "**Gestapo** ist die Kurzform von **Geheime Staatspolizei**. Hermann Göring gründete sie im April 1933 in Preußen als politische Polizei; ab 1934 unterstand sie Himmler und damit der SS. Ihre Aufgabe: **politische Gegner aufspüren und ausschalten** – Kommunisten, Sozialdemokraten, kirchliche Kritiker, später Jüdinnen und Juden, Zeugen Jehovas, Homosexuelle und Zwangsarbeitende.\n\nDrei Dinge machten die Gestapo so gefährlich:\n\n1. **Keine Gerichtskontrolle.** Die Gestapo konnte Menschen in **«Schutzhaft»** nehmen – ein beschönigendes Wort, denn es ging nicht um Schutz, sondern um Verfolgung: ohne Anklage, ohne Richter, ohne Zeitlimit. Wer in ein Konzentrationslager kam, kam oft nicht durch ein Urteil dorthin, sondern durch einen Gestapo-Befehl. Die Grundrechte, die die Reichstagsbrandverordnung außer Kraft gesetzt hatte, waren hier Alltag: Es gab keinen Schutz der Person mehr, keine Unverletzlichkeit der Wohnung, kein Briefgeheimnis.\n2. **Folter.** Verhöre im Gestapo-Keller waren berüchtigt; das Regime nannte Misshandlungen beschönigend «verschärfte Vernehmung».\n3. **Denunziation.** Die Gestapo war viel kleiner, als die Menschen glaubten: 1937 hatte sie im ganzen Reich nur etwa 7 000 Beamte. Dass sie trotzdem allgegenwärtig und «allwissend» schien, lag zu einem großen Teil an **Hinweisen aus der Bevölkerung** – von Nachbarn, Kolleginnen, Blockleitern, manchmal aus der eigenen Familie. Dazu kamen bezahlte Spitzel («V-Leute») und die Auswertung von Verhören. Historikerinnen und Historiker haben Gestapo-Akten ausgewertet: Ein großer Teil der Verfahren begann mit einer Anzeige (einer **Denunziation**) aus dem Umfeld der Betroffenen. Motive waren Angst, Überzeugung, aber auch Neid, Streit um eine Wohnung oder Rache.\n\n1939 fasste das Regime Gestapo, Kriminalpolizei und den Parteigeheimdienst **SD** (Sicherheitsdienst der SS) im **Reichssicherheitshauptamt (RSHA)** unter Reinhard Heydrich zusammen. Von dort aus wurden später auch die Deportationen der Jüdinnen und Juden organisiert.\n\n> **Merke:** Der Terror funktionierte nicht nur von oben. Er funktionierte, weil genug Menschen mitmachten – und weil alle wussten, dass jemand zuhören könnte."
+  },
+  {
+   "type": "text",
+   "id": "k3-jugend",
+   "title": "Die Jugendorganisationen: HJ, DJ, BDM, JM",
+   "body": "Für Kinder und Jugendliche gab es vier Organisationen, getrennt nach Alter und Geschlecht:\n\n| Kürzel | Langform | Wer | Seit | Erkennungsmerkmal |\n| --- | --- | --- | --- | --- |\n| **HJ** | Hitlerjugend | Jungen 14–18 | 1926 | braunes Hemd, schwarzes Halstuch mit Lederknoten, Fahrtenmesser |\n| **DJ** | Deutsches Jungvolk («Pimpfe») | Jungen 10–14 | 1929 | wie HJ, kurze Hosen |\n| **BDM** | Bund Deutscher Mädel | Mädchen 14–18 | 1930 | weiße Bluse, dunkelblauer Rock, Halstuch |\n| **JM** | Jungmädelbund | Mädchen 10–14 | 1931 | wie BDM |\n\nDie **Hitlerjugend** war 1926 gegründet worden; Jungvolk, BDM und Jungmädelbund kamen bis 1931 als Unterorganisationen dazu. 1931 wurde **Baldur von Schirach** Führer der gesamten NS-Jugend. Ende 1932 hatte die HJ gut 100 000 Mitglieder, Ende 1933 schon über zwei Millionen – alle anderen Jugendverbände waren inzwischen verboten oder «eingegliedert». Das **Gesetz über die Hitlerjugend** vom 1. Dezember 1936 machte sie zur **Staatsjugend**. Anfang 1939 gehörten den vier Organisationen zusammen rund 8,7 Millionen Jugendliche an; im März 1939 wurde die Mitgliedschaft **Pflicht**.\n\nAchte auf die Schreibweise: Die amtliche Abkürzung lautet **BDM** mit großem D; die Form «BdM» liest man gelegentlich, sie ist aber nicht die offizielle. Was die Jugendorganisationen mit den Jugendlichen vorhatten – Lager, Drill, Erziehungsziele, Eliteschulen – und wie Jugendliche sich anpassten oder widersetzten, ist Thema eines eigenen Moduls dieser Reihe."
+  },
+  {
+   "type": "text",
+   "id": "k3-masse",
+   "title": "Die Massenorganisationen: DAF, KdF, RAD",
+   "body": "Auch Erwachsene sollten nirgends außerhalb stehen. Drei Organisationen erfassten Arbeit, Freizeit und die Zeit nach der Schule:\n\n- **DAF – Deutsche Arbeitsfront.** Gegründet im Mai 1933 unter **Robert Ley**, nachdem die Gewerkschaften zerschlagen worden waren (das kennst du aus [[modul:nationalsozialismus-machtuebernahme-1933]]). Keine Interessenvertretung, sondern eine **Zwangsorganisation**: Streiks waren verboten, der «Betriebsführer» befahl, die «Gefolgschaft» gehorchte. Mit rund **25 Millionen Mitgliedern** war die DAF die größte NS-Organisation.\n- **KdF – «Kraft durch Freude».** Die Freizeitorganisation der DAF (seit November 1933): billige Theaterkarten, Sportkurse, Wanderungen, Kreuzfahrten auf eigenen **KdF-Schiffen**. Freizeit wurde so zum Teil der Propaganda – und zur Belohnung für die, die dazugehörten.\n- **RAD – Reichsarbeitsdienst.** Seit 1935 mussten junge Männer **sechs Monate Pflichtarbeit** leisten (Straßen, Entwässerung, später Rüstung), ab 1939 galt das auch für junge Frauen. Der **Spaten** war das Symbol; der RAD war Drill und Vorstufe zum Militär."
+  },
+  {
+   "type": "schaubild",
+   "id": "k3-tafel",
+   "title": "Übersicht: Wer ist wer im NS-Staat?",
+   "szene": {
+    "elemente": [
+     {
+      "id": "t-titel",
+      "x": 280,
+      "y": 0,
+      "width": 653,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1856146434,
+      "type": "text",
+      "text": "Wer ist wer im NS-Staat? Acht Steckbriefe",
+      "fontSize": 28,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "t-untertitel",
+      "x": 280,
+      "y": 42,
+      "width": 716,
+      "height": 19,
+      "angle": 0,
+      "strokeColor": "#4c6f91",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 642014035,
+      "type": "text",
+      "text": "blau: Partei · orange: Gewalt und Terror · grün: Jugend · grau: Massenorganisationen",
+      "fontSize": 15,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k0",
+      "x": 10,
+      "y": 90,
+      "width": 295,
+      "height": 265,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1741315087,
+      "type": "rectangle"
+     },
+     {
+      "id": "k0-k",
+      "x": 22,
+      "y": 100,
+      "width": 77,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 287671134,
+      "type": "text",
+      "text": "NSDAP",
+      "fontSize": 24,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k0-l",
+      "x": 22,
+      "y": 136,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1015242878,
+      "type": "text",
+      "text": "Nationalsozialistische Deutsche\nArbeiterpartei (seit 1920)",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k0-a",
+      "x": 22,
+      "y": 202,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 165880013,
+      "type": "text",
+      "text": "Aufgabe: ab 1933 einzige Partei;\nbesetzt alle wichtigen Ämter",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k0-m",
+      "x": 22,
+      "y": 282,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1515603341,
+      "type": "text",
+      "text": "Merkmal: Parteiabzeichen am Revers,\n«Parteibuch»",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k1",
+      "x": 320,
+      "y": 90,
+      "width": 295,
+      "height": 265,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "#ffe8cc",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 107382559,
+      "type": "rectangle"
+     },
+     {
+      "id": "k1-k",
+      "x": 332,
+      "y": 100,
+      "width": 37,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1528243602,
+      "type": "text",
+      "text": "SA",
+      "fontSize": 24,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k1-l",
+      "x": 332,
+      "y": 136,
+      "width": 275,
+      "height": 18,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 638094258,
+      "type": "text",
+      "text": "Sturmabteilung (seit 1921)",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k1-a",
+      "x": 332,
+      "y": 202,
+      "width": 275,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 493562486,
+      "type": "text",
+      "text": "Aufgabe: Saalschutz und Straßenterror,\n1933 «Hilfspolizei»;\nab 1934 entmachtet",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k1-m",
+      "x": 332,
+      "y": 282,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 166934492,
+      "type": "text",
+      "text": "Merkmal: braune Uniformhemden\n(«Braunhemden»)",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k2",
+      "x": 630,
+      "y": 90,
+      "width": 295,
+      "height": 265,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "#ffe8cc",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1826155920,
+      "type": "rectangle"
+     },
+     {
+      "id": "k2-k",
+      "x": 642,
+      "y": 100,
+      "width": 37,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1980629219,
+      "type": "text",
+      "text": "SS",
+      "fontSize": 24,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k2-l",
+      "x": 642,
+      "y": 136,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 393723250,
+      "type": "text",
+      "text": "Schutzstaffel (seit 1925),\nFührer: Heinrich Himmler",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k2-a",
+      "x": 642,
+      "y": 202,
+      "width": 275,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 2112864141,
+      "type": "text",
+      "text": "Aufgabe: Leibwache, dann Polizei- und\nTerrorapparat; betreibt die Lager;\nHauptträgerin des Völkermords",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k2-m",
+      "x": 642,
+      "y": 282,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1614188875,
+      "type": "text",
+      "text": "Merkmal: schwarze Uniform,\nTotenkopf an der Mütze",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k3",
+      "x": 940,
+      "y": 90,
+      "width": 295,
+      "height": 265,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "#ffe8cc",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 871607332,
+      "type": "rectangle"
+     },
+     {
+      "id": "k3-k",
+      "x": 952,
+      "y": 100,
+      "width": 104,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1069395373,
+      "type": "text",
+      "text": "Gestapo",
+      "fontSize": 24,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k3-l",
+      "x": 952,
+      "y": 136,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1346169768,
+      "type": "text",
+      "text": "Geheime Staatspolizei\n(seit 1933, ab 1934 unter der SS)",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k3-a",
+      "x": 952,
+      "y": 202,
+      "width": 275,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1323890193,
+      "type": "text",
+      "text": "Aufgabe: verfolgt Gegner, verhaftet\nohne Gericht («Schutzhaft»),\nlebt von Denunziationen",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k3-m",
+      "x": 952,
+      "y": 282,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1591521450,
+      "type": "text",
+      "text": "Merkmal: in Zivil; ab 1939 Teil des\nReichssicherheitshauptamts",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k4",
+      "x": 10,
+      "y": 370,
+      "width": 295,
+      "height": 265,
+      "angle": 0,
+      "strokeColor": "#267936",
+      "backgroundColor": "#d3f9d8",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 537279799,
+      "type": "rectangle"
+     },
+     {
+      "id": "k4-k",
+      "x": 22,
+      "y": 380,
+      "width": 104,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#267936",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1766705883,
+      "type": "text",
+      "text": "HJ / DJ",
+      "fontSize": 24,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k4-l",
+      "x": 22,
+      "y": 416,
+      "width": 275,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1080880862,
+      "type": "text",
+      "text": "Hitlerjugend (Jungen 14–18, seit 1926)\nDeutsches Jungvolk (Jungen 10–14,\nseit 1929)",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k4-a",
+      "x": 22,
+      "y": 482,
+      "width": 275,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1576577607,
+      "type": "text",
+      "text": "Aufgabe: Erziehung zu Gehorsam und\nWehrbereitschaft; ab 1936\nStaatsjugend, ab 1939 Pflicht",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k4-m",
+      "x": 22,
+      "y": 562,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 821440179,
+      "type": "text",
+      "text": "Merkmal: braunes Hemd, schwarzes Halstuch\nmit Lederknoten, Fahrtenmesser",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k5",
+      "x": 320,
+      "y": 370,
+      "width": 295,
+      "height": 265,
+      "angle": 0,
+      "strokeColor": "#267936",
+      "backgroundColor": "#d3f9d8",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 94861959,
+      "type": "rectangle"
+     },
+     {
+      "id": "k5-k",
+      "x": 332,
+      "y": 380,
+      "width": 118,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#267936",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 2113293440,
+      "type": "text",
+      "text": "BDM / JM",
+      "fontSize": 24,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k5-l",
+      "x": 332,
+      "y": 416,
+      "width": 275,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 417856261,
+      "type": "text",
+      "text": "Bund Deutscher Mädel\n(Mädchen 14–18, seit 1930)\nJungmädelbund (10–14, seit 1931)",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k5-a",
+      "x": 332,
+      "y": 482,
+      "width": 275,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1089207059,
+      "type": "text",
+      "text": "Aufgabe: Erziehung zur «deutschen\nFrau und Mutter»; Sport,\nHauswirtschaft, Lager",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k5-m",
+      "x": 332,
+      "y": 562,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 805849935,
+      "type": "text",
+      "text": "Merkmal: weiße Bluse,\ndunkelblauer Rock",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k6",
+      "x": 630,
+      "y": 370,
+      "width": 295,
+      "height": 265,
+      "angle": 0,
+      "strokeColor": "#5f7d99",
+      "backgroundColor": "#d6e0ec",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1631777536,
+      "type": "rectangle"
+     },
+     {
+      "id": "k6-k",
+      "x": 642,
+      "y": 380,
+      "width": 50,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1938183565,
+      "type": "text",
+      "text": "DAF",
+      "fontSize": 24,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k6-l",
+      "x": 642,
+      "y": 416,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1370408198,
+      "type": "text",
+      "text": "Deutsche Arbeitsfront\n(seit Mai 1933, Robert Ley)",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k6-a",
+      "x": 642,
+      "y": 482,
+      "width": 275,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 437204082,
+      "type": "text",
+      "text": "Aufgabe: ersetzt die zerschlagenen\nGewerkschaften; Zwangsorganisation\nfür alle Beschäftigten",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k6-m",
+      "x": 642,
+      "y": 562,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1241798878,
+      "type": "text",
+      "text": "Merkmal: größte NS-Organisation:\nrund 25 Millionen Mitglieder",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k7",
+      "x": 940,
+      "y": 370,
+      "width": 295,
+      "height": 265,
+      "angle": 0,
+      "strokeColor": "#5f7d99",
+      "backgroundColor": "#d6e0ec",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 380275764,
+      "type": "rectangle"
+     },
+     {
+      "id": "k7-k",
+      "x": 952,
+      "y": 380,
+      "width": 131,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1295217510,
+      "type": "text",
+      "text": "KdF / RAD",
+      "fontSize": 24,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k7-l",
+      "x": 952,
+      "y": 416,
+      "width": 275,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1520509309,
+      "type": "text",
+      "text": "«Kraft durch Freude» (seit 1933)\nReichsarbeitsdienst (Pflicht\nseit 1935)",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k7-a",
+      "x": 952,
+      "y": 482,
+      "width": 275,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 17810377,
+      "type": "text",
+      "text": "Aufgabe: KdF: Reisen, Sport, Konzerte\nRAD: sechs Monate Pflichtarbeit,\nVorstufe zum Militär",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "k7-m",
+      "x": 952,
+      "y": 562,
+      "width": 275,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 945779009,
+      "type": "text",
+      "text": "Merkmal: KdF-Schiffe; RAD: Spaten\nals Symbol",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "t-merk",
+      "x": 10,
+      "y": 660,
+      "width": 1235,
+      "height": 56,
+      "angle": 0,
+      "strokeColor": "#9db8d2",
+      "backgroundColor": "#e8f0f8",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1264780336,
+      "type": "rectangle"
+     },
+     {
+      "id": "t-merk-t",
+      "x": 20,
+      "y": 677.5,
+      "width": 1215,
+      "height": 21,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1481419643,
+      "type": "text",
+      "text": "Partei, Gewalt und Massenorganisationen griffen ineinander: Niemand sollte außerhalb stehen – und jeder konnte beobachtet werden.",
+      "fontSize": 17,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "t-merk",
+      "autoResize": false,
+      "lineHeight": 1.25
+     }
+    ]
+   },
+   "beschreibung": "Titel: Wer ist wer im NS-Staat? Acht Steckbriefe (blau Partei, orange Gewalt und Terror, grün Jugend, grau Massenorganisationen). Acht Karten mit Kürzel, Langform, Aufgabe und Merkmal: 1. NSDAP: Nationalsozialistische Deutsche Arbeiterpartei seit 1920; ab 1933 einzige Partei, besetzt alle wichtigen Ämter; Parteiabzeichen am Revers, Parteibuch. 2. SA: Sturmabteilung seit 1921; Saalschutz und Straßenterror, 1933 Hilfspolizei, ab 1934 entmachtet; braune Uniformhemden (Braunhemden). 3. SS: Schutzstaffel seit 1925, Führer Heinrich Himmler; Leibwache, dann Polizei- und Terrorapparat, betreibt die Lager, Hauptträgerin des Völkermords; schwarze Uniform, Totenkopf an der Mütze. 4. Gestapo: Geheime Staatspolizei seit 1933, ab 1934 unter der SS; verfolgt Gegner, verhaftet ohne Gericht (Schutzhaft), lebt von Denunziationen; in Zivil, ab 1939 Teil des Reichssicherheitshauptamts. 5. HJ und DJ: Hitlerjugend (Jungen 14 bis 18, seit 1926), Deutsches Jungvolk (Jungen 10 bis 14, seit 1929); Erziehung zu Gehorsam und Wehrbereitschaft, ab 1936 Staatsjugend, ab 1939 Pflicht; braunes Hemd, schwarzes Halstuch mit Lederknoten, Fahrtenmesser. 6. BDM und JM: Bund Deutscher Mädel (Mädchen 14 bis 18, seit 1930), Jungmädelbund (10 bis 14, seit 1931); Erziehung zur deutschen Frau und Mutter, Sport, Hauswirtschaft, Lager; weiße Bluse, dunkelblauer Rock. 7. DAF: Deutsche Arbeitsfront seit Mai 1933 unter Robert Ley; ersetzt die zerschlagenen Gewerkschaften, Zwangsorganisation für alle Beschäftigten; größte NS-Organisation mit rund 25 Millionen Mitgliedern. 8. KdF und RAD: Kraft durch Freude seit 1933, Reichsarbeitsdienst Pflicht seit 1935; KdF organisiert Reisen, Sport, Konzerte; RAD sechs Monate Pflichtarbeit als Vorstufe zum Militär; KdF-Schiffe, Spaten als RAD-Symbol. 9. Merksatz: Partei, Gewalt und Massenorganisationen griffen ineinander: Niemand sollte außerhalb stehen, und jeder konnte beobachtet werden.",
+   "credit": "Eigene Darstellung, EveryCate, CC BY-SA 4.0"
+  },
+  {
+   "type": "zuordnung",
+   "id": "k3-zu-langform",
+   "title": "Runde 1: Abkürzung und Langform",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.organisationen-zuordnen"
+   ],
+   "intro": "Tippe links eine Abkürzung und rechts die passende Langform an. Jedes Element hat genau ein Gegenstück.",
+   "paare": [
+    {
+     "links": {
+      "text": "NSDAP"
+     },
+     "rechts": {
+      "text": "Nationalsozialistische Deutsche Arbeiterpartei"
+     }
+    },
+    {
+     "links": {
+      "text": "SA"
+     },
+     "rechts": {
+      "text": "Sturmabteilung"
+     }
+    },
+    {
+     "links": {
+      "text": "SS"
+     },
+     "rechts": {
+      "text": "Schutzstaffel"
+     }
+    },
+    {
+     "links": {
+      "text": "Gestapo"
+     },
+     "rechts": {
+      "text": "Geheime Staatspolizei"
+     }
+    },
+    {
+     "links": {
+      "text": "HJ"
+     },
+     "rechts": {
+      "text": "Hitlerjugend"
+     }
+    },
+    {
+     "links": {
+      "text": "DJ"
+     },
+     "rechts": {
+      "text": "Deutsches Jungvolk"
+     }
+    },
+    {
+     "links": {
+      "text": "BDM"
+     },
+     "rechts": {
+      "text": "Bund Deutscher Mädel"
+     }
+    },
+    {
+     "links": {
+      "text": "JM"
+     },
+     "rechts": {
+      "text": "Jungmädelbund"
+     }
+    }
+   ]
+  },
+  {
+   "type": "zuordnung",
+   "id": "k3-zu-aufgabe",
+   "title": "Runde 2: Organisation und Aufgabe",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.organisationen-zuordnen"
+   ],
+   "intro": "Welche Aufgabe hatte welche Organisation? Tippe links und rechts je ein Element an.",
+   "paare": [
+    {
+     "links": {
+      "text": "NSDAP"
+     },
+     "rechts": {
+      "text": "einzige Partei; besetzt alle wichtigen Ämter, Blockleiter überwachen die Nachbarschaft"
+     }
+    },
+    {
+     "links": {
+      "text": "SA"
+     },
+     "rechts": {
+      "text": "Saalschutz und Straßenterror vor 1933, «Hilfspolizei» 1933, nach 1934 entmachtet"
+     }
+    },
+    {
+     "links": {
+      "text": "SS"
+     },
+     "rechts": {
+      "text": "erst Leibwache, dann Polizei- und Terrorapparat; betreibt Konzentrations- und Vernichtungslager"
+     }
+    },
+    {
+     "links": {
+      "text": "Gestapo"
+     },
+     "rechts": {
+      "text": "politische Geheimpolizei; verhaftet ohne Gericht und nutzt Hinweise aus der Bevölkerung"
+     }
+    },
+    {
+     "links": {
+      "text": "HJ"
+     },
+     "rechts": {
+      "text": "Jungen von 14 bis 18 zu Gehorsam und Wehrbereitschaft erziehen"
+     }
+    },
+    {
+     "links": {
+      "text": "BDM"
+     },
+     "rechts": {
+      "text": "Mädchen von 14 bis 18 zur «deutschen Frau und Mutter» erziehen"
+     }
+    },
+    {
+     "links": {
+      "text": "DAF"
+     },
+     "rechts": {
+      "text": "die zerschlagenen Gewerkschaften ersetzen; Zwangsorganisation der Beschäftigten"
+     }
+    },
+    {
+     "links": {
+      "text": "KdF"
+     },
+     "rechts": {
+      "text": "Freizeit, Reisen und Sport organisieren – Freizeit als Teil der Propaganda"
+     }
+    }
+   ]
+  },
+  {
+   "type": "zuordnung",
+   "id": "k3-zu-merkmal",
+   "title": "Runde 3: Woran erkannte man sie?",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.organisationen-zuordnen"
+   ],
+   "intro": "Tippe links ein Erkennungsmerkmal und rechts die passende Organisation an. Achtung: Braune Hemden trugen mehrere Organisationen – achte auf die Details.",
+   "paare": [
+    {
+     "links": {
+      "text": "braune Uniformhemden, deshalb «Braunhemden» genannt"
+     },
+     "rechts": {
+      "text": "SA"
+     }
+    },
+    {
+     "links": {
+      "text": "schwarze Uniform, Totenkopf an der Mütze"
+     },
+     "rechts": {
+      "text": "SS"
+     }
+    },
+    {
+     "links": {
+      "text": "Beamte in Zivil, die auf Anzeigen aus der Nachbarschaft warten"
+     },
+     "rechts": {
+      "text": "Gestapo"
+     }
+    },
+    {
+     "links": {
+      "text": "schwarzes Halstuch mit Lederknoten, Fahrtenmesser"
+     },
+     "rechts": {
+      "text": "HJ"
+     }
+    },
+    {
+     "links": {
+      "text": "weiße Bluse, dunkelblauer Rock"
+     },
+     "rechts": {
+      "text": "BDM"
+     }
+    },
+    {
+     "links": {
+      "text": "Parteiabzeichen am Revers und das Parteibuch"
+     },
+     "rechts": {
+      "text": "NSDAP"
+     }
+    },
+    {
+     "links": {
+      "text": "Urlaubsschiffe und Ausflüge für Arbeiterfamilien"
+     },
+     "rechts": {
+      "text": "KdF"
+     }
+    },
+    {
+     "links": {
+      "text": "Spaten als Symbol, sechs Monate Pflichtdienst"
+     },
+     "rechts": {
+      "text": "RAD"
+     }
+    }
+   ]
+  },
+  {
+   "type": "zuordnung",
+   "id": "k3-zu-gruendung",
+   "title": "Runde 4: Wann entstanden sie?",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.organisationen-zuordnen"
+   ],
+   "intro": "Ordne jeder Organisation die Zeit ihrer Gründung zu. Jedes Element hat genau ein Gegenstück.",
+   "paare": [
+    {
+     "links": {
+      "text": "NSDAP"
+     },
+     "rechts": {
+      "text": "1920, aus der DAP"
+     }
+    },
+    {
+     "links": {
+      "text": "SA"
+     },
+     "rechts": {
+      "text": "1921"
+     }
+    },
+    {
+     "links": {
+      "text": "SS"
+     },
+     "rechts": {
+      "text": "1925, als Leibwache Hitlers"
+     }
+    },
+    {
+     "links": {
+      "text": "HJ"
+     },
+     "rechts": {
+      "text": "1926"
+     }
+    },
+    {
+     "links": {
+      "text": "Gestapo"
+     },
+     "rechts": {
+      "text": "April 1933, in Preußen"
+     }
+    },
+    {
+     "links": {
+      "text": "DAF"
+     },
+     "rechts": {
+      "text": "Mai 1933, nach dem Ende der Gewerkschaften"
+     }
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "k3-erweitert",
+   "title": "Hintergründe: KZ, KdF-Wagen, RSHA und das Wort «Nazi» (Erweitert)",
+   "body": "- **KZ – Konzentrationslager.** Haftlager ohne Gerichtsurteil, zuerst für politische Gegner (Dachau, März 1933), später für alle, die das Regime ausgrenzte. Betrieben von den SS-Totenkopfverbänden. Wichtig: Ein Konzentrationslager ist **nicht dasselbe wie ein Vernichtungslager** – in den KZ wurde gequält, ausgebeutet und massenhaft gestorben, die Vernichtungslager im besetzten Polen dienten ab 1941/42 der gezielten Massentötung. Mehr dazu im Modul über die Judenverfolgung.\n- **Der «KdF-Wagen».** Die Freizeitorganisation versprach jeder Familie ein eigenes Auto: Hunderttausende sparten dafür mit Sparmarken, doch kein einziger Sparer bekam sein Auto – die Fabrik baute ab 1939 Militärfahrzeuge. Nach dem Krieg wurde aus dem Modell der VW Käfer.\n- **RSHA – Reichssicherheitshauptamt.** Ab 1939 die Zentrale von Gestapo, Kriminalpolizei und SD unter Reinhard Heydrich – die Schaltstelle des Terrors und später der Deportationen.\n- **NS / «Nazi».** NS ist die Kurzform für «nationalsozialistisch». «Nazi» war ursprünglich ein spöttischer Kurzname der Gegner (wie «Sozi» für Sozialdemokraten) und wurde zum heute üblichen Wort."
+  },
+  {
+   "type": "lueckentext",
+   "id": "k3-lt-eingabe",
+   "title": "Kürzel entschlüsseln",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.organisationen-zuordnen"
+   ],
+   "intro": "Tippe die fehlenden Abkürzungen oder Wörter selbst ein. Groß-/Kleinschreibung spielt keine Rolle.",
+   "modus": "eingabe",
+   "text": "Die Partei hieß mit vollem Namen Nationalsozialistische Deutsche {{1}} (NSDAP).\nDie braunen Uniformhemden trug die {{2}} (Sturmabteilung).\nDie Schutzstaffel, kurz {{3}}, betrieb die Konzentrationslager und ermordete Millionen Menschen.\nDie Geheime Staatspolizei nannte man kurz {{4}}.\nJungen von 14 bis 18 gehörten zur {{5}} (HJ), Jungen von 10 bis 14 zum Deutschen {{6}} (DJ).\nMädchen von 14 bis 18 gehörten zum Bund Deutscher Mädel, kurz {{7}}.\nAn die Stelle der Gewerkschaften trat die Deutsche Arbeitsfront, kurz {{8}}.\nSechs Monate Pflichtarbeit leistete man im Reichsarbeitsdienst, kurz {{9}}.",
+   "luecken": [
+    {
+     "antworten": [
+      "Arbeiterpartei",
+      "Arbeiter-Partei",
+      "Arbeiter Partei"
+     ]
+    },
+    {
+     "antworten": [
+      "SA"
+     ]
+    },
+    {
+     "antworten": [
+      "SS"
+     ]
+    },
+    {
+     "antworten": [
+      "Gestapo"
+     ]
+    },
+    {
+     "antworten": [
+      "Hitlerjugend",
+      "Hitler-Jugend",
+      "Hitler Jugend"
+     ]
+    },
+    {
+     "antworten": [
+      "Jungvolk",
+      "Jung-Volk",
+      "Jung Volk"
+     ]
+    },
+    {
+     "antworten": [
+      "BDM"
+     ]
+    },
+    {
+     "antworten": [
+      "DAF"
+     ]
+    },
+    {
+     "antworten": [
+      "RAD"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "quiz",
+   "id": "k3-quiz",
+   "title": "Selbstcheck: Wer ist wer?",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.organisationen-zuordnen",
+    "geschichte.nationalsozialismus.terrorsystem-erklaeren"
+   ],
+   "intro": "Prüfe, ob du die Organisationen auseinanderhältst. Du kannst das Quiz beliebig oft wiederholen – es zählt dein bestes Ergebnis.",
+   "questions": [
+    {
+     "id": "k3-q1",
+     "type": "single_choice",
+     "prompt": "Welche Organisation trug braune Uniformhemden und wurde nach 1934 entmachtet?",
+     "options": [
+      {
+       "text": "Die SS, nachdem Himmler die Polizei übernommen hatte."
+      },
+      {
+       "text": "Die SA, nachdem ihre Führung im Juni/Juli 1934 ermordet worden war.",
+       "correct": true
+      },
+      {
+       "text": "Die Gestapo, nachdem sie ins Reichssicherheitshauptamt eingegliedert wurde."
+      },
+      {
+       "text": "Die Hitlerjugend, nachdem sie 1936 zur Staatsjugend erklärt wurde."
+      }
+     ],
+     "explanation": "Die «Braunhemden» waren die SA. Nach dem sogenannten «Röhm-Putsch» 1934 verlor sie ihre Macht an die SS. Die SS trug Schwarz, die Gestapo arbeitete in Zivil, und die Hitlerjugend wurde 1936 nicht entmachtet, sondern aufgewertet."
+    },
+    {
+     "id": "k3-q2",
+     "type": "single_choice",
+     "prompt": "Warum wurde die SS nach 1934 zur mächtigsten Organisation des NS-Staates?",
+     "options": [
+      {
+       "text": "Weil sie mehr Mitglieder hatte als die NSDAP und die SA zusammengenommen."
+      },
+      {
+       "text": "Weil Hitler ihr die Leitung aller Schulen, Hochschulen und Universitäten übertrug."
+      },
+      {
+       "text": "Weil sie die Reichstagswahlen organisierte, überwachte und die Stimmen auszählte."
+      },
+      {
+       "text": "Weil sie unter Himmler die Polizei, die Gestapo und die Konzentrationslager übernahm.",
+       "correct": true
+      }
+     ],
+     "explanation": "Himmler machte aus der Leibwache einen Staat im Staat: Ab 1934 unterstand ihm die Gestapo, 1936 wurde er Chef der gesamten Polizei, die SS-Totenkopfverbände betrieben die Lager. Mitgliederzahlen, Schulen oder Wahlen spielten dafür keine Rolle – freie Wahlen gab es ohnehin nicht mehr, nur noch Scheinwahlen ohne echte Auswahl."
+    },
+    {
+     "id": "k3-q3",
+     "type": "single_choice",
+     "prompt": "Was bedeutete «Schutzhaft»?",
+     "options": [
+      {
+       "text": "Haft ohne Anklage, Richter und Zeitlimit – angeordnet von der Gestapo.",
+       "correct": true
+      },
+      {
+       "text": "Eine kurze Haft zum Schutz von Zeugen in politischen Prozessen."
+      },
+      {
+       "text": "Die Unterbringung von Jugendlichen in Lagern der Hitlerjugend während der Ferien."
+      },
+      {
+       "text": "Der Polizeischutz für Parteiveranstaltungen der NSDAP durch die SA."
+      }
+     ],
+     "explanation": "«Schutzhaft» war ein beschönigender NS-Begriff für Verhaftungen ohne jedes Gerichtsverfahren, meist durch die Gestapo – oft der Weg ins Konzentrationslager. Mit Zeugenschutz, Ferienlagern oder Saalschutz hatte das Wort nichts zu tun."
+    },
+    {
+     "id": "k3-q4",
+     "type": "single_choice",
+     "prompt": "Die Gestapo hatte 1937 nur etwa 7 000 Beamte. Wie konnte sie trotzdem so viel Angst verbreiten?",
+     "options": [
+      {
+       "text": "Sie hatte in jedem Haus eine Abhöranlage installiert und las alle Briefe mit."
+      },
+      {
+       "text": "Sie war in jeder Stadt mit Tausenden uniformierten Beamten sichtbar präsent."
+      },
+      {
+       "text": "Sie bekam laufend Anzeigen aus dem Umfeld der Menschen – und niemand wusste, wer meldet.",
+       "correct": true
+      },
+      {
+       "text": "Sie durfte nur mit richterlichem Beschluss verhaften und galt deshalb als besonders gründlich."
+      }
+     ],
+     "explanation": "Die Gestapo war klein und arbeitete in Zivil. Ihre Macht beruhte auf Denunziationen: Ein großer Teil der Verfahren begann mit einer Anzeige aus dem Umfeld der Betroffenen. Flächendeckende Abhörtechnik gab es nicht, und richterliche Beschlüsse brauchte sie gerade nicht."
+    },
+    {
+     "id": "k3-q5",
+     "type": "true_false",
+     "prompt": "Die SS begann als kleine Leibwache Hitlers und wurde erst unter Himmler zum Polizei- und Terrorapparat.",
+     "answer": true,
+     "explanation": "Richtig. 1925 gegründet, zählte die SS zunächst nur wenige Hundert Mann. Ab 1929 baute Heinrich Himmler sie zur «Elite» aus; nach 1934 übernahm sie Polizei, Gestapo und Lager."
+    },
+    {
+     "id": "k3-q6",
+     "type": "single_choice",
+     "prompt": "Welche Organisation ersetzte 1933 die zerschlagenen Gewerkschaften?",
+     "options": [
+      {
+       "text": "Der Reichsarbeitsdienst (RAD) mit seinem sechsmonatigen Pflichtdienst."
+      },
+      {
+       "text": "Die Deutsche Arbeitsfront (DAF) als Zwangsorganisation ohne Streikrecht.",
+       "correct": true
+      },
+      {
+       "text": "Das Reichssicherheitshauptamt (RSHA) unter Reinhard Heydrich."
+      },
+      {
+       "text": "Die Organisation «Kraft durch Freude» (KdF) mit ihren Reisen und Kursen."
+      }
+     ],
+     "explanation": "Nach dem 2. Mai 1933 trat die DAF an die Stelle der Gewerkschaften – ohne Streikrecht und ohne echte Interessenvertretung. KdF war nur ihre Freizeitabteilung, der RAD ein Pflichtarbeitsdienst und das RSHA die Terrorzentrale von Gestapo, Kriminalpolizei und SD."
+    },
+    {
+     "id": "k3-q7",
+     "type": "single_choice",
+     "prompt": "Wen nannten alte Parteimitglieder spöttisch «Märzgefallene»?",
+     "options": [
+      {
+       "text": "SA-Männer, die im März 1933 bei Straßenkämpfen ums Leben gekommen waren."
+      },
+      {
+       "text": "Abgeordnete, die im März 1933 gegen das Ermächtigungsgesetz gestimmt hatten."
+      },
+      {
+       "text": "Jugendliche, die im März 1933 aus der Hitlerjugend ausgeschlossen wurden."
+      },
+      {
+       "text": "Menschen, die nach der Wahl im März 1933 massenhaft in die NSDAP eintraten.",
+       "correct": true
+      }
+     ],
+     "explanation": "Nach dem Wahlerfolg vom März 1933 strömten mehr als eine Million Menschen in die Partei – viele aus Berechnung. Alte Mitglieder nannten sie «Märzgefallene», und im Mai 1933 verhängte die NSDAP einen Aufnahmestopp. Mit Gefallenen, Abgeordneten oder der Hitlerjugend hat der Spottname nichts zu tun."
+    }
+   ]
+  },
+  {
+   "type": "tasks",
+   "id": "k3-tasks",
+   "title": "Vertiefung: Wie Terror funktioniert",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.terrorsystem-erklaeren"
+   ],
+   "intro": "Deine Antworten gehen an deine Lehrperson. Aufgabe 1 ist für alle gedacht, die Aufgaben 2 und 3 sind als **(Erweitert)** gekennzeichnet.",
+   "tasks": [
+    {
+     "id": "k3-t1",
+     "prompt": "Erkläre in zwei bis drei Sätzen, warum der Terror des NS-Staates auch ohne einen Gestapo-Beamten an jeder Straßenecke funktionierte.",
+     "hint": "Denk an die Zahl 7 000, an die Blockleiter – und daran, was passiert, wenn niemand mehr weiß, wem er trauen kann.",
+     "solution": "Beispielantwort: Die Gestapo war mit rund 7 000 Beamten viel zu klein, um alle zu überwachen. Sie bekam aber ständig Hinweise von Nachbarn, Kolleginnen, Blockleitern und sogar Familienmitgliedern. Weil niemand wusste, wer zuhört und meldet, passten die Menschen sich von selbst an – die Angst erledigte, was die Polizei nicht schaffte."
+    },
+    {
+     "id": "k3-t2",
+     "prompt": "(Erweitert) Vergleiche SA und SS in drei bis vier Sätzen: Warum verlor die SA 1934 ihre Macht, und warum gewann die SS?",
+     "hint": "Schau noch einmal in [[modul:nationalsozialismus-machtuebernahme-1933]]: Was wollte Röhm mit der SA, und warum störte das die Reichswehr und Hitler? Welche Aufgaben übernahm die SS danach?",
+     "solution": "Beispielantwort: Die SA war ein Millionenheer von Schlägern, das unter Röhm die Reichswehr ablösen wollte und damit die Generäle gegen sich aufbrachte. Hitler brauchte die Armee für seine Pläne und ließ die SA-Führung 1934 durch die SS ermorden. Die SS dagegen war kleiner, galt als «Elite» und gehorchte bedingungslos; unter Himmler übernahm sie Polizei, Gestapo und Lager. So wurde aus der Leibwache die Organisation, die den Terror und später den Völkermord trug."
+    },
+    {
+     "id": "k3-t3",
+     "prompt": "(Erweitert) Im Frühjahr 1933 traten mehr als eine Million Menschen in die NSDAP ein – die «Märzgefallenen». Erkläre in drei bis fünf Sätzen, welche Gründe dahinterstecken konnten, und unterscheide dabei Überzeugung von Berechnung.",
+     "hint": "Was brauchte man ab 1933 für eine Karriere als Beamter, Lehrer oder Richter? Und was bedeutete es, nicht dazuzugehören?",
+     "solution": "Beispielantwort: Manche traten aus Überzeugung ein, weil sie Hitlers Erfolg bewunderten oder die Versprechen von Ordnung und Arbeit glaubten. Viele traten aber aus Berechnung ein: Wer als Beamter, Lehrer oder Richter Karriere machen wollte, brauchte das Parteibuch, und wer nicht dazugehörte, fiel auf und riskierte Nachteile. Dazu kam Angst – Mitgliedschaft wirkte wie ein Schutz. Dass die alten Mitglieder die Neuen verspotteten, zeigt, dass auch die Partei selbst den Unterschied zwischen Überzeugung und Anpassung aus Eigennutz kannte."
+    }
+   ]
+  }
+ ]
+}

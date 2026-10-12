@@ -1,0 +1,986 @@
+{
+ "schemaVersion": 3,
+ "id": "nationalsozialismus-staatsformen-faschismus",
+ "title": "Wer regiert? Staatsformen, Demokratie und Diktatur",
+ "description": "Monarchie oder Republik, Demokratie oder Diktatur – das sind zwei verschiedene Fragen. Du lernst die Merkmale kennen, ordnest Staaten von Liechtenstein bis NS-Deutschland in eine Vierfelder-Matrix ein und klärst, was Totalitarismus und Faschismus bedeuten und was den Nationalsozialismus davon unterscheidet.",
+ "curricula": [
+  {
+   "curriculum": "li",
+   "subject": "RZG",
+   "subjectName": "Räume, Zeiten, Gesellschaften",
+   "grades": [
+    9
+   ],
+   "competencies": [
+    {
+     "code": "RZG.8.1",
+     "description": "Die Schülerinnen und Schüler können die Staatsform Liechtensteins erklären und mit anderen Systemen vergleichen."
+    },
+    {
+     "code": "RZG.6.3",
+     "description": "Die Schülerinnen und Schüler können ausgewählte Phänomene der Geschichte des 20. und 21. Jahrhunderts analysieren und deren Relevanz für heute erklären."
+    }
+   ]
+  },
+  {
+   "curriculum": "ch",
+   "subject": "RZG",
+   "subjectName": "Räume, Zeiten, Gesellschaften",
+   "grades": [
+    9
+   ],
+   "competencies": [
+    {
+     "code": "RZG.8.1",
+     "description": "Die Schülerinnen und Schüler können die Schweizer Demokratie erklären und mit anderen Systemen vergleichen."
+    },
+    {
+     "code": "RZG.6.3",
+     "description": "Die Schülerinnen und Schüler können ausgewählte Phänomene der Geschichte des 20. und 21. Jahrhunderts analysieren und deren Relevanz für heute erklären."
+    }
+   ]
+  },
+  {
+   "curriculum": "de",
+   "subject": "Geschichte",
+   "grades": [
+    9
+   ]
+  }
+ ],
+ "language": "de",
+ "sequenz": 1,
+ "einheit": "Nationalsozialismus – Diktatur, Verfolgung, Erinnerung",
+ "requires": [
+  "weimar-wirtschaftskrise-nationalsozialismus"
+ ],
+ "durationMinutes": 60,
+ "difficulty": "mittel",
+ "keywords": [
+  "Staatsformen",
+  "Monarchie",
+  "Republik",
+  "Demokratie",
+  "Diktatur",
+  "Totalitarismus",
+  "Faschismus",
+  "Nationalsozialismus",
+  "Liechtenstein",
+  "Mussolini"
+ ],
+ "learningObjectives": [
+  "Ich kann die Frage nach dem Staatsoberhaupt (Monarchie oder Republik) von der Frage nach der Macht und ihrer Kontrolle (Demokratie oder Diktatur) unterscheiden.",
+  "Ich kann Merkmale einer Demokratie und einer Diktatur nennen und Beispiele zuordnen.",
+  "Ich kann Liechtenstein, die Schweiz, das Vereinigte Königreich, die Weimarer Republik und NS-Deutschland in die Vierfelder-Matrix einordnen und begründen, warum eine Monarchie demokratisch und eine Republik eine Diktatur sein kann.",
+  "Ich kann erklären, was Totalitarismus bedeutet.",
+  "Ich kann den Faschismus in Italien beschreiben und erklären, was den Nationalsozialismus davon unterscheidet.",
+  "(Erweitert) Ich kann in drei bis fünf Sätzen einordnen, warum Forschende darüber streiten, ob der Nationalsozialismus als «Faschismus» gelten soll."
+ ],
+ "sources": [
+  {
+   "title": "LiLe – Liechtensteiner Lehrplan",
+   "url": "https://www.lile.li"
+  },
+  {
+   "title": "Verfassung des Fürstentums Liechtenstein vom 5. Oktober 1921 (LGBl. 1921 Nr. 15), Art. 2",
+   "url": "https://www.gesetze.li/konso/1921015000"
+  },
+  {
+   "title": "LeMO – Lebendiges Museum Online: NS-Regime (Deutsches Historisches Museum)",
+   "url": "https://www.dhm.de/lemo/kapitel/ns-regime"
+  },
+  {
+   "title": "Bundeszentrale für politische Bildung (bpb): Dossier Nationalsozialismus",
+   "url": "https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/"
+  },
+  {
+   "title": "Historisches Lexikon des Fürstentums Liechtenstein (eHLFL): Verfassung",
+   "url": "https://historisches-lexikon.li"
+  }
+ ],
+ "license": "CC BY-SA 4.0",
+ "authors": [
+  "Anna Rinderer"
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "id": "k1-einstieg",
+   "title": "Wer regiert – und wer darf mitreden?",
+   "body": "Stell dir vor, deine Klasse soll entscheiden, wohin die Schulreise geht. Variante A: Alle stimmen ab, die Mehrheit entscheidet, und wer dagegen war, darf das laut sagen und beim nächsten Mal eine andere Mehrheit suchen. Variante B: Eine Person bestimmt, Widerspruch gibt es nicht – und wer trotzdem widerspricht, bekommt Ärger.\n\nBei Staaten ist es ähnlich, nur mit viel mehr Folgen. Um Staaten zu vergleichen, musst du **zwei Fragen auseinanderhalten**, die oft durcheinandergebracht werden:\n\n1. **Wer steht an der Spitze?** Gibt es ein Staatsoberhaupt, das sein Amt erbt (**Monarchie**), oder gibt es keinen Monarchen, sondern ein Staatsoberhaupt auf Zeit (**Republik**)?\n2. **Wer hat die Macht – und wer kontrolliert sie?** Entscheidet das Volk in freien Wahlen und wird die Macht geteilt und kontrolliert (**Demokratie**), oder liegt sie bei einer Person oder Partei, die niemand kontrollieren darf (**Diktatur**)?\n\nViele denken: Monarchie heißt unfrei, Republik heißt frei. Das stimmt nicht. Liechtenstein hat einen Fürsten und ist zugleich eine Demokratie. Und das Deutsche Reich hatte seit 1918 keinen Kaiser mehr, war also eine Republik – und wurde ab 1933 trotzdem zur Diktatur.\n\nIn [[modul:weimar-wirtschaftskrise-nationalsozialismus]] hast du gesehen, wie die erste deutsche Demokratie in die Krise geriet und wie Hitler am 30. Januar 1933 Reichskanzler wurde. Diese Modulreihe erzählt, was danach kam: wie aus einer Demokratie innerhalb von eineinhalb Jahren eine Diktatur wurde, wie der NS-Staat funktionierte, was er mit Jugendlichen vorhatte und wie er Menschen ausgrenzte, verfolgte und ermordete. Zuerst aber brauchen wir die Begriffe – sonst reden wir aneinander vorbei."
+  },
+  {
+   "type": "text",
+   "id": "k1-staatsoberhaupt",
+   "title": "Frage 1: Wer ist das Staatsoberhaupt? Monarchie oder Republik",
+   "body": "In einer **Monarchie** steht an der Spitze des Staates eine Person, die ihr Amt **durch Erbfolge** bekommt und es in der Regel **auf Lebenszeit** behält: ein König oder eine Königin, ein Fürst oder eine Fürstin, ein Kaiser oder eine Kaiserin. Dabei gibt es große Unterschiede:\n\n- **Absolute Monarchie:** Die Herrschenden haben die ganze Macht. Keine Verfassung und kein Parlament können sie binden. Beispiele: Frankreich unter Ludwig XIV. im 17. Jahrhundert oder Saudi-Arabien heute.\n- **Konstitutionelle Monarchie:** Eine Verfassung (lateinisch *constitutio*) begrenzt die Macht des Monarchen. Ist die Regierung zusätzlich vom gewählten Parlament abhängig, spricht man von einer **parlamentarischen Monarchie** – zum Beispiel im Vereinigten Königreich, wo der König repräsentiert, aber nicht regiert.\n\nIn einer **Republik** gibt es keinen Monarchen. Das Staatsoberhaupt wird in der Regel **gewählt** und bleibt nur **für eine bestimmte Zeit** im Amt. In Österreich ist das der Bundespräsident (sechs Jahre). In der Schweiz übernimmt der gesamte Bundesrat mit seinen sieben Mitgliedern die Rolle des Staatsoberhaupts; den Vorsitz als Bundespräsidentin oder Bundespräsident hat jedes Jahr ein anderes Mitglied. In der Weimarer Republik wurde der Reichspräsident für sieben Jahre vom Volk gewählt.\n\n**Und Liechtenstein?** Die Verfassung von 1921 beschreibt den Staat in Artikel 2 so:\n\n> «Das Fürstentum ist eine konstitutionelle Erbmonarchie auf demokratischer und parlamentarischer Grundlage (Art. 79 und 80); die Staatsgewalt ist im Fürsten und im Volke verankert und wird von beiden nach Maßgabe der Bestimmungen dieser Verfassung ausgeübt.»\n>\n> — Verfassung des Fürstentums Liechtenstein, 5. Oktober 1921, Art. 2\n\nDas heißt: Der Fürst erbt sein Amt (Erbmonarchie), die Verfassung begrenzt seine Macht (konstitutionell), und ein vom Volk gewählter Landtag wirkt an den Gesetzen mit (demokratisch und parlamentarisch). Ein Gesetz kommt nur zustande, wenn der Landtag zustimmt **und** der Fürst es sanktioniert, also bestätigt – keiner von beiden kann die Gesetze allein machen. Darum sagt die Verfassung, die Staatsgewalt sei im Fürsten **und** im Volk verankert.\n\n> **Merke:** Die Frage nach dem Staatsoberhaupt sagt noch nichts darüber, wie frei die Menschen in einem Land sind. Dafür brauchst du die zweite Frage."
+  },
+  {
+   "type": "text",
+   "id": "k1-macht",
+   "title": "Frage 2: Wer hat die Macht – und wer kontrolliert sie? Demokratie oder Diktatur",
+   "body": "Das Wort **Demokratie** kommt aus dem Griechischen und bedeutet «Herrschaft des Volkes». Eine Demokratie erkennst du an diesen Merkmalen:\n\n1. **Volkssouveränität:** Die Macht geht vom Volk aus – über **freie, geheime und regelmäßige Wahlen**.\n2. **Gewaltenteilung:** Parlament (macht Gesetze), Regierung (führt sie aus) und Gerichte (urteilen unabhängig) sind getrennt und kontrollieren einander.\n3. **Grundrechte und Rechtsstaat:** Meinungs-, Presse- und Versammlungsfreiheit gelten für alle; der Staat ist selbst an die Gesetze gebunden, niemand wird ohne Gerichtsverfahren eingesperrt.\n4. **Opposition und Minderheitenschutz:** Wer gegen die Regierung ist, darf das sagen, sich organisieren und die nächste Wahl gewinnen. Die Mehrheit entscheidet, aber sie darf Minderheiten nicht entrechten.\n\nEine Besonderheit: In Liechtenstein ist die Staatsgewalt laut Verfassung im Fürsten **und** im Volk verankert, das erste Merkmal gilt hier also in einer besonderen Form. Trotzdem ist Liechtenstein eine Demokratie: Das Volk wählt den Landtag in freien, geheimen Wahlen, der Fürst kann Gesetze nicht allein beschließen, die Verfassung bindet alle, und Volksabstimmungen sind möglich.\n\nIn einer **Diktatur** (lateinisch *dictare* = befehlen, vorschreiben) ist es umgekehrt:\n\n1. Die Macht liegt bei **einer Person oder einer Partei** – unbegrenzt und unkontrolliert.\n2. **Keine Gewaltenteilung:** Regierung, Parlament und Gerichte folgen demselben Willen.\n3. **Keine freien Wahlen** – oder nur Scheinwahlen ohne echte Auswahl.\n4. **Zensur:** Zeitungen, Radio und Bücher dürfen nur verbreiten, was erlaubt ist.\n5. **Verfolgung von Gegnern** durch Polizei und **Geheimpolizei**, oft ohne Gerichtsverfahren.\n\n> **Merke:** Entscheidend ist nicht, *ob* es Wahlen, Gerichte oder Zeitungen gibt – fast jede Diktatur hat sie. Entscheidend ist, ob sie **frei und unabhängig** sind.\n\nWie solche Merkmale heute aussehen, hast du in [[modul:wirtschaft-politik-21-autoritaere-systeme-heute]] vielleicht schon untersucht. Jetzt legen wir beide Fragen übereinander – und bekommen vier Felder."
+  },
+  {
+   "type": "schaubild",
+   "id": "k1-matrix",
+   "title": "Die Vierfelder-Matrix: Staatsoberhaupt und Machtkontrolle",
+   "szene": {
+    "elemente": [
+     {
+      "id": "titel",
+      "x": 300,
+      "y": 0,
+      "width": 747,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1856146434,
+      "type": "text",
+      "text": "Vier Felder: Staatsoberhaupt und Machtkontrolle",
+      "fontSize": 28,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "untertitel",
+      "x": 300,
+      "y": 42,
+      "width": 395,
+      "height": 20,
+      "angle": 0,
+      "strokeColor": "#4c6f91",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 642014035,
+      "type": "text",
+      "text": "Zwei Fragen, die man auseinanderhalten muss",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "frage-oben",
+      "x": 300,
+      "y": 90,
+      "width": 343,
+      "height": 23,
+      "angle": 0,
+      "strokeColor": "#4c6f91",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1741315087,
+      "type": "text",
+      "text": "Frage 1: Wer ist Staatsoberhaupt?",
+      "fontSize": 18,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "frage-links",
+      "x": 0,
+      "y": 90,
+      "width": 260,
+      "height": 68,
+      "angle": 0,
+      "strokeColor": "#4c6f91",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 287671134,
+      "type": "text",
+      "text": "Frage 2:\nWer hat die Macht –\nund wer kontrolliert sie?",
+      "fontSize": 18,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "hdr-mon",
+      "x": 300,
+      "y": 130,
+      "width": 440,
+      "height": 80,
+      "angle": 0,
+      "strokeColor": "#5f7d99",
+      "backgroundColor": "#d6e0ec",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1015242878,
+      "type": "rectangle"
+     },
+     {
+      "id": "hdr-mon-t",
+      "x": 310,
+      "y": 147.5,
+      "width": 420,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 165880013,
+      "type": "text",
+      "text": "Monarchie\nStaatsoberhaupt durch Erbfolge, auf Lebenszeit",
+      "fontSize": 18,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "hdr-mon",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "hdr-rep",
+      "x": 760,
+      "y": 130,
+      "width": 440,
+      "height": 80,
+      "angle": 0,
+      "strokeColor": "#5f7d99",
+      "backgroundColor": "#d6e0ec",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1515603341,
+      "type": "rectangle"
+     },
+     {
+      "id": "hdr-rep-t",
+      "x": 770,
+      "y": 136,
+      "width": 420,
+      "height": 68,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 107382559,
+      "type": "text",
+      "text": "Republik\nkein Monarch – Staatsoberhaupt\nmeist gewählt, auf Zeit",
+      "fontSize": 18,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "hdr-rep",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "row-dem",
+      "x": 20,
+      "y": 230,
+      "width": 260,
+      "height": 230,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1528243602,
+      "type": "rectangle"
+     },
+     {
+      "id": "row-dem-t",
+      "x": 30,
+      "y": 311,
+      "width": 240,
+      "height": 68,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 638094258,
+      "type": "text",
+      "text": "Demokratie\nfreie Wahlen, Gewaltenteilung,\nGrundrechte, Opposition",
+      "fontSize": 18,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "row-dem",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "row-dik",
+      "x": 20,
+      "y": 480,
+      "width": 260,
+      "height": 230,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "#ffd8a8",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 493562486,
+      "type": "rectangle"
+     },
+     {
+      "id": "row-dik-t",
+      "x": 30,
+      "y": 561,
+      "width": 240,
+      "height": 68,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 166934492,
+      "type": "text",
+      "text": "Diktatur\nMacht bei einer Person oder Partei,\nkeine Kontrolle, Verfolgung",
+      "fontSize": 18,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "row-dik",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "cell-dem-mon",
+      "x": 300,
+      "y": 230,
+      "width": 440,
+      "height": 230,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1826155920,
+      "type": "rectangle"
+     },
+     {
+      "id": "cell-dem-mon-t",
+      "x": 310,
+      "y": 281,
+      "width": 420,
+      "height": 128,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1980629219,
+      "type": "text",
+      "text": "Demokratische Monarchie\n\nLiechtenstein (Verfassung 1921:\nkonstitutionelle Erbmonarchie auf\ndemokratischer und parlamentarischer Grundlage)\nVereinigtes Königreich",
+      "fontSize": 17,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "cell-dem-mon",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "cell-dem-rep",
+      "x": 760,
+      "y": 230,
+      "width": 440,
+      "height": 230,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 393723250,
+      "type": "rectangle"
+     },
+     {
+      "id": "cell-dem-rep-t",
+      "x": 770,
+      "y": 292,
+      "width": 420,
+      "height": 106,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 2112864141,
+      "type": "text",
+      "text": "Demokratische Republik\n\nSchweiz\nÖsterreich\nWeimarer Republik 1919–1933",
+      "fontSize": 17,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "cell-dem-rep",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "cell-dik-mon",
+      "x": 300,
+      "y": 480,
+      "width": 440,
+      "height": 230,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "#ffe8cc",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1614188875,
+      "type": "rectangle"
+     },
+     {
+      "id": "cell-dik-mon-t",
+      "x": 310,
+      "y": 531,
+      "width": 420,
+      "height": 128,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 871607332,
+      "type": "text",
+      "text": "Diktatur mit Monarch\n\nSaudi-Arabien (absolute Monarchie:\nder König hat alle Macht)\nItalien unter Mussolini 1925–1943\n(der König blieb, Mussolini regierte)",
+      "fontSize": 17,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "cell-dik-mon",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "cell-dik-rep",
+      "x": 760,
+      "y": 480,
+      "width": 440,
+      "height": 230,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "#ffe8cc",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1069395373,
+      "type": "rectangle"
+     },
+     {
+      "id": "cell-dik-rep-t",
+      "x": 770,
+      "y": 531,
+      "width": 420,
+      "height": 128,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1346169768,
+      "type": "text",
+      "text": "Diktatur ohne Monarch\n\nNS-Deutschland 1933–1945\n(formal weiter «Deutsches Reich», kein Kaiser;\nab 1934 Hitler als «Führer» –\nohne Wahl und ohne Amtszeit)",
+      "fontSize": 17,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "cell-dik-rep",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "merksatz",
+      "x": 20,
+      "y": 740,
+      "width": 1180,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#9db8d2",
+      "backgroundColor": "#e8f0f8",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1323890193,
+      "type": "rectangle"
+     },
+     {
+      "id": "merksatz-t",
+      "x": 30,
+      "y": 758,
+      "width": 1160,
+      "height": 24,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1591521450,
+      "type": "text",
+      "text": "Merke: Eine Monarchie kann demokratisch sein – und eine Republik kann eine Diktatur sein.",
+      "fontSize": 19,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "merksatz",
+      "autoResize": false,
+      "lineHeight": 1.25
+     }
+    ]
+   },
+   "beschreibung": "Titel: Vier Felder: Staatsoberhaupt und Machtkontrolle. Untertitel: Zwei Fragen, die man auseinanderhalten muss. Das Schaubild ist eine Tabelle mit zwei Spalten und zwei Zeilen. Die Spalten beantworten Frage 1 nach dem Staatsoberhaupt: links Monarchie (Staatsoberhaupt durch Erbfolge, auf Lebenszeit), rechts Republik (kein Monarch, Staatsoberhaupt meist gewählt, auf Zeit). Die Zeilen beantworten Frage 2 nach der Macht und ihrer Kontrolle: oben Demokratie (freie Wahlen, Gewaltenteilung, Grundrechte, Opposition), unten Diktatur (Macht bei einer Person oder Partei, keine Kontrolle, Verfolgung). Kernaussagen: 1. Feld Demokratische Monarchie: Liechtenstein, laut Verfassung von 1921 eine konstitutionelle Erbmonarchie auf demokratischer und parlamentarischer Grundlage, und das Vereinigte Königreich. 2. Feld Demokratische Republik: Schweiz, Österreich und die Weimarer Republik 1919 bis 1933. 3. Feld Diktatur mit Monarch: Saudi-Arabien als absolute Monarchie, in der der König alle Macht hat, sowie Italien unter Mussolini 1925 bis 1943, wo der König blieb und Mussolini regierte. 4. Feld Diktatur ohne Monarch: NS-Deutschland 1933 bis 1945, formal weiter Deutsches Reich genannt, ohne Kaiser; ab 1934 Hitler als Führer ohne Wahl und ohne Amtszeit. 5. Merksatz unter der Tabelle: Eine Monarchie kann demokratisch sein, und eine Republik kann eine Diktatur sein.",
+   "credit": "Eigene Darstellung, EveryCate, CC BY-SA 4.0"
+  },
+  {
+   "type": "lueckentext",
+   "id": "k1-lt-zuordnen",
+   "title": "Zuordnen: Demokratie oder Diktatur?",
+   "teilkompetenzen": [
+    "geschichte.staatsformen.systeme-unterscheiden"
+   ],
+   "intro": "Ordne jede Beschreibung dem passenden System zu: **Demokratie** oder **Diktatur**. Jedes System kommt genau viermal vor (am Handy: erst Wort antippen, dann Lücke).",
+   "modus": "wortbank",
+   "text": "Nach der verlorenen Wahl übergibt die Regierung die Macht friedlich an die Siegerin. {{1}}\nEine Geheimpolizei überwacht, wer Kritik übt, und lässt Menschen ohne Gerichtsurteil verhaften. {{2}}\nZeitungen dürfen nur drucken, was die Partei erlaubt. {{3}}\nEin Gericht erklärt ein Gesetz der Regierung für ungültig – und die Regierung hält sich daran. {{4}}\nEs gibt nur eine einzige zugelassene Partei, alle anderen sind verboten. {{5}}\nEine Oppositionspartei kritisiert die Regierung im Parlament und tritt zur nächsten Wahl an. {{6}}\nJede wahlberechtigte Person darf frei, geheim und ohne Druck wählen. {{7}}\nDie Regierung erlässt Gesetze allein – das Parlament hat nichts mehr zu sagen. {{8}}",
+   "luecken": [
+    {
+     "antworten": [
+      "Demokratie"
+     ]
+    },
+    {
+     "antworten": [
+      "Diktatur"
+     ]
+    },
+    {
+     "antworten": [
+      "Diktatur"
+     ]
+    },
+    {
+     "antworten": [
+      "Demokratie"
+     ]
+    },
+    {
+     "antworten": [
+      "Diktatur"
+     ]
+    },
+    {
+     "antworten": [
+      "Demokratie"
+     ]
+    },
+    {
+     "antworten": [
+      "Demokratie"
+     ]
+    },
+    {
+     "antworten": [
+      "Diktatur"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "achse",
+   "id": "k1-achse-staaten",
+   "title": "Staaten in die Matrix einordnen",
+   "teilkompetenzen": [
+    "geschichte.staatsformen.systeme-unterscheiden"
+   ],
+   "intro": "Die vier Felder der Matrix liegen hier nebeneinander auf einer Linie. Ziehe jeden Staat auf das passende Feld (oder tippe erst die Karte, dann das Feld an). Überlege bei jedem Staat beide Fragen: Gibt es einen Monarchen (Monarchie) oder nicht (Republik)? Und wird die Macht kontrolliert (Demokratie) oder nicht (Diktatur)?",
+   "x": {
+    "kategorien": [
+     "Demokratie + Monarchie",
+     "Demokratie + Republik",
+     "Diktatur + Monarchie",
+     "Diktatur + Republik"
+    ],
+    "beschriftung": "Feld der Vierfelder-Matrix"
+   },
+   "elemente": [
+    {
+     "text": "Liechtenstein heute",
+     "xKategorie": "Demokratie + Monarchie"
+    },
+    {
+     "text": "Schweiz heute",
+     "xKategorie": "Demokratie + Republik"
+    },
+    {
+     "text": "Saudi-Arabien heute",
+     "xKategorie": "Diktatur + Monarchie"
+    },
+    {
+     "text": "Weimarer Republik 1919–1933",
+     "xKategorie": "Demokratie + Republik"
+    },
+    {
+     "text": "NS-Deutschland 1933–1945",
+     "xKategorie": "Diktatur + Republik"
+    },
+    {
+     "text": "Vereinigtes Königreich heute",
+     "xKategorie": "Demokratie + Monarchie"
+    },
+    {
+     "text": "Italien unter Mussolini 1925–1943",
+     "xKategorie": "Diktatur + Monarchie"
+    },
+    {
+     "text": "Österreich heute",
+     "xKategorie": "Demokratie + Republik"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "k1-totalitarismus",
+   "title": "Wenn der Staat alles will: Totalitarismus",
+   "body": "Nicht jede Diktatur ist gleich. **Autoritäre** Diktaturen verlangen vor allem politischen Gehorsam und verfolgen, wer ihnen widerspricht; was die Menschen privat denken und tun, kümmert sie weniger. Eine **totalitäre** Diktatur (lateinisch *totus* = ganz) will mehr: Sie will **alle Lebensbereiche** erfassen und die Menschen von innen heraus verändern – die Schule, die Freizeit, die Familie, sogar das Denken. Totalitäre Diktaturen erkennst du an fünf Dingen:\n\n1. **Eine Ideologie**, die für alles eine Erklärung hat und keinen Widerspruch duldet.\n2. **Eine Partei**, die mit dem Staat verschmilzt.\n3. **Massenorganisationen** für Kinder, Jugendliche, Arbeiterinnen und Arbeiter, Frauen – niemand soll außerhalb stehen.\n4. **Propaganda** über alle Medien, vom Plakat bis zum Radio.\n5. **Terror**: Geheimpolizei, Lager, Angst als Herrschaftsmittel.\n\n> **Merke:** Eine autoritäre Diktatur verlangt Gehorsam. Eine totalitäre Diktatur verlangt Begeisterung – und bestraft, wer sie nicht zeigt.\n\nNS-Deutschland war eine totalitäre Diktatur. Wie sie Schule, Jugend und Freizeit erfasste, siehst du in den nächsten Modulen dieser Reihe."
+  },
+  {
+   "type": "text",
+   "id": "k1-faschismus",
+   "title": "Faschismus – und was der Nationalsozialismus daraus machte",
+   "body": "## Woher das Wort kommt\n\nIm alten Rom ließen hohe Beamte ein Bündel aus Ruten mit einem Beil vor sich hertragen, die *fasces*. Es war das Zeichen ihrer Amtsgewalt: Dieser Beamte durfte strafen. Das italienische Wort *fascio* bedeutet «Bündel» oder «Bund». **Benito Mussolini** nannte seine Kampfbünde nach dem Ersten Weltkrieg *Fasci di combattimento* – daraus wurde der Name **Faschismus**.\n\n## Italien: das Vorbild\n\nIm Oktober 1922 ließ Mussolini seine Anhänger in Uniform auf die Hauptstadt marschieren (**«Marsch auf Rom»**). Der italienische König beugte sich der Drohung und ernannte Mussolini zum Regierungschef. Die Ernennung war formal rechtmäßig – aber sie kam nur zustande, weil die Faschisten mit Gewalt drohten. Ab 1925/26 entmachtete Mussolini Parlament, Parteien und Presse und regierte als Diktator; der König blieb als Staatsoberhaupt im Amt. Merk dir das Muster: Das Staatsoberhaupt ernennt den Führer einer Bewegung formal korrekt zum Regierungschef – und danach baut dieser die Demokratie ab. Es wird dir in Deutschland 1933 wieder begegnen.\n\n## Was Faschisten gemeinsam haben\n\n- **Extremer Nationalismus:** Die eigene Nation steht über allem, andere Nationen sind Feinde oder Beute.\n- **Führerkult:** Ein Führer verkörpert die Nation; ihm wird bedingungslos gefolgt.\n- **Ablehnung von Demokratie, Liberalismus und Kommunismus** gleichermaßen – Parlamente nannten sie abwertend «Schwatzbuden», Freiheit galt als Schwäche. (**Liberalismus** ist die politische Richtung, die die Freiheit und die Rechte des Einzelnen an die erste Stelle setzt. **Kommunismus** ist die Ideologie, nach der Fabriken und Land allen gemeinsam gehören und es keine Klassen mehr geben soll.)\n- **Gewalt als politisches Mittel:** Schlägertrupps, Straßenkämpfe, Einschüchterung.\n- **Militarisierung:** Uniformen, Aufmärsche, Krieg als Bewährungsprobe.\n- **Einparteienstaat** und **«Volksgemeinschaft» statt Klassen**: Alle sollen sich als Teil eines Ganzen fühlen – wer nicht dazugehört, wird ausgeschlossen.\n\n## Der Nationalsozialismus\n\nDer Nationalsozialismus übernahm diese Merkmale und war die **deutsche Ausprägung des Faschismus**. Ein zentraler Unterschied kommt hinzu: Im Kern der NS-Ideologie standen eine **Rassenideologie** (die Behauptung, Menschen ließen sich in höher- und minderwertige «Rassen» einteilen) und ein **rassistischer Antisemitismus** – der Hass auf Jüdinnen und Juden, den die Nationalsozialisten zur Staatspolitik machten und der bis zum Völkermord führte. Davon handeln die späteren Module dieser Reihe.\n\n> **(Erweitert) Blick in die Forschung:** Historikerinnen und Historiker streiten, ob man den Nationalsozialismus als «deutschen Faschismus» bezeichnen soll. Dafür spricht, dass die Merkmale oben fast alle zutreffen. Dagegen spricht, dass im Nationalsozialismus die Rassenideologie und der rassistische Antisemitismus im Zentrum standen und zum staatlich organisierten Völkermord führten – in diesem Ausmaß einzigartig, auch wenn andere faschistische Bewegungen ebenfalls antisemitisch waren. Beide Sichtweisen sind in der Wissenschaft vertreten. Im Alltag wird «Faschist» oft nur als Schimpfwort benutzt; im Geschichtsunterricht verwenden wir den Begriff präzise."
+  },
+  {
+   "type": "lueckentext",
+   "id": "k1-lt-faschismus",
+   "title": "Faschismus in Stichworten",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.faschismus-einordnen"
+   ],
+   "intro": "Ziehe die passenden Begriffe in die Lücken (am Handy: erst Wort antippen, dann Lücke). **Achtung:** Drei Wörter in der Auswahl passen nirgends.",
+   "modus": "wortbank",
+   "text": "Das Wort Faschismus kommt vom lateinischen {{1}}, dem Rutenbündel mit Beil aus dem alten Rom.\nIm Oktober 1922 marschierten Mussolinis Anhänger auf {{2}}; ab 1925/26 regierte er als {{3}}.\nFaschisten stellen die eigene {{4}} über alle anderen Völker und pflegen einen {{5}} um den Mann an der Spitze.\nSie lehnen Demokratie, Liberalismus und {{6}} gleichermaßen ab und setzen {{7}} als politisches Mittel ein.\nDer Nationalsozialismus übernahm diese Merkmale und stellte den rassistischen {{8}} ins Zentrum.",
+   "luecken": [
+    {
+     "antworten": [
+      "fasces"
+     ]
+    },
+    {
+     "antworten": [
+      "Rom"
+     ]
+    },
+    {
+     "antworten": [
+      "Diktator"
+     ]
+    },
+    {
+     "antworten": [
+      "Nation"
+     ]
+    },
+    {
+     "antworten": [
+      "Führerkult"
+     ]
+    },
+    {
+     "antworten": [
+      "Kommunismus"
+     ]
+    },
+    {
+     "antworten": [
+      "Gewalt"
+     ]
+    },
+    {
+     "antworten": [
+      "Antisemitismus"
+     ]
+    }
+   ],
+   "ablenker": [
+    "Monarchie",
+    "Athen",
+    "Frieden"
+   ]
+  },
+  {
+   "type": "quiz",
+   "id": "k1-quiz",
+   "title": "Selbstcheck: Staatsformen, Demokratie und Diktatur",
+   "teilkompetenzen": [
+    "geschichte.staatsformen.systeme-unterscheiden",
+    "geschichte.nationalsozialismus.faschismus-einordnen"
+   ],
+   "intro": "Prüfe, ob du die Begriffe sicher auseinanderhältst. Du kannst das Quiz beliebig oft wiederholen – es zählt dein bestes Ergebnis.",
+   "questions": [
+    {
+     "id": "k1-q1",
+     "type": "single_choice",
+     "prompt": "Liechtenstein ist eine Monarchie. Was bedeutet das für die Demokratie im Land?",
+     "options": [
+      {
+       "text": "Monarchie und Demokratie schließen sich aus – Liechtenstein ist deshalb keine Demokratie, sondern nur eine Monarchie."
+      },
+      {
+       "text": "Der Fürst entscheidet allein über alle Gesetze, der Landtag darf ihn nur beraten und Vorschläge machen."
+      },
+      {
+       "text": "Beides geht zusammen: Laut Verfassung ist Liechtenstein eine Erbmonarchie auf demokratischer und parlamentarischer Grundlage.",
+       "correct": true
+      },
+      {
+       "text": "Liechtenstein ist in Wirklichkeit eine Republik, weil der Landtag vom Volk gewählt wird und die Gesetze beschließt."
+      }
+     ],
+     "explanation": "Die Verfassung von 1921 verbindet beides: Der Fürst erbt sein Amt (Monarchie), aber Gesetze kommen nur mit dem vom Volk gewählten Landtag zustande, und die Verfassung begrenzt die Macht des Fürsten (demokratisch, parlamentarisch, konstitutionell). Monarchie und Demokratie schließen sich also nicht aus, der Fürst entscheidet nicht allein – und ein gewählter Landtag macht aus einer Monarchie noch keine Republik."
+    },
+    {
+     "id": "k1-q2",
+     "type": "single_choice",
+     "prompt": "Woran erkennst du eine Republik?",
+     "options": [
+      {
+       "text": "Es gibt keinen Monarchen; das Staatsoberhaupt wird gewählt und bleibt nur eine bestimmte Zeit im Amt.",
+       "correct": true
+      },
+      {
+       "text": "Es gibt keine Verfassung, die die Macht des Staatsoberhaupts begrenzen könnte."
+      },
+      {
+       "text": "Das Staatsoberhaupt erbt sein Amt und behält es in der Regel bis zu seinem Tod."
+      },
+      {
+       "text": "Alle wichtigen Entscheidungen werden direkt vom Volk in Abstimmungen getroffen."
+      }
+     ],
+     "explanation": "Republik heißt: kein Monarch, sondern ein gewähltes Staatsoberhaupt auf Zeit – zum Beispiel der Bundespräsident in Österreich. Ein geerbtes Amt auf Lebenszeit kennzeichnet die Monarchie. Verfassungen gibt es in Republiken wie in Monarchien, und Volksabstimmungen sind eine Frage der Demokratie, nicht der Staatsform."
+    },
+    {
+     "id": "k1-q3",
+     "type": "single_choice",
+     "prompt": "Welches Merkmal gehört zu einer Diktatur?",
+     "options": [
+      {
+       "text": "Unabhängige Gerichte, die auch gegen die Regierung urteilen dürfen und deren Urteile gelten."
+      },
+      {
+       "text": "Eine Opposition, die die Regierung offen kritisiert und zur nächsten Wahl antritt."
+      },
+      {
+       "text": "Zeitungen, die Skandale der Regierung aufdecken und trotzdem weiter erscheinen dürfen."
+      },
+      {
+       "text": "Eine Geheimpolizei, die Kritikerinnen und Kritiker ohne Gerichtsverfahren verhaften lässt.",
+       "correct": true
+      }
+     ],
+     "explanation": "Verfolgung von Gegnern durch eine Geheimpolizei ist ein typisches Diktatur-Merkmal. Unabhängige Gerichte, eine freie Opposition und Zeitungen, die Skandale aufdecken dürfen, sind dagegen Kennzeichen einer Demokratie."
+    },
+    {
+     "id": "k1-q4",
+     "type": "single_choice",
+     "prompt": "Was bedeutet Gewaltenteilung?",
+     "options": [
+      {
+       "text": "Polizei und Armee teilen sich die Zuständigkeit für die Sicherheit im Land."
+      },
+      {
+       "text": "Parlament, Regierung und Gerichte sind getrennt und kontrollieren einander.",
+       "correct": true
+      },
+      {
+       "text": "Jede Partei im Parlament bekommt gleich viele Ministerposten in der Regierung."
+      },
+      {
+       "text": "Das Volk stimmt über jedes einzelne Gesetz in einer Volksabstimmung ab."
+      }
+     ],
+     "explanation": "Gewaltenteilung meint die Trennung von gesetzgebender Gewalt (Parlament), ausführender Gewalt (Regierung) und richterlicher Gewalt (Gerichte), damit keine Stelle alle Macht hat. Mit Polizei und Armee, der Verteilung von Ministerposten oder Volksabstimmungen hat der Begriff nichts zu tun."
+    },
+    {
+     "id": "k1-q5",
+     "type": "true_false",
+     "prompt": "«Totalitär» bedeutet, dass eine Diktatur alle Lebensbereiche erfassen will – auch Freizeit, Familie und Denken.",
+     "answer": true,
+     "explanation": "Richtig. Das Wort kommt von lateinisch *totus* (ganz). Eine totalitäre Diktatur verlangt nicht nur Gehorsam wie eine autoritäre, sondern will die Menschen mit einer Ideologie, einer Partei, Massenorganisationen, Propaganda und Terror ganz erfassen."
+    },
+    {
+     "id": "k1-q6",
+     "type": "single_choice",
+     "prompt": "Was unterscheidet den Nationalsozialismus am stärksten vom italienischen Faschismus?",
+     "options": [
+      {
+       "text": "Der Nationalsozialismus hatte keinen Führerkult, weil die Partei alle Entscheidungen gemeinsam traf."
+      },
+      {
+       "text": "Der Nationalsozialismus lehnte Gewalt als politisches Mittel ab und setzte allein auf Wahlen."
+      },
+      {
+       "text": "Der Nationalsozialismus stellte den rassistischen Antisemitismus ins Zentrum – bis zum Völkermord.",
+       "correct": true
+      },
+      {
+       "text": "Der Nationalsozialismus war eine Monarchie mit einem Kaiser an der Spitze des Staates."
+      }
+     ],
+     "explanation": "Führerkult und Gewalt gehören zu beiden Bewegungen. Eine Monarchie war der Nationalsozialismus nicht: Deutschland hatte seit 1918 keinen Kaiser mehr. Italien blieb dagegen unter Mussolini formal ein Königreich, in dem er als Regierungschef diktatorisch regierte. Der zentrale Unterschied ist der rassistische Antisemitismus als Kern der NS-Ideologie, der zum Holocaust führte."
+    },
+    {
+     "id": "k1-q7",
+     "type": "single_choice",
+     "prompt": "Wie kam Mussolini 1922 an die Regierung?",
+     "options": [
+      {
+       "text": "Durch einen Wahlsieg mit absoluter Mehrheit seiner Partei im italienischen Parlament."
+      },
+      {
+       "text": "Durch einen bewaffneten Militärputsch, bei dem der König abgesetzt und verhaftet wurde."
+      },
+      {
+       "text": "Durch eine Volksabstimmung, in der die Mehrheit der Italiener für ihn als Regierungschef stimmte."
+      },
+      {
+       "text": "Durch den «Marsch auf Rom»: Der König gab dem Druck nach und ernannte ihn zum Regierungschef.",
+       "correct": true
+      }
+     ],
+     "explanation": "Mussolini gewann keine Mehrheit bei Wahlen, es gab keine Volksabstimmung für ihn, und er stürzte den König nicht – er drohte mit Gewalt, und das Staatsoberhaupt ernannte ihn daraufhin formal rechtmäßig zum Regierungschef. Erst danach baute er die Demokratie ab. Dieses Muster wird dir 1933 in Deutschland wieder begegnen."
+    }
+   ]
+  },
+  {
+   "type": "tasks",
+   "id": "k1-tasks",
+   "title": "Vertiefung: Staatsformen auf den Punkt bringen",
+   "teilkompetenzen": [
+    "geschichte.staatsformen.systeme-unterscheiden",
+    "geschichte.nationalsozialismus.faschismus-einordnen"
+   ],
+   "intro": "Deine Antworten gehen an deine Lehrperson. Aufgabe 1 ist für alle gedacht, die Aufgaben 2 und 3 sind als **(Erweitert)** gekennzeichnet.",
+   "tasks": [
+    {
+     "id": "k1-t1",
+     "prompt": "Erkläre in zwei bis drei Sätzen, warum Liechtenstein zugleich eine Monarchie und eine Demokratie ist. Nutze dafür beide Fragen aus diesem Modul.",
+     "hint": "Frage 1: Wie kommt der Fürst zu seinem Amt? Frage 2: Wer macht die Gesetze, und wer wählt die Personen, die sie beschließen?",
+     "solution": "Beispielantwort: Liechtenstein ist eine Monarchie, weil der Fürst sein Amt erbt und auf Lebenszeit behält. Zugleich ist es eine Demokratie, weil Gesetze nur mit dem Landtag zustande kommen, den das Volk in freien Wahlen bestimmt, und weil die Verfassung die Macht des Fürsten begrenzt. Die Verfassung von 1921 nennt das eine konstitutionelle Erbmonarchie auf demokratischer und parlamentarischer Grundlage."
+    },
+    {
+     "id": "k1-t2",
+     "prompt": "(Erweitert) «Eine Republik kann eine Diktatur sein.» Begründe diesen Satz am Beispiel von NS-Deutschland in zwei bis vier Sätzen.",
+     "hint": "Gab es ab 1933 einen Monarchen? Und: Wurde die Macht noch kontrolliert – durch Wahlen, Gerichte, Opposition?",
+     "solution": "Beispielantwort: Das Deutsche Reich hatte seit 1918 keinen Kaiser mehr und blieb formal eine Republik ohne Monarchen. Trotzdem war es ab 1933 eine Diktatur: Die Macht lag bei einer Partei und ihrem Führer, es gab keine freien Wahlen, keine Gewaltenteilung und keine Opposition mehr, und Gegner wurden verfolgt. Die Staatsform ohne Monarchen sagt also nichts darüber aus, ob die Macht kontrolliert wird."
+    },
+    {
+     "id": "k1-t3",
+     "prompt": "(Erweitert) Ist der Nationalsozialismus «Faschismus»? Nenne je ein Argument dafür und eines dagegen und schreibe in einem letzten Satz, welche Bezeichnung du überzeugender findest (insgesamt drei bis fünf Sätze).",
+     "hint": "Vergleiche die Merkmalsliste des Faschismus mit dem, was im Nationalsozialismus zusätzlich im Zentrum stand.",
+     "solution": "Beispielantwort: Dafür spricht, dass der Nationalsozialismus fast alle Merkmale des Faschismus teilt – Führerkult, extremer Nationalismus, Gewalt, Einparteienstaat, Ablehnung der Demokratie. Dagegen spricht, dass im Nationalsozialismus der rassistische Antisemitismus im Zentrum stand und zum staatlich organisierten Völkermord führte, was ihn vom italienischen Faschismus unterscheidet. Ich finde «deutscher Faschismus» überzeugender, weil die Gemeinsamkeiten so zahlreich sind – solange man dazusagt, dass der Antisemitismus den Nationalsozialismus noch radikaler machte. (Auch die umgekehrte Entscheidung ist richtig, wenn sie begründet ist.)"
+    }
+   ]
+  }
+ ]
+}
