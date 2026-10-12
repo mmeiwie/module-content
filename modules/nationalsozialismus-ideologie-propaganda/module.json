@@ -1,0 +1,1185 @@
+{
+ "schemaVersion": 3,
+ "id": "nationalsozialismus-ideologie-propaganda",
+ "title": "Weltbild und Werbung: Ideologie und Propaganda",
+ "description": "Woran glaubten die Nationalsozialisten – und wie brachten sie Millionen dazu, mitzumachen? Du lernst die Bausteine der NS-Ideologie kennen, siehst, wie aus «Rassenlehre» Gesetze und Mord wurden, untersuchst den Propaganda-Apparat von Goebbels mit einem Analyseraster und fragst, warum so viele zustimmten, wegschauten oder profitierten.",
+ "curricula": [
+  {
+   "curriculum": "li",
+   "subject": "RZG",
+   "subjectName": "Räume, Zeiten, Gesellschaften",
+   "grades": [
+    9
+   ],
+   "competencies": [
+    {
+     "code": "RZG.6.3",
+     "description": "Die Schülerinnen und Schüler können ausgewählte Phänomene der Geschichte des 20. und 21. Jahrhunderts analysieren und deren Relevanz für heute erklären."
+    },
+    {
+     "code": "RZG.8.2",
+     "description": "Die Schülerinnen und Schüler können die Entwicklung, Bedeutung und Bedrohung der Menschenrechte erklären."
+    }
+   ]
+  },
+  {
+   "curriculum": "ch",
+   "subject": "RZG",
+   "subjectName": "Räume, Zeiten, Gesellschaften",
+   "grades": [
+    9
+   ],
+   "competencies": [
+    {
+     "code": "RZG.6.3",
+     "description": "Die Schülerinnen und Schüler können ausgewählte Phänomene der Geschichte des 20. und 21. Jahrhunderts analysieren und deren Relevanz für heute erklären."
+    },
+    {
+     "code": "RZG.8.2",
+     "description": "Die Schülerinnen und Schüler können die Entwicklung, Bedeutung und Bedrohung der Menschenrechte erklären."
+    }
+   ]
+  },
+  {
+   "curriculum": "de",
+   "subject": "Geschichte",
+   "grades": [
+    9
+   ]
+  }
+ ],
+ "language": "de",
+ "sequenz": 4,
+ "einheit": "Nationalsozialismus – Diktatur, Verfolgung, Erinnerung",
+ "requires": [
+  "nationalsozialismus-organisationen"
+ ],
+ "durationMinutes": 90,
+ "difficulty": "mittel",
+ "keywords": [
+  "Ideologie",
+  "Rassenlehre",
+  "Volksgemeinschaft",
+  "Lebensraum",
+  "Propaganda",
+  "Goebbels",
+  "Volksempfänger",
+  "Mein Kampf",
+  "Euthanasie",
+  "Nationalsozialismus"
+ ],
+ "learningObjectives": [
+  "Ich kann erklären, was eine Ideologie ist, und die Bausteine der NS-Ideologie nennen.",
+  "Ich kann beschreiben, wie aus der «Rassenlehre» das Gesetz zur Verhütung erbkranken Nachwuchses und die Mordaktion «T4» wurden.",
+  "Ich kann die wichtigsten Mittel der NS-Propaganda nennen und erklären, wie Goebbels' Ministerium den Alltag durchdrang.",
+  "Ich kann ein Propagandamittel mit dem Analyseraster untersuchen (Wer spricht? An wen? Welche Gefühle, Feindbilder, Vereinfachungen, Ziele?).",
+  "Ich kann Gründe nennen, warum viele Menschen nach 1933 zustimmten, mitmachten oder wegschauten.",
+  "(Erweitert) Ich kann Hitlers Propagandaprinzipien aus «Mein Kampf» analysieren und Propagandatechniken in heutigen Medien erkennen."
+ ],
+ "sources": [
+  {
+   "title": "LiLe – Liechtensteiner Lehrplan",
+   "url": "https://www.lile.li"
+  },
+  {
+   "title": "LeMO – Lebendiges Museum Online: Das NS-Regime (Deutsches Historisches Museum)",
+   "url": "https://www.dhm.de/lemo/kapitel/ns-regime"
+  },
+  {
+   "title": "Bundeszentrale für politische Bildung (bpb): Dossier Nationalsozialismus",
+   "url": "https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/"
+  },
+  {
+   "title": "Institut für Zeitgeschichte München–Berlin: Hitler, Mein Kampf. Eine kritische Edition (2016)",
+   "url": "https://www.ifz-muenchen.de"
+  },
+  {
+   "title": "Gedenkort T4 (Berlin): Information und Gedenken zu den NS-«Euthanasie»-Morden",
+   "url": "https://www.gedenkort-t4.eu"
+  },
+  {
+   "title": "Video: MrWissen2go Geschichte | Terra X (ZDF) – Wie die Nazis so viele Deutsche überzeugten",
+   "url": "https://www.youtube.com/watch?v=dD4y3B27VMM"
+  }
+ ],
+ "license": "CC BY-SA 4.0",
+ "authors": [
+  "Anna Rinderer"
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "id": "k4-einstieg",
+   "title": "Ein Weltbild, das alles erklärt",
+   "body": "Stell dir eine Erklärung vor, die auf jede Frage eine Antwort hat: Warum gibt es Arbeitslose? Warum hat Deutschland den Krieg verloren? Warum streiten die Parteien? Warum ist dein Nachbar reicher als du? Und jedes Mal lautet die Antwort gleich. Genau so funktioniert eine **Ideologie**: ein **geschlossenes Weltbild**, das beansprucht, **alles zu erklären**, und das **keinen Widerspruch duldet**. Wer widerspricht, ist in diesem Weltbild nicht etwa anderer Meinung – er ist ein Feind oder ein Verblendeter.\n\nDas ist der Unterschied zur Wissenschaft und zur Demokratie: Dort darf man Behauptungen prüfen, widerlegen und ändern. In einer Ideologie steht das Ergebnis fest, bevor man hingeschaut hat.\n\nDie wichtigste Quelle der NS-Ideologie ist Hitlers Buch **«Mein Kampf»**, das er nach seinem gescheiterten Umsturzversuch in München (November 1923) im Gefängnis schrieb; Band 1 erschien 1925, Band 2 1926. Es ist wirr und voller Hass – und es wurde nach 1933 zum meistverbreiteten Buch des Regimes: Standesämter schenkten es Brautpaaren zur Hochzeit. Wer es damals las, konnte wissen, was kommen würde. Heute gibt es eine wissenschaftliche Ausgabe mit Tausenden erklärenden Anmerkungen, damit niemand das Buch unkommentiert liest. Auch wir zitieren daraus nur kurz und mit Einordnung."
+  },
+  {
+   "type": "text",
+   "id": "k4-bausteine",
+   "title": "Die Bausteine der NS-Ideologie",
+   "body": "Die NS-Ideologie war kein durchdachtes System, sondern eine Mischung aus Vorurteilen, Ängsten und Machtwünschen, die im 19. Jahrhundert schon im Umlauf waren. Hitler fügte sie zu einem Weltbild zusammen. Die Bausteine:\n\n1. **«Rassenlehre».** Die Nationalsozialisten behaupteten, die Menschheit zerfalle in «Rassen» von unterschiedlichem Wert. Die «Arier» – gemeint waren vor allem Deutsche und andere Nordeuropäer – seien die «Herrenrasse», berufen zu herrschen. Jüdinnen und Juden galten als «Gegenrasse», Sinti und Roma, Slawen und Menschen mit Behinderung als «minderwertig». Das war **pseudowissenschaftlich**: Es klang nach Biologie und wurde sogar an Schulen und Universitäten gelehrt, hatte aber keine wissenschaftliche Grundlage. Menschliche «Rassen» in diesem Sinn gibt es nicht.\n2. **Antisemitismus.** Der Hass auf Jüdinnen und Juden war der inhaltliche Kern des Weltbilds; er reichte bis zum Völkermord. Im Weltbild der Nationalsozialisten waren «die Juden» an allem schuld: an der Niederlage 1918, am Kapitalismus und zugleich am Kommunismus. Ein eigenes Modul dieser Reihe erklärt, woher dieser Hass kam und wohin er führte.\n3. **«Lebensraum im Osten».** Das deutsche Volk brauche mehr Land, und das liege im Osten – in Polen und der Sowjetunion. Die dortige Bevölkerung sollte vertrieben, versklavt oder getötet werden. Der Eroberungskrieg war von Anfang an Ziel, nicht Unfall.\n4. **«Volksgemeinschaft».** Alle Deutschen sollten eine Gemeinschaft ohne Klassen bilden – «Gemeinnutz vor Eigennutz», hieß die Parole. Das klang nach Zusammenhalt, bedeutete aber: Der Einzelne hat keine Rechte gegenüber dem Ganzen, und wer als «gemeinschaftsfremd» galt – Jüdinnen und Juden, politische Gegner, Menschen mit Behinderung und Menschen, die das Regime als «Asoziale» abstempelte (ein NS-Sammelwort für Wohnungslose, Bettler und alle, die nicht ins Bild der «Ordnung» passten) –, wurde ausgeschlossen. Das Wort «Volksgemeinschaft» gehört deshalb in Anführungszeichen: Es ist ein Begriff der Täter.\n5. **Führerprinzip und Führerkult.** Nicht Diskussion, sondern Befehl; nicht Wahl, sondern Gefolgschaft. Hitler wurde als unfehlbarer Retter inszeniert.\n6. **Antikommunismus.** Der «Bolschewismus» (NS-Wort für den Kommunismus, nach den Bolschewiki, der Partei Lenins in Russland) galt als Todfeind – und zugleich als «jüdisch». So verband sich der Antisemitismus mit der Angst vieler Bürgerlicher vor einer Revolution.\n7. **Ablehnung von Demokratie und Menschenrechten.** Parlamente, Parteien, Gleichheit vor dem Gesetz galten als Schwäche und als «undeutsch».\n8. **Sozialdarwinismus.** Die Nationalsozialisten übertrugen die Idee vom «Überleben des Stärkeren» auf Völker: Kampf und Krieg seien Naturgesetz, Mitleid mit den «Schwachen» ein Fehler. Das ist eine Umdeutung: Darwin beschrieb Anpassung in der Natur, nicht eine Politik des Stärkeren.\n\nDas Schaubild zeigt dir die Bausteine im Überblick: Alle laufen im Führerprinzip und Führerkult zusammen – das hält das Weltbild zusammen, der Antisemitismus treibt es an."
+  },
+  {
+   "type": "schaubild",
+   "id": "k4-rad",
+   "title": "Die Bausteine der NS-Ideologie",
+   "szene": {
+    "elemente": [
+     {
+      "id": "r-titel",
+      "x": 300,
+      "y": 0,
+      "width": 480,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1856146434,
+      "type": "text",
+      "text": "Die Bausteine der NS-Ideologie",
+      "fontSize": 28,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "r-untertitel",
+      "x": 300,
+      "y": 42,
+      "width": 682,
+      "height": 20,
+      "angle": 0,
+      "strokeColor": "#4c6f91",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 642014035,
+      "type": "text",
+      "text": "Ein geschlossenes Weltbild: Alle Bausteine laufen im Führerprinzip zusammen",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "autoResize": true,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "r-l0",
+      "x": 620,
+      "y": 370,
+      "width": 0,
+      "height": 202,
+      "angle": 0,
+      "strokeColor": "#9db8d2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1741315087,
+      "type": "line",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        -202
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null
+     },
+     {
+      "id": "r-l1",
+      "x": 714,
+      "y": 396,
+      "width": 172,
+      "height": 126,
+      "angle": 0,
+      "strokeColor": "#9db8d2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 287671134,
+      "type": "line",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        172,
+        -126
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null
+     },
+     {
+      "id": "r-l2",
+      "x": 737,
+      "y": 456,
+      "width": 214,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#9db8d2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1015242878,
+      "type": "line",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        214,
+        45
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null
+     },
+     {
+      "id": "r-l3",
+      "x": 672,
+      "y": 503,
+      "width": 96,
+      "height": 182,
+      "angle": 0,
+      "strokeColor": "#9db8d2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 165880013,
+      "type": "line",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        96,
+        182
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null
+     },
+     {
+      "id": "r-l4",
+      "x": 568,
+      "y": 503,
+      "width": 96,
+      "height": 182,
+      "angle": 0,
+      "strokeColor": "#9db8d2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1515603341,
+      "type": "line",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        -96,
+        182
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null
+     },
+     {
+      "id": "r-l5",
+      "x": 503,
+      "y": 456,
+      "width": 214,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#9db8d2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 107382559,
+      "type": "line",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        -214,
+        45
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null
+     },
+     {
+      "id": "r-l6",
+      "x": 526,
+      "y": 396,
+      "width": 172,
+      "height": 126,
+      "angle": 0,
+      "strokeColor": "#9db8d2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1528243602,
+      "type": "line",
+      "points": [
+       [
+        0,
+        0
+       ],
+       [
+        -172,
+        -126
+       ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null
+     },
+     {
+      "id": "r-mitte",
+      "x": 500,
+      "y": 370,
+      "width": 240,
+      "height": 140,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "#ffd8a8",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 638094258,
+      "type": "ellipse"
+     },
+     {
+      "id": "r-mitte-t",
+      "x": 510,
+      "y": 415,
+      "width": 220,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 493562486,
+      "type": "text",
+      "text": "Führerprinzip\nund Führerkult",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "r-mitte",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "r-b0",
+      "x": 490,
+      "y": 120,
+      "width": 260,
+      "height": 96,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 166934492,
+      "type": "rectangle"
+     },
+     {
+      "id": "r-b0-t",
+      "x": 500,
+      "y": 141.5,
+      "width": 240,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1826155920,
+      "type": "text",
+      "text": "«Rassenlehre»\nMenschen angeblich in «höher-»\nund «minderwertige Rassen» teilbar",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "r-b0",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "r-b1",
+      "x": 756,
+      "y": 222,
+      "width": 260,
+      "height": 96,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1980629219,
+      "type": "rectangle"
+     },
+     {
+      "id": "r-b1-t",
+      "x": 766,
+      "y": 243.5,
+      "width": 240,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 393723250,
+      "type": "text",
+      "text": "Antisemitismus\nJüdinnen und Juden als\nangebliche «Gegenrasse» und Feindbild",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "r-b1",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "r-b2",
+      "x": 821,
+      "y": 453,
+      "width": 260,
+      "height": 96,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 2112864141,
+      "type": "rectangle"
+     },
+     {
+      "id": "r-b2-t",
+      "x": 831,
+      "y": 474.5,
+      "width": 240,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1614188875,
+      "type": "text",
+      "text": "«Lebensraum im Osten»\nEroberungskrieg gegen Osteuropa\nals Ziel",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "r-b2",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "r-b3",
+      "x": 638,
+      "y": 637,
+      "width": 260,
+      "height": 96,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 871607332,
+      "type": "rectangle"
+     },
+     {
+      "id": "r-b3-t",
+      "x": 648,
+      "y": 658.5,
+      "width": 240,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1069395373,
+      "type": "text",
+      "text": "«Volksgemeinschaft»\nangeblich ohne Klassen – tatsächlich\nAusschluss der «Gemeinschaftsfremden»",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "r-b3",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "r-b4",
+      "x": 342,
+      "y": 637,
+      "width": 260,
+      "height": 96,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1346169768,
+      "type": "rectangle"
+     },
+     {
+      "id": "r-b4-t",
+      "x": 352,
+      "y": 658.5,
+      "width": 240,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1323890193,
+      "type": "text",
+      "text": "Antikommunismus\n«Bolschewismus» als Todfeind,\nFeindbild nach innen und außen",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "r-b4",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "r-b5",
+      "x": 159,
+      "y": 453,
+      "width": 260,
+      "height": 96,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1591521450,
+      "type": "rectangle"
+     },
+     {
+      "id": "r-b5-t",
+      "x": 169,
+      "y": 474.5,
+      "width": 240,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 537279799,
+      "type": "text",
+      "text": "Ablehnung der Demokratie\nParlament, Parteien und\nMenschenrechte als «Schwäche»",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "r-b5",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "r-b6",
+      "x": 224,
+      "y": 222,
+      "width": 260,
+      "height": 96,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1766705883,
+      "type": "rectangle"
+     },
+     {
+      "id": "r-b6-t",
+      "x": 234,
+      "y": 243.5,
+      "width": 240,
+      "height": 53,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1080880862,
+      "type": "text",
+      "text": "Sozialdarwinismus\n«Recht des Stärkeren»,\nKrieg als Naturgesetz",
+      "fontSize": 14,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "r-b6",
+      "autoResize": false,
+      "lineHeight": 1.25
+     },
+     {
+      "id": "r-merk",
+      "x": 20,
+      "y": 760,
+      "width": 1200,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#9db8d2",
+      "backgroundColor": "#e8f0f8",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1576577607,
+      "type": "rectangle"
+     },
+     {
+      "id": "r-merk-t",
+      "x": 30,
+      "y": 778.5,
+      "width": 1180,
+      "height": 23,
+      "angle": 0,
+      "strokeColor": "#1e3a5f",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 821440179,
+      "type": "text",
+      "text": "Merke: Eine Ideologie erklärt alles, duldet keinen Widerspruch – und die NS-Ideologie stellte «Rasse» und Führer über jedes Recht.",
+      "fontSize": 18,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "r-merk",
+      "autoResize": false,
+      "lineHeight": 1.25
+     }
+    ]
+   },
+   "beschreibung": "Titel: Die Bausteine der NS-Ideologie. Untertitel: Ein geschlossenes Weltbild, alle Bausteine laufen im Führerprinzip zusammen. In der Mitte steht ein orange gefülltes Oval mit Führerprinzip und Führerkult. Um das Oval liegen im Kreis sieben blaue Kästen, die mit Linien zur Mitte verbunden sind. Kernaussagen: 1. Rassenlehre: Menschen seien angeblich in höher- und minderwertige Rassen teilbar. 2. Antisemitismus: Jüdinnen und Juden als angebliche Gegenrasse und Feindbild. 3. Lebensraum im Osten: Eroberungskrieg gegen Osteuropa als Ziel. 4. Volksgemeinschaft: angeblich ohne Klassen, tatsächlich Ausschluss der sogenannten Gemeinschaftsfremden. 5. Antikommunismus: der Bolschewismus als Todfeind, Feindbild nach innen und außen. 6. Ablehnung der Demokratie: Parlament, Parteien und Menschenrechte gelten als Schwäche. 7. Sozialdarwinismus: das Recht des Stärkeren, Krieg als Naturgesetz. 8. Merksatz unten: Eine Ideologie erklärt alles, duldet keinen Widerspruch, und die NS-Ideologie stellte Rasse und Führer über jedes Recht.",
+   "credit": "Eigene Darstellung, EveryCate, CC BY-SA 4.0"
+  },
+  {
+   "type": "lueckentext",
+   "id": "k4-lt-bausteine",
+   "title": "Die Bausteine zuordnen",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.ideologie-beschreiben"
+   ],
+   "intro": "Ziehe die passenden Begriffe in die Lücken (am Handy: erst Wort antippen, dann Lücke). **Achtung:** Drei Wörter in der Auswahl passen nirgends.",
+   "modus": "wortbank",
+   "text": "Die Nationalsozialisten behaupteten, die Menschheit zerfalle in «Rassen» von unterschiedlichem Wert; diese Behauptung nennt man {{1}}.\nIm Osten Europas wollten sie durch Eroberungskrieg neuen {{2}} gewinnen.\nAlle Deutschen sollten eine Gemeinschaft ohne Klassen bilden, die sogenannte {{3}} – wer nicht dazugehörte, wurde ausgeschlossen.\nBefehle gehen von oben nach unten, Gehorsam von unten nach oben; das nennt man {{4}}.\nDen «Bolschewismus» sahen sie als Todfeind: {{5}}.\nDie Idee vom «Überleben des Stärkeren», auf Völker übertragen, heißt {{6}}.\nDer Kern des Weltbilds war der Hass auf Jüdinnen und Juden, der {{7}}.",
+   "luecken": [
+    {
+     "antworten": [
+      "Rassenlehre"
+     ]
+    },
+    {
+     "antworten": [
+      "Lebensraum"
+     ]
+    },
+    {
+     "antworten": [
+      "Volksgemeinschaft"
+     ]
+    },
+    {
+     "antworten": [
+      "Führerprinzip"
+     ]
+    },
+    {
+     "antworten": [
+      "Antikommunismus"
+     ]
+    },
+    {
+     "antworten": [
+      "Sozialdarwinismus"
+     ]
+    },
+    {
+     "antworten": [
+      "Antisemitismus"
+     ]
+    }
+   ],
+   "ablenker": [
+    "Demokratie",
+    "Liberalismus",
+    "Gewaltenteilung"
+   ]
+  },
+  {
+   "type": "text",
+   "id": "k4-rassenhygiene",
+   "title": "Wenn Ideologie Gesetz wird: «Rassenhygiene»",
+   "body": "Die «Rassenlehre» blieb nicht Theorie. Schon im ersten Jahr machte das Regime sie zum Gesetz – und zwar zuerst gegen Deutsche, die als «erbkrank» galten.\n\n## Das Gesetz von 1933\n\nAm **14. Juli 1933** – am selben Tag wie das Gesetz gegen die Neubildung von Parteien – beschloss die Regierung das **«Gesetz zur Verhütung erbkranken Nachwuchses»**. Es erlaubte, Menschen **gegen ihren Willen unfruchtbar zu machen** (Zwangssterilisation), wenn ein «Erbgesundheitsgericht» ihnen eine «Erbkrankheit» zuschrieb: etwa eine geistige Behinderung, Epilepsie, bestimmte psychische Erkrankungen oder «schweren Alkoholismus». Bis 1945 wurden **rund 400 000 Menschen** zwangssterilisiert. Das Regime nannte das **«Rassenhygiene»** – als ginge es um Sauberkeit.\n\n## Die Propaganda dazu\n\nDie Propaganda bereitete den Boden, indem sie Menschen mit Behinderung als **«Kostenfaktor»** darstellte. Ein bekanntes Plakat der NS-Propaganda zeigte einen kräftigen jungen Mann, der auf seinen Schultern eine Stange trägt, an der zwei Menschen mit Behinderung hängen; die Überschrift sagte sinngemäß, der Gesunde trage diese Last mit, und darunter stand eine Rechnung, was ein «Erbkranker» den Staat angeblich bis zu seinem 60. Lebensjahr koste – eine fünfstellige Summe in Reichsmark. Sogar in Schulbüchern standen Rechenaufgaben dieser Art: Wie viele Wohnungen könnte man bauen, wenn man das Geld für die «Irrenanstalten» (so hießen damals abwertend die psychiatrischen Kliniken) sparte? Menschen wurden so zu Zahlen gemacht.\n\n## Die Mordaktion «T4»\n\nMit Kriegsbeginn 1939 ging das Regime vom Unfruchtbarmachen zum Töten über. Unter dem Decknamen **«T4»** (nach der Berliner Adresse Tiergartenstraße 4, wo die Planung saß) wurden Patientinnen und Patienten aus Heil- und Pflegeanstalten in sechs Tötungsanstalten gebracht und ermordet. Das Regime nannte das **«Euthanasie»** (griechisch «schöner Tod») – ein Tarnwort für Mord. Bis August 1941 starben so **rund 70 000 Menschen**. Als Proteste laut wurden – am bekanntesten die Predigt des Münsteraner Bischofs Clemens August Graf von Galen im August 1941 –, ließ Hitler die zentrale Aktion offiziell stoppen; wie groß der Anteil dieser Proteste an der Entscheidung war, ist in der Forschung umstritten. Das Morden ging in den Anstalten jedoch heimlich weiter, durch Medikamente und Verhungernlassen; insgesamt wurden **rund 200 000 Menschen und mehr** ermordet. Die Täter und die Technik des Tötens wurden später in den Vernichtungslagern eingesetzt.\n\n## Ein Name hinter den Zahlen: Ernst Lossa\n\nHinter jeder dieser Zahlen steht ein Mensch mit Namen und Familie. Einer von ihnen war **Ernst Lossa**, geboren 1929 in Augsburg. Seine Familie gehörte zu den **Jenischen**, einer Minderheit mit traditionell fahrender Lebensweise, die der NS-Staat ebenfalls ausgrenzte. Nach dem Tod seiner Mutter kam Ernst in Heime; weil er sich nicht fügte, galt er den Behörden als «schwer erziehbar» und kam 1942 in die Anstalt Kaufbeuren-Irsee. Dort half er anderen Patientinnen und Patienten, versteckte Brot für sie und beobachtete, was mit ihnen geschah. Im August 1944 wurde er dort ermordet. Er war 14 Jahre alt.\n\n> **Merke:** Aus einer Behauptung über «Rassen» wurde zuerst ein Gesetz zur Zwangssterilisation und dann, im Krieg, ein Mordprogramm unter Geheimhaltung und Tarnnamen. Vorbereitet wurde beides in aller Öffentlichkeit – mit Plakaten und Rechenaufgaben."
+  },
+  {
+   "type": "text",
+   "id": "k4-propaganda",
+   "title": "Der Propaganda-Apparat",
+   "body": "Eine Ideologie wirkt nur, wenn sie überall ankommt. Dafür schuf das Regime am **13. März 1933** ein eigenes Ministerium: das **Reichsministerium für Volksaufklärung und Propaganda** unter **Joseph Goebbels**. Das Wort **Propaganda** bedeutet gezielte Beeinflussung von Meinungen und Gefühlen – im Unterschied zu Information, die Tatsachen weitergibt. Goebbels' Ministerium kontrollierte alles, was die Menschen sahen, hörten und lasen:\n\n- **Rundfunk.** Das Regime ließ ein billiges Radio bauen, den **«Volksempfänger»** (Preis: 76 Reichsmark – gehobene Geräte kosteten 200 bis 400 Reichsmark). Die Parole: «Ganz Deutschland hört den Führer.» 1933 hatte rund ein Viertel der Haushalte ein Radio, 1941 etwa zwei Drittel; Hitlers Reden wurden zudem in Betrieben, Schulen und auf Plätzen über Lautsprecher übertragen. Ausländische Sender zu hören war ab 1939 verboten.\n- **Presse.** Zeitungen wurden verboten oder übernommen; das **Schriftleitergesetz** (1933) machte den Journalistenberuf zu einer staatlich geregelten «öffentlichen Aufgabe»: Wer nicht in der Berufsliste stand, durfte nicht schreiben, und Jüdinnen und Juden waren von diesem Beruf ausgeschlossen. Dazu kamen tägliche Anweisungen aus dem Propagandaministerium, was und wie die Zeitungen berichten sollten.\n- **Film.** Vor jedem Kinofilm lief die **«Wochenschau»** mit inszenierten Erfolgsmeldungen. Die Regisseurin **Leni Riefenstahl** drehte Filme über den Reichsparteitag («Triumph des Willens», 1935) und die Olympischen Spiele – technisch neu, inhaltlich reine Verherrlichung.\n- **Plakate und Feste.** Plakate mit einem Bild und einem Schlagwort hingen überall; der Kalender war voller NS-Feiertage: 30. Januar, Hitlers Geburtstag am 20. April, der 1. Mai, die **Reichsparteitage** in Nürnberg im September mit Hunderttausenden Teilnehmern, Fahnenmeer, Fackeln, Marschmusik und dem «Lichtdom» aus Flakscheinwerfern.\n- **Alltag.** Das **Führerbild** hing in Amtsstuben und Klassenzimmern. Der **Hitlergruß** («Heil Hitler!» mit erhobenem Arm) war ab 1933 für Beamte Pflicht und wurde zum allgegenwärtigen Treuebekenntnis – wer ihn verweigerte, fiel auf.\n- **Olympische Spiele 1936 in Berlin.** Für zwei Wochen zeigte sich das Regime der Welt als friedlich und weltoffen: Antijüdische Schilder («Juden unerwünscht») verschwanden vorübergehend, die Hetzzeitung «Der Stürmer» wurde aus den Schaukästen genommen. Viele ausländische Gäste fuhren beeindruckt nach Hause. Dass der afroamerikanische Sportler **Jesse Owens** vier Goldmedaillen gewann, widerlegte vor aller Augen die Behauptung von der «Herrenrasse» – das Publikum im Stadion feierte ihn trotzdem.\n\n> **Merke:** Propaganda war nicht nur Werbung für die NSDAP. Sie war ein Monopol: Es gab fast keine andere Stimme mehr, die man öffentlich hätte hören können."
+  },
+  {
+   "type": "text",
+   "id": "k4-prinzipien",
+   "title": "Wie Propaganda funktioniert – in Hitlers eigenen Worten (Erweitert)",
+   "body": "Hitler hat in «Mein Kampf» offen beschrieben, wie er Menschen beeinflussen wollte. Lies das Zitat als Quelle eines Täters – es verrät, was er von seinem Publikum hielt:\n\n> «Die Aufnahmefähigkeit der großen Masse ist nur sehr beschränkt, das Verständnis klein, dafür jedoch die Vergeßlichkeit groß. Aus diesen Tatsachen heraus hat sich jede wirkungsvolle Propaganda auf nur sehr wenige Punkte zu beschränken und diese schlagwortartig so lange zu verwerten, bis auch bestimmt der Letzte unter einem solchen Worte das Gewollte sich vorzustellen vermag.»\n>\n> — Adolf Hitler, «Mein Kampf», Band 1 (1925), Kapitel 6 «Kriegspropaganda»\n\nZwei Prinzipien stecken direkt in diesem Zitat, ein drittes formuliert Hitler an anderer Stelle desselben Kapitels. Alle drei hat das Regime ab 1933 angewendet:\n\n1. **Wenige Schlagworte, endlos wiederholt** (im Zitat). «Ein Volk, ein Reich, ein Führer» und «Volksgemeinschaft» sollten Zusammenhalt vortäuschen. Daneben stand der Hass: «Die Juden sind unser Unglück» – ein Satz aus dem Antisemitismus des 19. Jahrhunderts, den die Hetzzeitung «Der Stürmer» als Motto auf jede Titelseite druckte. Immer dieselben Formeln, bis sie wie Wahrheiten klangen.\n2. **Die Masse als Ziel** (im Zitat). Nicht der Einzelne, der nachdenkt, sondern die Menge, die mitmarschiert.\n3. **Gefühl statt Verstand** (an anderer Stelle des Kapitels). Propaganda soll nicht überzeugen, sondern packen – mit Stolz, Angst, Hass, Hoffnung. Wenn das «Verständnis» der Masse angeblich klein ist, setzt man nicht auf Argumente, sondern auf Gefühle.\n\nBeachte, wie Hitler über die Menschen spricht, die er gewinnen will: Ihr «Verständnis» sei klein, ihre «Vergeßlichkeit» groß. Wer so denkt, will nicht informieren, sondern steuern. Das ist der Unterschied zwischen Propaganda und Argument: Ein Argument rechnet damit, dass du prüfst und widersprichst. Propaganda rechnet damit, dass du es nicht tust."
+  },
+  {
+   "type": "text",
+   "id": "k4-raster",
+   "title": "Werkzeugkasten: Propaganda analysieren",
+   "body": "Mit sechs Fragen kannst du jedes Propagandamittel auseinandernehmen – ein Plakat von 1938 genauso wie ein Video von heute:\n\n> **Merke – das Analyseraster:**\n> 1. **Wer spricht?** (Absender: Partei, Ministerium, Verein, anonym?)\n> 2. **An wen?** (Zielgruppe: Jugendliche, Arbeiter, Frauen, das Ausland?)\n> 3. **Welche Gefühle** werden angesprochen? (Stolz, Angst, Wut, Zugehörigkeit, Mitleid?)\n> 4. **Welche Feindbilder** werden aufgebaut? (Wer ist «schuld»?)\n> 5. **Welche Vereinfachung oder Lüge** steckt darin? (Was wird weggelassen, verdreht, erfunden?)\n> 6. **Welches Ziel** verfolgt der Absender? (Was sollst du tun, glauben, unterlassen?)\n\n**Ein Beispiel, in Worten beschrieben** (wir zeigen keine NS-Plakate): Vor der Volksabstimmung vom 10. April 1938, mit der das Regime den **«Anschluss»** Österreichs bestätigen ließ (so nannten die Nationalsozialisten die erzwungene Einverleibung Österreichs), warb die NSDAP mit Plakaten, die die Losung **«Ein Volk, ein Reich, ein Führer»** in großen Buchstaben zeigten – oft mit Hitlers Porträt, ernst in die Ferne blickend. Stell dir ein solches Plakat vor:\n\n- *Wer spricht?* Die NSDAP und das Propagandaministerium.\n- *An wen?* An alle Deutschen und Österreicher – als «ein Volk».\n- *Gefühle?* Stolz, Größe, Zugehörigkeit; die Pose des Führers soll Entschlossenheit und Schutz ausstrahlen.\n- *Feindbilder?* Nicht ausdrücklich – aber wer nicht zu diesem «einen Volk» gehört, ist mitgemeint: ausgeschlossen.\n- *Vereinfachung/Lüge?* Drei Schlagworte ersetzen jede Diskussion. Dass Österreich unter Druck und Gewaltandrohung «angeschlossen» wurde und dass Zehntausende sofort verfolgt wurden, kommt nicht vor.\n- *Ziel?* Zustimmung ohne Nachdenken, Gefolgschaft, das Gefühl, auf der Seite der Sieger zu stehen.\n\nZuerst festigst du die Propagandamittel, dann wendest du das Raster selbst an."
+  },
+  {
+   "type": "zuordnung",
+   "id": "k4-zu-mittel",
+   "title": "Mittel und Wirkung",
+   "teilkompetenzen": [
+    "geschichte.methoden.propaganda-analysieren"
+   ],
+   "intro": "Welches Propagandamittel erzeugte welche Wirkung? Tippe links und rechts je ein Element an.",
+   "paare": [
+    {
+     "links": {
+      "text": "Volksempfänger"
+     },
+     "rechts": {
+      "text": "die Stimme des Führers in jedem Wohnzimmer"
+     }
+    },
+    {
+     "links": {
+      "text": "Reichsparteitag in Nürnberg"
+     },
+     "rechts": {
+      "text": "das Gefühl, Teil einer riesigen, geordneten Masse zu sein"
+     }
+    },
+    {
+     "links": {
+      "text": "Wochenschau im Kino"
+     },
+     "rechts": {
+      "text": "inszenierte Erfolgsmeldungen vor jedem Hauptfilm"
+     }
+    },
+    {
+     "links": {
+      "text": "Führerbild im Klassenzimmer"
+     },
+     "rechts": {
+      "text": "der Führer ist überall, auch in der Schule"
+     }
+    },
+    {
+     "links": {
+      "text": "Olympische Spiele 1936"
+     },
+     "rechts": {
+      "text": "dem Ausland ein friedliches, weltoffenes Deutschland vorspielen"
+     }
+    },
+    {
+     "links": {
+      "text": "Hitlergruß"
+     },
+     "rechts": {
+      "text": "jeder Gruß ein Treuebekenntnis – Verweigerung fällt sofort auf"
+     }
+    },
+    {
+     "links": {
+      "text": "Plakat mit Schlagwort"
+     },
+     "rechts": {
+      "text": "ein Bild, ein Schlagwort, an jeder Wand"
+     }
+    },
+    {
+     "links": {
+      "text": "Schriftleitergesetz"
+     },
+     "rechts": {
+      "text": "in allen Zeitungen steht nur noch eine Meinung"
+     }
+    }
+   ]
+  },
+  {
+   "type": "tasks",
+   "id": "k4-analyse",
+   "title": "Propaganda analysieren",
+   "teilkompetenzen": [
+    "geschichte.methoden.propaganda-analysieren"
+   ],
+   "intro": "Wende das Analyseraster an. Deine Antworten gehen an deine Lehrperson. Aufgabe 1 ist für alle gedacht, Aufgabe 2 ist als **(Erweitert)** gekennzeichnet.",
+   "tasks": [
+    {
+     "id": "k4-a1",
+     "prompt": "Analysiere das oben beschriebene «Kostenfaktor»-Plakat der «Rassenhygiene» (der kräftige Mann mit den zwei Menschen auf der Stange und der Rechnung in Reichsmark). Beantworte die sechs Fragen des Rasters in je einem Satz.",
+     "hint": "Bei Frage 1 reicht «die NSDAP bzw. das Regime» – wer die Propaganda machte, steht im Text. Bei Frage 5 hilft dir die Frage: Kann man den Wert eines Menschen in Reichsmark angeben? Und wer entscheidet, was «Last» ist?",
+     "solution": "Beispielantwort: (1) Es spricht das NS-Regime – die NSDAP und der von ihr beherrschte Staat; ein genauer Absender steht auf dem beschriebenen Plakat nicht. (2) Es richtet sich an gesunde, arbeitende Deutsche, die sich als Träger der Last sehen sollen. (3) Es weckt Ärger und das Gefühl, ausgenutzt zu werden, dazu Stolz auf die eigene Kraft. (4) Feindbild sind Menschen mit Behinderung, die als nutzlose Last dargestellt werden. (5) Die Lüge ist, dass sich der Wert eines Menschen in Geld ausdrücken lasse und dass Kranke eine Schuld tragen – Mitleid und Rechte kommen nicht vor. (6) Ziel ist, Zwangssterilisation und später Mord als vernünftige Sparmaßnahme erscheinen zu lassen."
+    },
+    {
+     "id": "k4-a2",
+     "prompt": "(Erweitert) Lies das Zitat aus «Mein Kampf» noch einmal. Erkläre in drei bis fünf Sätzen, was es über Hitlers Bild von den Menschen verrät, die er gewinnen wollte – und warum dieses Menschenbild zu einer Diktatur passt.",
+     "hint": "Achte auf die Wörter «beschränkt», «klein» und «Vergeßlichkeit». Wer so über Menschen denkt – will der sie mitentscheiden lassen?",
+     "solution": "Beispielantwort: Hitler beschreibt die Menschen als beschränkt, verständnislos und vergesslich – als Masse, die man mit wenigen Schlagworten steuern kann. Er verachtet also genau die Leute, die er gewinnen will. Dieses Menschenbild passt zur Diktatur: Wer den Menschen kein eigenes Urteil zutraut, braucht keine Wahlen, keine Diskussion und keine freie Presse, sondern einen Führer, der für alle denkt. Propaganda ist dann kein Angebot zum Nachdenken, sondern ein Werkzeug, um Nachdenken zu verhindern."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "id": "k4-heute",
+   "title": "Propaganda heute erkennen (Erweitert)",
+   "body": "Die Technik hat sich geändert, die Prinzipien nicht. Was Goebbels mit Volksempfänger und Plakat machte, lässt sich heute mit einem Smartphone in Sekunden erreichen – von Staaten, Gruppen oder Einzelpersonen:\n\n- **Gefühl statt Verstand:** Beiträge, die wütend oder ängstlich machen, werden häufiger geteilt. Algorithmen belohnen das.\n- **Wiederholung:** Ein Meme, ein Slogan, hundertfach geteilt, wirkt irgendwann vertraut – und Vertrautes hält man leichter für wahr.\n- **Die Masse als Ziel:** Reichweite zählt mehr als Richtigkeit; was viral geht, muss nicht stimmen.\n- **Feindbilder:** «Die da oben», «die Reichen», «die Konzerne», «die Fremden», «die Medien» – Schuldige, die alles erklären, egal aus welcher Richtung.\n- **Vereinfachung und Fälschung:** Zitate ohne Zusammenhang, gefälschte Screenshots, mit KI erzeugte Bilder und Videos (**Deepfakes**), in denen Menschen Dinge sagen, die sie nie gesagt haben.\n\nDas Analyseraster funktioniert auch hier: Wer spricht – und wer steckt wirklich dahinter? An wen richtet sich der Beitrag? Welches Gefühl löst er in dir aus? Wer soll schuld sein? Was wird weggelassen? Was sollst du tun – teilen, hassen, nicht mehr nachfragen? Dazu drei Regeln: Quelle prüfen, bevor du teilst. Das eigene Gefühl bemerken – starke Wut ist oft gewollt. Die Gegenseite suchen – gute Informationen halten Widerspruch aus. Wie du Nachrichten und Falschinformationen prüfst, übst du in [[modul:wirtschaft-politik-22-medien-und-meinungsbildung]] und [[modul:wirtschaft-politik-24-debatte-falschinformationen]].\n\nWichtig: Es geht hier um **Techniken**, nicht um eine bestimmte Partei oder Gruppe von heute. Propaganda erkennt man an der Machart – egal, wer sie benutzt."
+  },
+  {
+   "type": "text",
+   "id": "k4-bystander",
+   "title": "Warum machten so viele mit?",
+   "body": "Warum so viele Deutsche die NSDAP **wählten**, hast du in [[modul:weimar-wirtschaftskrise-nationalsozialismus]] untersucht: Krise, Arbeitslosigkeit, Angst, Wut. Aber warum machten so viele nach 1933 **mit** – auch als die Verfolgung sichtbar war? Die Forschung nennt mehrere Gründe, die meist zusammenwirkten:\n\n1. **Arbeit und Aufschwung.** Die Arbeitslosigkeit sank von rund sechs Millionen (Anfang 1933) auf unter eine Million (1938) – durch Autobahnbau, vor allem aber durch Aufrüstung, und teils durch Tricks in der Statistik. Wer nach Jahren der Not wieder Arbeit hatte, fragte oft nicht, woher sie kam.\n2. **Ordnung.** Keine Straßenkämpfe mehr, keine Regierungskrisen – dass die «Ruhe» auf Terror beruhte, nahmen viele in Kauf.\n3. **Außenpolitische Erfolge – aus damaliger Sicht.** Die Rückkehr des Saarlands 1935, die Wiederbewaffnung, der Einmarsch ins Rheinland 1936, der «Anschluss» Österreichs 1938 – jeder Schritt brach den Versailler Vertrag, blieb ohne Gegenwehr der anderen Mächte und stärkte den Führerkult.\n4. **Angst.** Gestapo, Denunziation, Lager: Widerspruch kostete Beruf, Freiheit, manchmal das Leben.\n5. **Vorteil.** Parteibuch, Karriere, Posten, günstig gekaufte Geschäfte jüdischer Nachbarn – Mitmachen zahlte sich aus.\n6. **Gleichgültigkeit.** Solange es die anderen traf, schauten viele weg.\n7. **Propaganda.** Sie lieferte für alles eine Rechtfertigung – und kein Widerspruch war mehr zu hören.\n\nDazwischen gab es alle Abstufungen: begeisterte Anhänger, Mitläufer, Zuschauer, Menschen, die im Kleinen den Gruß verweigerten oder Verfolgten halfen, und Widerstand, der das Leben kostete. Dass Protest Wirkung haben konnte, zeigt die Predigt des Bischofs von Galen 1941 gegen die «Euthanasie»-Morde: Das Regime brach die zentrale Aktion kurz darauf ab – offiziell; wie viel die Proteste dazu beitrugen, ist umstritten. Die meisten schwiegen trotzdem.\n\n> **Merke:** «Die» Deutschen gab es nicht – es gab Entscheidungen, jeden Tag. Diese Frage begleitet dich durch die nächsten Module: An welcher Stelle hätte wer etwas tun können?"
+  },
+  {
+   "type": "video",
+   "id": "k4-video",
+   "provider": "youtube",
+   "videoId": "dD4y3B27VMM",
+   "title": "Zusatz (optional): Video «Wie die Nazis so viele Deutsche überzeugten» (15:37)",
+   "description": "Dieses Video von MrWissen2go Geschichte (Terra X, ZDF) ist ein freiwilliges Zusatzangebot – alles, was du für die Aufgaben brauchst, steht in den Texten dieses Moduls. Wenn du es schaust (Internet nötig, startet erst nach deinem Klick), achte auf zwei Leitfragen: (1) Welche der neun Methoden, die im Video erklärt werden, findest du in den Abschnitten über Propaganda und über die Gründe fürs Mitmachen wieder? (2) An welcher Stelle hätte die Beispielfamilie im Video noch anders entscheiden können?",
+   "transcript": "Zusammenfassung des Videos «Wie die Nazis so viele Deutsche überzeugten» (MrWissen2go Geschichte | Terra X, 15:37): Das Video fragt, wie Millionen Deutsche zu Anhängern, Mitläufern, Mittätern und Profiteuren des NS-Regimes wurden. Um 1930 sind viele Menschen unzufrieden mit der Weimarer Republik – Arbeitslosigkeit, Armut, Politikverdruss. Die Nationalsozialisten nutzen das mit Propaganda, Indoktrination und Manipulation, aber auch mit Einschüchterung und Terror. Anhand einer fiktiven Beispielfamilie zeigt das Video, wie sich gewöhnliche Bürgerinnen und Bürger Schritt für Schritt in Anhänger des Regimes verwandeln, und erklärt neun Methoden, mit denen die Nationalsozialisten an die Macht kamen und sie bis 1945 hielten.",
+   "startSeconds": 0
+  },
+  {
+   "type": "quiz",
+   "id": "k4-quiz",
+   "title": "Selbstcheck: Ideologie und Propaganda",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.ideologie-beschreiben",
+    "geschichte.methoden.propaganda-analysieren"
+   ],
+   "intro": "Prüfe, ob du die Bausteine, die Propagandamittel und das Analyseraster verstanden hast. Du kannst das Quiz beliebig oft wiederholen – es zählt dein bestes Ergebnis.",
+   "questions": [
+    {
+     "id": "k4-q1",
+     "type": "single_choice",
+     "prompt": "Was kennzeichnet eine Ideologie im Unterschied zur Wissenschaft?",
+     "options": [
+      {
+       "text": "Sie beschäftigt sich nur mit Politik und Staat, die Wissenschaft nur mit der Natur."
+      },
+      {
+       "text": "Sie ist ein geschlossenes Weltbild, das alles erklären will und keinen Widerspruch duldet.",
+       "correct": true
+      },
+      {
+       "text": "Sie wird nur in Büchern verbreitet, die Wissenschaft dagegen nur in Vorträgen und Vorlesungen."
+      },
+      {
+       "text": "Sie verändert sich jedes Jahr, während die Wissenschaft feste, unveränderliche Wahrheiten hat."
+      }
+     ],
+     "explanation": "Eine Ideologie steht fest, bevor man hinschaut, und erklärt Widerspruch zum Feindbild. Wissenschaft dagegen prüft, widerlegt und ändert ihre Aussagen. Mit Themen oder Medien hat der Unterschied nichts zu tun – und es ist die Ideologie, die sich nicht ändern will."
+    },
+    {
+     "id": "k4-q2",
+     "type": "single_choice",
+     "prompt": "Warum nennt man die NS-«Rassenlehre» pseudowissenschaftlich?",
+     "options": [
+      {
+       "text": "Weil sie nur von wenigen Professoren vertreten und nie an Schulen gelehrt wurde."
+      },
+      {
+       "text": "Weil sie von den Nationalsozialisten selbst erfunden wurde und vorher unbekannt war."
+      },
+      {
+       "text": "Weil sie nach Biologie klang, aber keine wissenschaftliche Grundlage hat.",
+       "correct": true
+      },
+      {
+       "text": "Weil sie sich nur auf Tiere und Pflanzen bezog und nicht auf Menschen."
+      }
+     ],
+     "explanation": "«Pseudo» heißt «scheinbar»: Die Rassenlehre benutzte wissenschaftliche Begriffe, ohne wissenschaftlich zu sein – menschliche «Rassen» in diesem Sinn gibt es nicht. Sie wurde an Schulen und Universitäten gelehrt, stammt aus der Zeit vor 1933 und bezog sich ausdrücklich auf Menschen."
+    },
+    {
+     "id": "k4-q3",
+     "type": "single_choice",
+     "prompt": "Was bedeutete «Lebensraum im Osten» konkret?",
+     "options": [
+      {
+       "text": "Deutsche Bauern sollten freiwillig nach Polen auswandern und dort günstig Land kaufen."
+      },
+      {
+       "text": "Der Osten Deutschlands sollte durch neue Städte, Straßen und Fabriken besser erschlossen werden."
+      },
+      {
+       "text": "Deutschland wollte mit Polen und der Sowjetunion langfristige Handelsverträge über Getreide schließen."
+      },
+      {
+       "text": "Ein Eroberungskrieg gegen Osteuropa – die Bevölkerung sollte vertrieben, versklavt oder getötet werden.",
+       "correct": true
+      }
+     ],
+     "explanation": "«Lebensraum» war von Anfang an als Eroberung geplant – nicht als Auswanderung, Aufbau oder Handel. Die Bevölkerung Osteuropas galt in der «Rassenlehre» als «minderwertig» und sollte Platz machen."
+    },
+    {
+     "id": "k4-q4",
+     "type": "single_choice",
+     "prompt": "Was geschah auf Grundlage des «Gesetzes zur Verhütung erbkranken Nachwuchses» von 1933?",
+     "options": [
+      {
+       "text": "Rund 400 000 Menschen wurden gegen ihren Willen unfruchtbar gemacht.",
+       "correct": true
+      },
+      {
+       "text": "Kranke erhielten kostenlose Behandlung in staatlichen Heilanstalten."
+      },
+      {
+       "text": "Ärztinnen und Ärzte mussten Erbkrankheiten in einem Register melden, mehr nicht."
+      },
+      {
+       "text": "Menschen mit Behinderung durften keine Schulen mehr besuchen."
+      }
+     ],
+     "explanation": "Das Gesetz erlaubte Zwangssterilisationen, die sogenannte Erbgesundheitsgerichte anordneten; rund 400 000 Menschen waren betroffen. Es war keine Hilfe, kein bloßes Register und kein Schulverbot – sondern ein Eingriff in den Körper gegen den Willen der Betroffenen."
+    },
+    {
+     "id": "k4-q5",
+     "type": "true_false",
+     "prompt": "Nach den Protesten von 1941 wurden in den Anstalten keine Patientinnen und Patienten mehr ermordet.",
+     "answer": false,
+     "explanation": "Falsch. Hitler ließ die zentrale Aktion «T4» im August 1941 nach Protesten wie der Predigt des Bischofs von Galen offiziell stoppen, aber das Töten ging in den Anstalten heimlich weiter – durch Medikamente und Verhungernlassen. Insgesamt wurden rund 200 000 Menschen und mehr ermordet."
+    },
+    {
+     "id": "k4-q6",
+     "type": "single_choice",
+     "prompt": "Wozu diente der «Volksempfänger»?",
+     "options": [
+      {
+       "text": "Er fing die Sender des Auslands ab, damit die Gestapo die Hörerinnen und Hörer ermitteln konnte."
+      },
+      {
+       "text": "Er war ein billiges Radio, mit dem möglichst viele Haushalte Hitlers Reden hören sollten.",
+       "correct": true
+      },
+      {
+       "text": "Er war ein Telefon, mit dem die Blockleiter ihre Meldungen an die Parteizentrale durchgaben."
+      },
+      {
+       "text": "Er war ein Lautsprecherwagen der SA, der vor 1933 im Wahlkampf durch die Straßen fuhr."
+      }
+     ],
+     "explanation": "Der Volksempfänger war ein eigens entwickeltes, günstiges Radio (76 Reichsmark). Mit ihm sollte «ganz Deutschland den Führer hören». Abhören, Telefonieren oder Wahlkampf vor 1933 hatten damit nichts zu tun."
+    },
+    {
+     "id": "k4-q7",
+     "type": "single_choice",
+     "prompt": "Welche Frage gehört zum Analyseraster für Propaganda?",
+     "options": [
+      {
+       "text": "Wie viele Exemplare wurden gedruckt?"
+      },
+      {
+       "text": "Welche Schriftart wurde verwendet?"
+      },
+      {
+       "text": "Wie teuer war die Herstellung?"
+      },
+      {
+       "text": "Welches Ziel verfolgt der Absender?",
+       "correct": true
+      }
+     ],
+     "explanation": "Das Raster fragt nach Absender, Zielgruppe, Gefühlen, Feindbildern, Vereinfachung oder Lüge und Ziel. Auflage, Schriftart und Herstellungskosten gehören nicht dazu: Sie sagen nichts darüber, wie ein Propagandamittel wirken soll."
+    },
+    {
+     "id": "k4-q8",
+     "type": "single_choice",
+     "prompt": "Welcher Grund dafür, dass viele Menschen nach 1933 mitmachten, hat mit Angst zu tun?",
+     "options": [
+      {
+       "text": "Die Arbeitslosigkeit sank, und viele hatten wieder einen Lohn."
+      },
+      {
+       "text": "Die Rückkehr des Saarlands und der «Anschluss» Österreichs galten als Erfolge."
+      },
+      {
+       "text": "Gestapo, Denunziation und Lager machten Widerspruch lebensgefährlich.",
+       "correct": true
+      },
+      {
+       "text": "Mit dem Parteibuch ließen sich Posten und Vorteile erreichen."
+      }
+     ],
+     "explanation": "Angst war ein eigener Grund neben Aufschwung, außenpolitischen Erfolgen und Vorteilen: Wer widersprach, riskierte Beruf, Freiheit und Leben. Die anderen drei Optionen beschreiben Zustimmung aus Erfolg und aus Berechnung."
+    }
+   ]
+  },
+  {
+   "type": "tasks",
+   "id": "k4-tasks",
+   "title": "Vertiefung: Begriffe, Gründe und Gegenwart",
+   "teilkompetenzen": [
+    "geschichte.nationalsozialismus.ideologie-beschreiben",
+    "geschichte.methoden.propaganda-analysieren"
+   ],
+   "intro": "Deine Antworten gehen an deine Lehrperson. Aufgabe 1 ist für alle gedacht, die Aufgaben 2 und 3 sind als **(Erweitert)** gekennzeichnet.",
+   "tasks": [
+    {
+     "id": "k4-t1",
+     "prompt": "Erkläre in zwei bis drei Sätzen, warum «Volksgemeinschaft» ein Begriff der Täter ist, der in Anführungszeichen gehört.",
+     "hint": "Wer bestimmte, wer dazugehört? Und was geschah mit denen, die nicht dazugehörten?",
+     "solution": "Beispielantwort: «Volksgemeinschaft» klang nach Zusammenhalt, aber das Regime bestimmte allein, wer dazugehörte. Jüdinnen und Juden, politische Gegner, Menschen mit Behinderung und andere wurden als «gemeinschaftsfremd» ausgeschlossen, verfolgt und ermordet. Das Wort beschönigt also Ausgrenzung – deshalb schreiben wir es in Anführungszeichen und erklären es als NS-Sprache."
+    },
+    {
+     "id": "k4-t2",
+     "prompt": "(Erweitert) Ordne die sieben Gründe aus dem Abschnitt «Warum machten so viele mit?» in drei Gruppen: Zustimmung, Angst, Vorteil/Gleichgültigkeit. Begründe anschließend in zwei bis drei Sätzen, welche Gruppe dir am wichtigsten erscheint.",
+     "hint": "Es gibt keine einzig richtige Gewichtung – wichtig ist, dass du deine Wahl mit einem Beispiel aus dem Modul begründest. Auch andere Zuordnungen sind möglich, wenn du sie begründest.",
+     "solution": "Beispielantwort: Zustimmung: Arbeit und Aufschwung, Ordnung, außenpolitische Erfolge, Propaganda. Angst: Gestapo, Denunziation, Lager. Vorteil/Gleichgültigkeit: Parteibuch und Karriere, günstig übernommene Geschäfte, Wegschauen, solange es andere trifft. Mir erscheint die Gruppe «Vorteil/Gleichgültigkeit» am wichtigsten. Sie zeigt, dass viele nicht gezwungen wurden, sondern sich entschieden – zum Beispiel, wenn jemand das Geschäft eines jüdischen Nachbarn weit unter Wert übernahm. Und der Terror funktionierte nur, weil genug Menschen mitmachten oder wegsahen."
+    },
+    {
+     "id": "k4-t3",
+     "prompt": "(Erweitert) Wähle eines der drei Propagandaprinzipien (Gefühl statt Verstand, Wiederholung, Masse als Ziel) und beschreibe in drei bis fünf Sätzen, wie es heute in sozialen Medien eingesetzt werden kann – ohne eine bestimmte Partei oder Person zu nennen.",
+     "hint": "Denk an Beiträge, die dich wütend gemacht haben, an Memes, die du ständig siehst, oder an Videos, bei denen du dich gefragt hast, ob sie echt sind.",
+     "solution": "Beispielantwort: Das Prinzip «Gefühl statt Verstand» funktioniert heute über Beiträge, die gezielt Wut oder Angst auslösen, weil solche Inhalte häufiger geteilt werden und die Algorithmen sie weiter verbreiten. Ein Bild mit einer kurzen, empörenden Behauptung erreicht mehr Menschen als ein sachlicher Text mit Quellen. Wer das Prinzip kennt, kann innehalten, das eigene Gefühl bemerken und die Quelle prüfen, bevor er teilt. Die Technik ist neu, das Muster alt."
+    }
+   ]
+  }
+ ]
+}

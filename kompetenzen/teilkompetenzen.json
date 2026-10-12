@@ -849,5 +849,41 @@
    "en": "I can put historical events in the correct chronological order."
   },
   "fachbereich": "geschichte"
+ },
+ "geschichte.nationalsozialismus.organisationen-zuordnen": {
+  "name": {
+   "de": "Ich kann die Organisationen des NS-Staates (NSDAP, SA, SS, Gestapo, HJ, BDM, DAF) ihren Langformen, Aufgaben und Erkennungsmerkmalen zuordnen.",
+   "en": "I can match the organisations of the Nazi state (NSDAP, SA, SS, Gestapo, HJ, BDM, DAF) to their full names, tasks and distinguishing features."
+  },
+  "beschreibung": {
+   "de": "Partei und Gliederungen, Gewalt- und Terrororganisationen, Jugend- und Massenorganisationen; Gründung, Aufgabe, Erkennungsmerkmal, Rolle im Terror.",
+   "en": "Party and its branches, organisations of violence and terror, youth and mass organisations; founding, task, distinguishing features, role in the terror."
+  },
+  "fachbereich": "geschichte"
+ },
+ "geschichte.nationalsozialismus.terrorsystem-erklaeren": {
+  "name": {
+   "de": "Ich kann erklären, wie Partei, SS, Gestapo und Denunziation zusammen das Terrorsystem des NS-Staates bildeten.",
+   "en": "I can explain how the party, the SS, the Gestapo and denunciation together formed the terror system of the Nazi state."
+  },
+  "fachbereich": "geschichte"
+ },
+ "geschichte.nationalsozialismus.ideologie-beschreiben": {
+  "name": {
+   "de": "Ich kann die Bausteine der NS-Ideologie beschreiben und erklären, wie sie zu Gesetzen und Verbrechen führten.",
+   "en": "I can describe the building blocks of Nazi ideology and explain how they led to laws and crimes."
+  },
+  "beschreibung": {
+   "de": "Rassenlehre, Antisemitismus, Lebensraum, Volksgemeinschaft, Führerprinzip, Antikommunismus, Sozialdarwinismus; Gesetz zur Verhütung erbkranken Nachwuchses, Mordaktion T4.",
+   "en": "Racial doctrine, antisemitism, Lebensraum, Volksgemeinschaft, Führer principle, anti-communism, social Darwinism; the 1933 sterilisation law, the T4 murder programme."
+  },
+  "fachbereich": "geschichte"
+ },
+ "geschichte.methoden.propaganda-analysieren": {
+  "name": {
+   "de": "Ich kann Propaganda mit einem Analyseraster untersuchen (Wer spricht? An wen? Welche Gefühle, Feindbilder, Vereinfachungen, Ziele?) – historisch und heute.",
+   "en": "I can analyse propaganda with a set of guiding questions (Who speaks? To whom? Which emotions, enemy images, simplifications, goals?) – historically and today."
+  },
+  "fachbereich": "geschichte"
  }
 }
