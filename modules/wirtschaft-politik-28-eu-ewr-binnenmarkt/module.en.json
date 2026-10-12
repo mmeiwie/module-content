@@ -1,0 +1,722 @@
+{
+ "_hinweis": "AUTOMATISCH ERZEUGT aus module.json (Deutsch). Nicht von Hand bearbeiten. Aenderungen am Master vornehmen und neu erzeugen: npm run uebersetze -- --modul wirtschaft-politik-28-eu-ewr-binnenmarkt --sprache en",
+ "derivedFrom": {
+  "language": "de",
+  "masterHash": "sha256:2ad21b417ee0bcc108aa348894ad6401483fbd7e1ab6171d55d2428e81b88c02",
+  "masterCommit": "a1e0ada",
+  "hintsHash": null,
+  "generatedAt": "2026-10-12",
+  "generator": "uebersetze.ts v1",
+  "model": "datei:codex-antworten.json",
+  "selfHash": "sha256:db016f02155c34ae7b2df186d381ebdad86e1b340effcee34fa777c382835b3a"
+ },
+ "schemaVersion": 3,
+ "id": "wirtschaft-politik-28-eu-ewr-binnenmarkt",
+ "title": "EU and EEA: Europe as a single market",
+ "description": "Why does your online order from Germany arrive without customs paperwork – and why does Liechtenstein use Swiss francs even though it belongs to the European single market? Here you will learn the basic idea behind European integration – peace through economic interdependence – understand the single market's four freedoms through everyday examples, distinguish between the EU and the EEA, and describe Liechtenstein's special dual role in the EEA and the Swiss customs area.",
+ "curricula": [
+  {
+   "curriculum": "li",
+   "subject": "WP",
+   "subjectName": "Economics & Politics",
+   "grades": [
+    9
+   ],
+   "competencies": [
+    {
+     "code": "WAH.2.1",
+     "description": "Die Schülerinnen und Schüler können Prinzipien der Marktwirtschaft aufzeigen."
+    },
+    {
+     "code": "WAH.3.1",
+     "description": "Die Schülerinnen und Schüler können Einflüsse auf die Gestaltung des Konsumalltages erkennen."
+    },
+    {
+     "code": "RZG.8.3",
+     "description": "Die Schülerinnen und Schüler können die Positionierung Liechtensteins in Europa und der Welt wahrnehmen und beurteilen."
+    }
+   ]
+  }
+ ],
+ "sequenz": 28,
+ "einheit": "Topic F: Europe & International Politics",
+ "language": "en",
+ "durationMinutes": 45,
+ "difficulty": "mittel",
+ "keywords": [
+  "Europe",
+  "European Union",
+  "EU",
+  "EEA",
+  "single market",
+  "four freedoms",
+  "movement of goods",
+  "free movement of people",
+  "customs treaty",
+  "currency treaty",
+  "Swiss franc",
+  "market access",
+  "peace",
+  "Liechtenstein"
+ ],
+ "learningObjectives": [
+  "I can explain the basic idea behind European integration: after 1945, close economic interdependence was intended to prevent further wars in Europe.",
+  "I can name the single market's four freedoms – free movement of goods, services, people and capital – and give an everyday example of each.",
+  "I can distinguish between the EU and the EEA: the EEA extends the single market to Iceland, Liechtenstein and Norway – Liechtenstein is an EEA member, but not an EU member.",
+  "I can describe Liechtenstein's dual role – as an EEA member and also part of a shared customs and currency area with Switzerland – and explain why this is an advantage as a business location."
+ ],
+ "sources": [
+  {
+   "title": "LiLe – Liechtensteiner Lehrplan",
+   "url": "https://www.lile.li"
+  },
+  {
+   "title": "Bundeszentrale für politische Bildung (bpb)",
+   "url": "https://www.bpb.de"
+  },
+  {
+   "title": "Historisches Lexikon des Fürstentums Liechtenstein (Zollvertrag, Währungsvertrag)",
+   "url": "https://historisches-lexikon.li"
+  },
+  {
+   "title": "Amt für Statistik Liechtenstein – Statistikportal",
+   "url": "https://www.statistikportal.li"
+  }
+ ],
+ "license": "CC BY-SA 4.0",
+ "authors": [
+  "Anna Rinderer"
+ ],
+ "requires": [
+  "wirtschaft-politik-08-wettbewerb-monopol-konkurrenz",
+  "wirtschaft-politik-26-wirtschaftspolitik-standort"
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "title": "Never again war – using the economy as a tool",
+   "body": "You order trainers from a German online shop, your cousin studies in Graz, and people who commute across the border every morning work at the business next door. All perfectly normal – today. Just over eighty years ago, this was unthinkable: between 1914 and 1945, the countries of Europe devastated one another in two world wars.\n\nAfter 1945, a major question therefore arose: **how can we stop neighbours ever shooting at one another again?** The answer Europe found was unusual: not just peace treaties, but **economic interdependence**. The idea was that if factories, raw materials and markets were linked across borders, war would always damage a country's own economy too. Countries that trade closely with one another simply have too much to lose.\n\nThe first step was a clever choice: in 1952, six countries – including former wartime enemies France and Germany – pooled their **coal and steel industries**. These were precisely the industries needed for tanks and guns at the time! Countries that produce together and inspect one another's books cannot secretly build up arms against each other. Over the decades, this beginning grew into today's **European Union (EU)** with 27 member states. The member states adopt shared rules through joint institutions such as the European Parliament and the European Commission – for this module, you only need to know those names.\n\nThe results of the basic idea can be stated plainly: **there has been no war between the member states of this union since it was founded.** Step by step, the idea of peace also developed into something that still shapes your everyday life: a huge single market."
+  },
+  {
+   "type": "image",
+   "title": "Who belongs to what?",
+   "src": "/content/wirtschaft-politik-28-eu-ewr-binnenmarkt/eu-ewr-mengendiagramm.png",
+   "alt": "A set diagram with two overlapping areas. On the left is a large light blue area labelled EEA – European Economic Area, one single market: free movement of goods, services, people and capital. Inside it is a blue box labelled EU – European Union, 27 member states – all are part of the single market, with example boxes for Germany, Austria, France, Italy and Spain, plus the note ‘and 22 others’. To the right of this, still inside the EEA area, are two boxes for Iceland and Norway under the heading ‘Single market yes, EU no’. Overlapping from the right is an area outlined in green labelled Swiss customs area, customs treaty since 1924, franc, with a box for Switzerland and the note ‘not in the EEA – its own agreements with the EU’. In the overlap between the two areas is a box highlighted in orange for Liechtenstein, labelled ‘in both areas: EEA member since 1995 plus customs treaty and franc with Switzerland’. At the bottom are four panels for the four freedoms: goods – ordering without customs duties; services – cross-border contracts; people – studying and working; capital – saving and investing money. Below them is the key point: Liechtenstein is in the EEA single market and in the Swiss customs area – the only country in both economic areas.",
+   "caption": "The EU, EEA and Swiss customs area as a set diagram: Liechtenstein is the only country in the overlap – part of the European single market and also in a customs area with Switzerland.",
+   "credit": "Eigene Darstellung, EveryCate, CC BY-SA 4.0"
+  },
+  {
+   "type": "text",
+   "title": "The single market: four freedoms for your everyday life",
+   "body": "At the heart of economic integration is the **single market**, also called the internal market. ‘Internal’ means ‘inside’: the participating countries treat one another economically as though they were **one country** – trading across a border should feel like trading within a country. To make this work, the single market guarantees **four freedoms**:\n\n- **Free movement of goods:** Products can cross borders without customs duties or extra paperwork. Your online order for 89 CHF from Germany therefore arrives like a domestic order – without an extra customs bill.\n- **Free movement of services:** Work that does not involve selling goods can also be sold across borders. A graphic designer from Vaduz designs the website of a café in Wien; a painting company takes on jobs in a neighbouring country.\n- **Free movement of people:** People can study, start an apprenticeship or work in another member country – without special permit barriers. A semester abroad or an internship in Berlin? That is exactly what this freedom is for.\n- **Free movement of capital:** Money can flow across borders. A saver buys shares in a Norwegian company; a business builds a factory in Portugal.\n\nA **memory aid** for two freedoms that are often confused: if a **person** moves to work or study somewhere else, it is movement of people. If a **company** provides a service across a border, it is movement of services.\n\nWhy is this shared market so important economically? You know the reasoning from [[modul:wirtschaft-politik-08-wettbewerb-monopol-konkurrenz]]: **more suppliers mean more competition** – more choice and generally better prices for you. For businesses, the other side of this is that instead of serving only a small domestic market, they can reach around 450 million potential customers. For businesses from a very small country in particular, this makes all the difference."
+  },
+  {
+   "type": "video",
+   "title": "Video: The European single market and the four freedoms",
+   "provider": "youtube",
+   "videoId": "1MQ1DTAXT_A",
+   "description": "This explainer video (4:48) from the learning channel Die Merkhilfe summarises the European single market and the four freedoms. As you watch, focus on two questions: (1) Which examples of the four freedoms does the video give – and which have you encountered yourself? (2) The video explains the single market from the EU's perspective: as you watch, consider which aspects also apply to Liechtenstein through the EEA.",
+   "startSeconds": 0,
+   "transcript": "The explainer video ‘Europäischer Binnenmarkt – Wirtschaftsunion & 4 Freiheiten (Personen, Waren, Kapital & Dienste)’ (Die Merkhilfe, 4:48 minutes) explains the European single market as the EU states' shared market: goods, services, people and capital can move freely across member states' borders. The video illustrates the four fundamental freedoms with examples – from trade in goods without customs duties and working and studying abroad to cross-border investments – and explains why the single market benefits both consumers and businesses. Through the EEA Agreement, these freedoms also apply to Iceland, Liechtenstein and Norway."
+  },
+  {
+   "type": "text",
+   "title": "EU and EEA: not the same thing",
+   "body": "Now for the distinction you need to understand in this module. The **European Union** is a close union of 27 states whose cooperation goes far beyond the economy. But not every country that participates in the single market is an EU member – this is where the **EEA** comes in:\n\nSince 1994, the **European Economic Area (EEA)** has extended the single market to countries that are **not** in the EU: **Iceland, Liechtenstein and Norway**. These three countries adopt single market rules and participate fully in the four freedoms – without being EU members. Liechtenstein joined the EEA in **1995**, after voters approved membership.\n\nAnd **Switzerland**? It is neither an EU nor an EEA member: in a referendum in 1992, Swiss voters narrowly rejected joining the EEA. Since then, Switzerland has arranged its access to the European market through **its own bilateral agreements** with the EU – a whole folder of separate agreements rather than overall membership.\n\nYou now have the map from the diagram in mind:\n\n- **EU membership** automatically means being part of the single market.\n- **EEA** = the EU states **plus** Iceland, Liechtenstein and Norway – one shared single market.\n- **Switzerland:** neither EU nor EEA – its own agreements with the EU.\n\nFor everything that follows, remember: **being an EEA member does not mean being an EU member.** Confusing the two prevents you from understanding Liechtenstein's position – which is even more unusual."
+  },
+  {
+   "type": "text",
+   "title": "Liechtenstein's dual role: one country, two economic areas",
+   "body": "Liechtenstein is in a position that is **unique in Europe** – viewed purely as a factual example, it offers a lesson in skilful policymaking by a very small country:\n\n**A partnership with Switzerland for a hundred years.** After the First World War, an economically weakened Liechtenstein sought a strong partner: the **customs treaty** with Switzerland was signed in 1923, and since 1924 the two countries have formed a **shared customs area** – there are no checks on goods between them, and they act jointly on customs matters in relation to the rest of the world. Liechtenstein has used the **Swiss franc** since the 1920s; this is formally governed by the **currency treaty of 1980**.\n\n**A partnership with Europe since 1995.** Joining the EEA added a second connection: full access to the European single market and its four freedoms.\n\nWhat makes this special is that **Switzerland itself is not in the EEA**. Liechtenstein is therefore the only country that belongs to **both economic areas at the same time** – the Swiss customs area and the EEA single market. Special rules are needed to make this work in everyday life: for example, the rules under which goods enter the country and are resold are monitored. A special arrangement also applies to the movement of people: the small country is allowed to limit immigration – while Liechtenstein citizens can work and study anywhere in the EEA.\n\n**Why all this effort?** Think of the location factors from [[modul:wirtschaft-politik-26-wirtschaftspolitik-standort]] – above all, **market access**: a business in Liechtenstein sells its products without customs barriers to Switzerland **and** throughout the EEA. For a country with around 41'400 residents but around 46'400 jobs, this access to both markets is a major advantage as a business location: the tiny home market would be far too small for its many industrial and service businesses.\n\nHere too, a factual description includes the **downside**: two economic areas mean two sets of rules – which makes administration and agreements complex. The dual role also depends on good relations with both partners. A very small country cannot force others to grant it a special position – it has to maintain that position through good relations."
+  },
+  {
+   "type": "quiz",
+   "id": "quiz1",
+   "title": "Quiz: EU, EEA and the dual role",
+   "teilkompetenzen": [
+    "wp.europa.binnenmarkt-erklaeren",
+    "wp.europa.ewr-doppelrolle-erklaeren"
+   ],
+   "intro": "The basic idea, four freedoms, EU or EEA – show what you know. You can repeat the quiz as often as you like; your best result counts.",
+   "questions": [
+    {
+     "id": "q1",
+     "type": "single_choice",
+     "prompt": "What was the basic idea behind European integration after 1945?",
+     "options": [
+      {
+       "text": "All European countries should have a common language and culture."
+      },
+      {
+       "text": "Securing peace by linking countries' economies so closely that war would no longer be worthwhile for any side.",
+       "correct": true
+      },
+      {
+       "text": "Europe should build a joint army to deter other regions of the world."
+      },
+      {
+       "text": "Governments mainly wanted to harmonise taxes across Europe."
+      }
+     ],
+     "explanation": "After two world wars, Europe turned to economic interdependence as a tool for peace: countries that share factories, raw materials and markets always harm themselves too if they go to war. The first step in 1952 was to pool the coal and steel industries – the very raw materials for armaments. A joint army was not the core of the idea, let alone a common language or harmonised taxes – the countries remained independent and ‘only’ linked their economies."
+    },
+    {
+     "id": "q2",
+     "type": "single_choice",
+     "prompt": "Which four freedoms does the European single market guarantee?",
+     "options": [
+      {
+       "text": "Freedom of expression, freedom to travel, freedom of religion and freedom of the press."
+      },
+      {
+       "text": "Free movement of goods, taxes, wages and prices."
+      },
+      {
+       "text": "Free movement of people, cars, houses and parcels."
+      },
+      {
+       "text": "Free movement of goods, services, people and capital.",
+       "correct": true
+      }
+     ],
+     "explanation": "The single market's four freedoms concern goods, services, people and capital – products, work across borders, people and money. Freedom of expression, religion and the press are fundamental rights and human rights, rather than single market freedoms – confusing the two is the most common mistake. Taxes, wages and prices are not ‘freed’ or harmonised by the single market, and cars or parcels are simply goods."
+    },
+    {
+     "id": "q3",
+     "type": "single_choice",
+     "prompt": "You order trainers for 89 CHF from a German online shop, and the parcel arrives without a customs bill. Which freedom makes this possible?",
+     "options": [
+      {
+       "text": "Free movement of goods in the single market, which Liechtenstein participates in through the EEA.",
+       "correct": true
+      },
+      {
+       "text": "Free movement of people, because the delivery worker crosses the border."
+      },
+      {
+       "text": "A worldwide rule: parcels from abroad are always free of customs duties."
+      },
+      {
+       "text": "Free movement of capital, because you paid with your money."
+      }
+     ],
+     "explanation": "The trainers you ordered are goods – crossing the border without customs duties is free movement of goods, which also applies to Liechtenstein through the EEA. The delivery worker crossing the border does not make this movement of people (that concerns working and living abroad), and every purchase involves payment – that alone is not movement of capital in the sense of savings and investments. Parcels are not free of customs duties worldwide: if you order from outside the EEA, customs duties and fees may be payable."
+    },
+    {
+     "id": "q4",
+     "type": "single_choice",
+     "prompt": "What is the EEA?",
+     "options": [
+      {
+       "text": "Another name for the European Union."
+      },
+      {
+       "text": "The union of all countries that use the euro."
+      },
+      {
+       "text": "The European Economic Area: it extends the EU single market to Iceland, Liechtenstein and Norway – these countries participate without being EU members.",
+       "correct": true
+      },
+      {
+       "text": "A defence alliance of European states."
+      }
+     ],
+     "explanation": "EEA stands for European Economic Area: the EU states, plus Iceland, Liechtenstein and Norway, together form a single market – the three non-EU countries adopt the single market rules to participate. Treating the EEA and the EU as the same thing is a classic mistake – this very distinction makes Liechtenstein's position understandable. The EEA has nothing to do with currency (Liechtenstein uses francs), and it certainly is not a military alliance."
+    },
+    {
+     "id": "q5",
+     "type": "single_choice",
+     "prompt": "Is Liechtenstein an EU member?",
+     "options": [
+      {
+       "text": "No – Liechtenstein is not in the EU, but participates fully in the European single market through the EEA.",
+       "correct": true
+      },
+      {
+       "text": "Yes – participating in the single market automatically means being an EU member."
+      },
+      {
+       "text": "Yes – Liechtenstein joined the EU in 1995."
+      },
+      {
+       "text": "No – Liechtenstein has nothing to do with the European market."
+      }
+     ],
+     "explanation": "Liechtenstein is not an EU member – in 1995, it joined the EEA, not the EU. This is exactly why the distinction matters: participating in the single market does not automatically make a country an EU member, as Iceland and Norway also show. And ‘nothing to do with it’ is certainly wrong: through the EEA, the single market's four freedoms also apply fully to Liechtenstein."
+    },
+    {
+     "id": "q6",
+     "type": "single_choice",
+     "prompt": "Which statement about Switzerland is correct?",
+     "options": [
+      {
+       "text": "Switzerland is an EU member, but is not in the EEA."
+      },
+      {
+       "text": "Switzerland is a founding member of the EEA."
+      },
+      {
+       "text": "Switzerland has no agreements at all with the EU."
+      },
+      {
+       "text": "Switzerland is neither in the EU nor in the EEA – it arranges its access to the European market through its own bilateral agreements with the EU.",
+       "correct": true
+      }
+     ],
+     "explanation": "Swiss voters narrowly rejected joining the EEA in a referendum in 1992 – since then, Switzerland has followed its own path: it is neither an EU nor an EEA member, but has arranged market access through many separate bilateral agreements with the EU. So ‘no agreements at all’ is wrong – the opposite is true. And it is precisely because Switzerland is not in the EEA that Liechtenstein's membership of both areas is unusual."
+    },
+    {
+     "id": "q7",
+     "type": "single_choice",
+     "prompt": "What is Liechtenstein's ‘dual role’?",
+     "options": [
+      {
+       "text": "Liechtenstein is a member of both the EU and the EEA."
+      },
+      {
+       "text": "Liechtenstein switches back and forth between the EEA and the Swiss customs area depending on the economic situation."
+      },
+      {
+       "text": "Liechtenstein is an EEA member and also forms a shared customs and currency area with Switzerland – it is the only country that belongs to both economic areas.",
+       "correct": true
+      },
+      {
+       "text": "Liechtenstein belongs to neither area and trades entirely without agreements."
+      }
+     ],
+     "explanation": "The dual role means sharing a customs area with Switzerland since 1924 and a franc currency area since the 1920s (currency treaty of 1980) – and also being an EEA member since 1995. Because Switzerland itself is not in the EEA, Liechtenstein is the only country in both areas; it does not switch back and forth, as both arrangements apply permanently side by side. Liechtenstein is not an EU member – and this very small country's position would be unthinkable without agreements."
+    },
+    {
+     "id": "q8",
+     "type": "single_choice",
+     "prompt": "Why is the dual role an advantage for Liechtenstein as a business location? Think of the location factors from [[modul:wirtschaft-politik-26-wirtschaftspolitik-standort]].",
+     "options": [
+      {
+       "text": "Because it means Liechtenstein no longer needs to collect any taxes."
+      },
+      {
+       "text": "Because of access to both markets: businesses sell without customs barriers to Switzerland and throughout the EEA single market.",
+       "correct": true
+      },
+      {
+       "text": "Because the EU pays Liechtenstein's government expenditure in return."
+      },
+      {
+       "text": "Because it means businesses in Liechtenstein no longer have to fear competition."
+      }
+     ],
+     "explanation": "The location factor is market access: for businesses in a country with around 41'400 residents but around 46'400 jobs, the home market would be far too small – thanks to the dual role, they can reach Switzerland and the whole EEA without customs duties. This has nothing to do with taxes (which of course are still collected), and the EU does not pay money in return – competition is also more likely to increase in the larger market than decrease; you know about competition from [[modul:wirtschaft-politik-08-wettbewerb-monopol-konkurrenz]]."
+    }
+   ]
+  },
+  {
+   "type": "lueckentext",
+   "id": "lt-europa-wortbank",
+   "title": "Fill in the terms: Europe as a single market",
+   "teilkompetenzen": [
+    "wp.europa.binnenmarkt-erklaeren",
+    "wp.europa.ewr-doppelrolle-erklaeren"
+   ],
+   "intro": "Drag the correct terms into the gaps (on a phone: tap the word first, then the gap). **Watch out:** three of the words do not fit anywhere.",
+   "modus": "wortbank",
+   "text": "After 1945, Europe looked for a path to lasting {{1}}. The idea was that countries whose economies are closely {{2}} have little interest in going to war with their trading partners. Step by step, this idea led to today's {{3}}. At its heart is the {{4}}: free movement of {{5}} (for example, an online order without customs duties), services, {{6}} (for example, studying abroad) and capital. The {{7}} extends this shared market to Iceland, Liechtenstein and Norway. In addition, Liechtenstein has been linked to Switzerland for over a hundred years through the {{8}} and uses the Swiss {{9}}.",
+   "luecken": [
+    {
+     "antworten": [
+      "peace"
+     ]
+    },
+    {
+     "antworten": [
+      "interdependent",
+      "interconnected",
+      "interlinked",
+      "linked",
+      "connected",
+      "integrated",
+      "intertwined"
+     ]
+    },
+    {
+     "antworten": [
+      "European Union",
+      "the European Union",
+      "EU",
+      "the EU",
+      "E.U.",
+      "the E.U.",
+      "E.U",
+      "the E.U"
+     ]
+    },
+    {
+     "antworten": [
+      "single market",
+      "the single market",
+      "internal market",
+      "the internal market",
+      "European single market",
+      "the European single market",
+      "European internal market",
+      "the European internal market",
+      "EU single market",
+      "the EU single market",
+      "EU internal market",
+      "the EU internal market",
+      "common market",
+      "the common market"
+     ]
+    },
+    {
+     "antworten": [
+      "goods",
+      "products"
+     ]
+    },
+    {
+     "antworten": [
+      "people",
+      "persons"
+     ]
+    },
+    {
+     "antworten": [
+      "EEA",
+      "the EEA",
+      "European Economic Area",
+      "the European Economic Area",
+      "E.E.A.",
+      "the E.E.A.",
+      "E.E.A",
+      "the E.E.A",
+      "E E A",
+      "the E E A"
+     ]
+    },
+    {
+     "antworten": [
+      "customs treaty",
+      "the customs treaty",
+      "customs agreement",
+      "the customs agreement",
+      "customs union treaty",
+      "the customs union treaty",
+      "customs union agreement",
+      "the customs union agreement"
+     ]
+    },
+    {
+     "antworten": [
+      "franc",
+      "francs",
+      "Swiss franc",
+      "Swiss francs",
+      "CHF"
+     ]
+    }
+   ],
+   "ablenker": [
+    "euro",
+    "military alliance",
+    "border control"
+   ]
+  },
+  {
+   "type": "lueckentext",
+   "id": "lt-europa-eingabe",
+   "title": "Type in the terms: EU, EEA and the dual role",
+   "teilkompetenzen": [
+    "wp.europa.ewr-doppelrolle-erklaeren"
+   ],
+   "intro": "There is no word bank this time – **type in the missing terms yourself**. Capitalisation does not matter.",
+   "modus": "eingabe",
+   "text": "The shared market in which goods, services, people and capital can move freely across borders is called the {{1}}. Iceland, Liechtenstein and Norway participate through the {{2}} without being EU members. Liechtenstein joined this economic area in {{3}}. Since 1924, Liechtenstein has shared a {{4}} with Switzerland. People in Liechtenstein pay in Swiss {{5}}.",
+   "luecken": [
+    {
+     "antworten": [
+      "single market",
+      "the single market",
+      "European single market",
+      "the European single market",
+      "EU single market",
+      "the EU single market",
+      "EU-single market",
+      "the EU-single market",
+      "internal market",
+      "the internal market",
+      "European internal market",
+      "the European internal market",
+      "EU internal market",
+      "the EU internal market",
+      "EU-internal market",
+      "the EU-internal market",
+      "common market",
+      "the common market",
+      "European common market",
+      "the European common market"
+     ]
+    },
+    {
+     "antworten": [
+      "EEA",
+      "the EEA",
+      "European Economic Area",
+      "the European Economic Area",
+      "E.E.A.",
+      "the E.E.A.",
+      "E.E.A",
+      "the E.E.A",
+      "E E A",
+      "the E E A"
+     ]
+    },
+    {
+     "antworten": [
+      "1995"
+     ]
+    },
+    {
+     "antworten": [
+      "customs area",
+      "the customs area",
+      "customs territory",
+      "the customs territory",
+      "customs union",
+      "the customs union",
+      "common customs area",
+      "the common customs area",
+      "common customs territory",
+      "the common customs territory",
+      "shared customs area",
+      "the shared customs area",
+      "shared customs territory",
+      "the shared customs territory",
+      "a customs area",
+      "a customs territory",
+      "a customs union"
+     ]
+    },
+    {
+     "antworten": [
+      "francs",
+      "franc",
+      "Swiss francs",
+      "Swiss franc",
+      "CHF",
+      "the franc",
+      "the Swiss franc"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "lueckentext",
+   "id": "lt-zuordnen-freiheiten",
+   "title": "Match the situation: which freedom is it?",
+   "teilkompetenzen": [
+    "wp.europa.binnenmarkt-erklaeren"
+   ],
+   "intro": "Match each everyday situation to the correct single market freedom: **Movement of goods**, **Movement of services**, **Movement of people** or **Movement of capital**. Movement of goods and Movement of people each appear three times; Movement of services and Movement of capital each appear twice. All situations are entirely fictional.",
+   "modus": "wortbank",
+   "text": "You order trainers from a German online shop – the parcel arrives without customs forms. {{1}}\nAfter your apprenticeship, you take a job in Austria without needing a special work permit. {{2}}\nA graphic designer from Vaduz designs the website of a café in Wien. {{3}}\nA dairy supplies its mountain cheese to shops in Italy without customs duties. {{4}}\nA saver buys shares in a Norwegian company. {{5}}\nAfter your Matura, you enrol at a university in Innsbruck. {{6}}\nA painting company takes on a renovation job in a neighbouring country and sends an invoice for it. {{7}}\nA company uses its own money to build a new factory in Portugal. {{8}}\nA furniture shop sells its shelves in several EEA countries without paying duties at every border. {{9}}\nYour cousin does a paid internship in Berlin. {{10}}",
+   "luecken": [
+    {
+     "antworten": [
+      "Movement of goods",
+      "the Movement of goods",
+      "free movement of goods",
+      "the free movement of goods",
+      "goods",
+      "the goods",
+      "trade in goods",
+      "the trade in goods",
+      "free trade in goods",
+      "the free trade in goods"
+     ]
+    },
+    {
+     "antworten": [
+      "Movement of people",
+      "the Movement of people",
+      "free movement of people",
+      "the free movement of people",
+      "movement of persons",
+      "the movement of persons",
+      "free movement of persons",
+      "the free movement of persons",
+      "people",
+      "the people",
+      "persons",
+      "the persons",
+      "freedom of movement for people",
+      "the freedom of movement for people",
+      "freedom of movement for persons",
+      "the freedom of movement for persons"
+     ]
+    },
+    {
+     "antworten": [
+      "Movement of services",
+      "the Movement of services",
+      "free movement of services",
+      "the free movement of services",
+      "services",
+      "the services",
+      "trade in services",
+      "the trade in services",
+      "free trade in services",
+      "the free trade in services",
+      "freedom to provide services",
+      "the freedom to provide services"
+     ]
+    },
+    {
+     "antworten": [
+      "Movement of goods",
+      "the Movement of goods",
+      "free movement of goods",
+      "the free movement of goods",
+      "goods",
+      "the goods",
+      "trade in goods",
+      "the trade in goods",
+      "free trade in goods",
+      "the free trade in goods"
+     ]
+    },
+    {
+     "antworten": [
+      "Movement of capital",
+      "the Movement of capital",
+      "free movement of capital",
+      "the free movement of capital",
+      "capital",
+      "the capital",
+      "capital movement",
+      "the capital movement",
+      "capital movements",
+      "the capital movements",
+      "capital flows",
+      "the capital flows",
+      "free flow of capital",
+      "the free flow of capital"
+     ]
+    },
+    {
+     "antworten": [
+      "Movement of people",
+      "the Movement of people",
+      "free movement of people",
+      "the free movement of people",
+      "movement of persons",
+      "the movement of persons",
+      "free movement of persons",
+      "the free movement of persons",
+      "people",
+      "the people",
+      "persons",
+      "the persons",
+      "freedom of movement for people",
+      "the freedom of movement for people",
+      "freedom of movement for persons",
+      "the freedom of movement for persons"
+     ]
+    },
+    {
+     "antworten": [
+      "Movement of services",
+      "the Movement of services",
+      "free movement of services",
+      "the free movement of services",
+      "services",
+      "the services",
+      "trade in services",
+      "the trade in services",
+      "free trade in services",
+      "the free trade in services",
+      "freedom to provide services",
+      "the freedom to provide services"
+     ]
+    },
+    {
+     "antworten": [
+      "Movement of capital",
+      "the Movement of capital",
+      "free movement of capital",
+      "the free movement of capital",
+      "capital",
+      "the capital",
+      "capital movement",
+      "the capital movement",
+      "capital movements",
+      "the capital movements",
+      "capital flows",
+      "the capital flows",
+      "free flow of capital",
+      "the free flow of capital"
+     ]
+    },
+    {
+     "antworten": [
+      "Movement of goods",
+      "the Movement of goods",
+      "free movement of goods",
+      "the free movement of goods",
+      "goods",
+      "the goods",
+      "trade in goods",
+      "the trade in goods",
+      "free trade in goods",
+      "the free trade in goods"
+     ]
+    },
+    {
+     "antworten": [
+      "Movement of people",
+      "the Movement of people",
+      "free movement of people",
+      "the free movement of people",
+      "movement of persons",
+      "the movement of persons",
+      "free movement of persons",
+      "the free movement of persons",
+      "people",
+      "the people",
+      "persons",
+      "the persons",
+      "freedom of movement for people",
+      "the freedom of movement for people",
+      "freedom of movement for persons",
+      "the freedom of movement for persons"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "tasks",
+   "title": "Explore further: Europe in your everyday life",
+   "teilkompetenzen": [
+    "wp.europa.binnenmarkt-erklaeren",
+    "wp.europa.ewr-doppelrolle-erklaeren",
+    "wp.standort.standortfaktoren-beurteilen"
+   ],
+   "tasks": [
+    {
+     "prompt": "Look for traces of Europe: find three situations or objects from your everyday life that are connected to the single market – for example, a product from an EEA country, someone who commutes across a border or studies abroad, or a subscription with a foreign company. Match each situation to the correct freedom (goods, services, people or capital) and explain each choice in one sentence.",
+     "hint": "Look at packaging (‘Made in …’), think of people you know who work or study across borders – and remember that music or video subscriptions are often services provided by a company abroad too.",
+     "solution": "Example answer: (1) My headphones were ordered from an online shop in Germany and arrived without a customs bill – free movement of goods. (2) My neighbour works in Liechtenstein and lives in Austria – movement of people, because she can work here without special barriers. (3) My music subscription for 12 CHF a month comes from a company based in an EU country – movement of services, because I am buying an ongoing service rather than goods. Your answer is successful if the situation, freedom and explanation fit together."
+    },
+    {
+     "prompt": "Business location advice: the fictional Alpentec AG from [[modul:wirtschaft-politik-26-wirtschaftspolitik-standort]] makes measuring instruments and sells them in Switzerland and several EEA countries. Explain in four to five sentences why Liechtenstein's dual role makes it an attractive location for Alpentec. Use the terms market access, customs area, EEA and single market.",
+     "hint": "Imagine the alternative: what would change for Alpentec if Liechtenstein were only in the Swiss customs area – or only in the EEA? Which customers would then be harder to reach?",
+     "solution": "Example answer: ‘Alpentec sells measuring instruments in two directions – to Switzerland and to the EEA. Thanks to the customs area with Switzerland, the instruments reach Swiss customers without customs checks or duties, as though they were domestic sales. Thanks to EEA membership, free movement of goods also applies throughout the European single market – giving Alpentec access to around 450 million potential customers. This access to both markets is a location factor that no other country offers in the same way: if Liechtenstein belonged to only one of the two areas, trade with the other would become more complicated and expensive. For an export business such as Alpentec, this is a concrete reason to stay in this location.’"
+    },
+    {
+     "prompt": "Explain it to someone: in no more than five sentences, explain to someone you know the difference between the EU and the EEA – and why Liechtenstein has a dual role. Use the terms single market, EEA, customs treaty and franc. Then use this module's diagram to check whether your explanation is correct.",
+     "hint": "Start with the single market (what it is), then explain who participates (the EU states plus Iceland, Liechtenstein and Norway through the EEA) – and finally explain Liechtenstein's additional links with Switzerland.",
+     "solution": "Example explanation: ‘The EU states form a single market in which goods, services, people and capital can move freely across borders. The EEA extends this single market to Iceland, Liechtenstein and Norway – so these countries participate without being EU members. Liechtenstein has been in the EEA since 1995. In addition, it has shared a customs area with Switzerland through the customs treaty since 1924 and uses the Swiss franc. Because Switzerland itself is not in the EEA, Liechtenstein is the only country that belongs to both economic areas – that is its dual role.’ Your explanation is successful if you use all four terms correctly."
+    }
+   ]
+  }
+ ]
+}
