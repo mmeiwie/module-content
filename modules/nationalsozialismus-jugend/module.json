@@ -1188,7 +1188,7 @@
     "geschichte.nationalsozialismus.jugend-erklaeren",
     "geschichte.methoden.quellen-beurteilen"
    ],
-   "intro": "Deine Antworten gehen an deine Lehrperson. Aufgaben 1 und 2 sind für alle gedacht, Aufgabe 3 ist als **(Erweitert)** gekennzeichnet.",
+   "intro": "Deine Antworten gehen an deine Lehrperson. Aufgaben 1 und 2 sind für alle gedacht, die Aufgaben 3 und 4 sind als **(Erweitert)** gekennzeichnet.",
    "tasks": [
     {
      "id": "k5-t1",
@@ -1207,6 +1207,12 @@
      "prompt": "(Erweitert) Erkläre in drei bis fünf Sätzen, warum Rauschnings «Gespräche mit Hitler» nicht als Quelle für Hitlers Erziehungsziele taugen – und was man stattdessen als Quelle nehmen könnte.",
      "hint": "Nutze die vier Prüffragen (Wer? Wann? Warum? Forschungsstand?). Welche Texte hat Hitler selbst geschrieben oder öffentlich gehalten?",
      "solution": "Beispielantwort: Rauschning hatte Hitler nur wenige Male kurz getroffen und veröffentlichte die angeblichen Gespräche erst 1939/40 im Exil; er hatte sich vom Regime abgewandt und wollte vor Hitler warnen – er war also kein neutraler Zeuge. Die Forschung hat gezeigt, dass die Gespräche aus anderen Texten zusammengesetzt und teils erfunden sind. Verlässlicher sind Hitlers eigene Texte und Reden – etwa «Mein Kampf» oder die Rede vor der HJ 1935 – und die Gesetze wie das HJ-Gesetz von 1936, weil sie belegen, was das Regime wirklich wollte und tat."
+    },
+    {
+     "id": "k5-t4",
+     "prompt": "(Erweitert) Ordne die Weiße Rose in die Formen des Neinsagens ein, die du in diesem Modul kennengelernt hast. Vergleiche sie in drei bis fünf Sätzen mit Helmuth Hübener: Was hatten beide gemeinsam, worin unterschieden sie sich (Alter, Ort, Mittel)?",
+     "hint": "Beide Gruppen verteilten Flugblätter – was stand darauf, und wer waren die Verfasser? Denk an Hamburg oder München und daran, ob es Jugendliche oder Studierende waren.",
+     "solution": "Beispielantwort: Die Weiße Rose steht wie Helmuth Hübener auf der härtesten Stufe des Neinsagens, dem Flugblatt: Beide verteilten heimlich Flugblätter gegen das Regime und wurden dafür hingerichtet. Hübener war erst 16, als er in Hamburg begann, Nachrichten der BBC weiterzugeben; die Weiße Rose bestand aus Studierenden und einem Professor in München, deren eigene Flugblätter zum Widerstand gegen Regime und Krieg aufriefen. Beide Fälle zeigen, dass es Neinsagen auch unter größtem Druck gab."
     }
    ]
   },
